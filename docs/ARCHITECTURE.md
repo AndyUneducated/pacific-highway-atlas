@@ -22,7 +22,7 @@ order of magnitude and the failure they diagnose, not as facts about the network
 | [2. Three kinds of figure](#2-three-kinds-of-figure) | the accuracy rule the design serves |
 | [3. From fragments to routes](#3-from-fragments-to-routes) | the stitching algorithm |
 | [4. Client](#4-client) | modules, boot, loading strategy |
-| [5. Systems and tiers](#5-systems-and-tiers) | eight systems, three countries |
+| [5. Systems and tiers](#5-systems-and-tiers) | fourteen systems, six countries and regions |
 | [5a. What the states report: HPMS](#5a-what-the-states-report-hpms) | the one measured source |
 | [6. Source quirks worth knowing](#6-source-quirks-worth-knowing) | every trap, and its handling |
 | [7. Checks](#7-checks) | what is enforced, and how |
@@ -200,7 +200,7 @@ fields and the tier codes are defined once there, so the build and the page cann
 disagree about them.
 
 **Why offline.** Route reconstruction is a shortest-path search over a graph built from
-every road fragment in three countries. It takes tens of minutes and several gigabytes of
+every road fragment in six countries and regions. It takes tens of minutes and several gigabytes of
 source shapefiles. Doing it once and shipping the answer is the difference between a site
 that loads in a second and one that cannot exist.
 
@@ -638,7 +638,7 @@ Everything the client reads is in `data/`, and the shapes are fixed.
 | --- | --- | --- |
 | `index.json` | `{ generated, fields, routes: [][] }` | positional rows, not objects — the field names are given once in `fields` rather than repeated twenty-one thousand times |
 | `geo/*.json` | GeoJSON `FeatureCollection` | one `Feature` per route, `MultiLineString`; the full metrics ride in `properties` |
-| `stats.json` | `{ bySystem, byState, byType, sources, mxBoundaries, mxTraffic, hpmsYear, caTraffic, canada, accuracy }` | aggregates for the dashboard, plus the build's own accuracy summary, which the README quotes |
+| `stats.json` | `{ bySystem, byState, byType, byTypeCc, sources, eastAsia, mxBoundaries, mxTraffic, twTraffic, twIri, hpmsYear, caTraffic, caLengths, canada, accuracy }` | aggregates for the dashboard, plus the build's own accuracy summary, which the README quotes |
 | `crossings.json` | GeoJSON `FeatureCollection` of points, plus `sources`, `counts`, `unplaced` | one crossing each, saying how it was placed and which routes lie within `nearKm` |
 | `tolls.json` | GeoJSON `FeatureCollection`, plus `facilities`, `titles`, `byRoute` | the drawn Canadian facilities; Mexico's toll plazas as points of `kind: "plaza"` carrying their own properties; Mexican concession titles keyed by route for the panel |
 | `bridges.json` | `{ sets, missing, roads, fields, rows }`, positional rows as `index.json` | one structure per row; `set` indexes the inventory, `road` indexes `roads`; the browser builds the GeoJSON |
@@ -675,9 +675,10 @@ place, a search for a number returns a column of identical rows.
 
 ## 5. Systems and tiers
 
-Eight systems in three countries, defined once in `assets/schema.js`. The three sets of
-tiers are not equivalents of one another, which is why the interface groups them by
-country rather than listing all eight as one ladder.
+Fourteen systems in six countries and regions, defined once in `assets/schema.js`. The sets
+of tiers are not equivalents of one another, which is why the interface groups them by
+country rather than listing them as one ladder. Macao numbers none of its roads, so it has
+no system.
 
 | Country | System | Tier meaning | Default |
 | --- | --- | --- | --- |
@@ -689,6 +690,12 @@ country rather than listing all eight as one ladder.
 | CA | Provincial & Municipal Route | every other numbered route, loaded per province | off |
 | MX | Federal Highway | a carretera federal, numbered MEX-xxx; administrative, not functional | on |
 | MX | State Highway | a carretera numbered by the state that administers it, loaded per state | off |
+| CN | National Expressway (国家高速) | G with one, two or four digits, from OpenStreetMap (D-66) | on |
+| CN | National Highway (普通国道) | G with three digits | off |
+| CN | Provincial Road (省道) | S numbers, each province's own (D-67), loaded per province | off |
+| TW | National Freeway (國道) | the numbered freeways and their lettered spurs | on |
+| TW | Provincial Highway (省道) | 台1 up, the 快速公路 included | off |
+| HK | Strategic Route | Routes 1 to 10 | on |
 
 **Why Mexico's tiers say who maintains a road.** The Red Nacional de Caminos has no
 functional classification, so nothing in it means "freeway". What it records is the body

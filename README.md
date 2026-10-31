@@ -60,7 +60,7 @@ Kong's strategic routes.
 
 > [!NOTE]
 > **Counts move; method does not.** Every route total, mileage and percentage on this page
-> is written from the published build dated **<!-- auto:date -->2026-10-20<!-- /auto:date -->** by
+> is written from the published build dated **<!-- auto:date -->2026-10-31<!-- /auto:date -->** by
 > `tools/readme-figures.mjs`, which `npm test` runs, and changes whenever the pipeline is
 > re-run. The rules those numbers obey are in [On accuracy](#on-accuracy) and do not change.
 
@@ -124,7 +124,7 @@ flowchart LR
 
 ## Coverage
 
-<!-- auto:summary -->28,290 routes across 147 states, provinces, territories and counties in 6 countries and regions, measuring 1,208,817 miles of road, in the build dated 2026-10-20.<!-- /auto:summary -->
+<!-- auto:summary -->28,290 routes across 147 states, provinces, territories and counties in 6 countries and regions, measuring 1,208,817 miles of road, in the build dated 2026-10-31.<!-- /auto:summary -->
 
 <!-- auto:coverage -->
 | Country | System | Routes | Miles | Notes |
@@ -147,7 +147,9 @@ flowchart LR
 
 Nunavut has no numbered route in the national road file, and no road connects it to the
 rest of Canada, so it appears in no tier. In Mexico only numbered roads become routes; the
-unnumbered network is drawn as faint background (see [Known gaps](#known-gaps)).
+unnumbered network is drawn as faint background (see [Known gaps](#known-gaps)). Macao numbers
+none of its roads, so it has no routes to draw; its crossings with the mainland are drawn, on the
+mainland side (D-82).
 
 ## On accuracy
 
@@ -180,108 +182,39 @@ The long form, with worked examples and which provinces publish traffic, is in
 
 ## Known gaps
 
-"Source" means no publisher releases it in a usable form; "pending" means it is available and
-not yet built. Each is explained in full in [docs/ACCURACY.md](docs/ACCURACY.md#6-known-gaps).
+What the atlas does not show, and why, is a register in
+**[docs/ACCURACY.md §6](docs/ACCURACY.md#6-known-gaps)**: each gap is a *source* gap (no
+publisher releases it in a usable form), *pending* (available, not yet built) or *not planned*
+(available, decided against). The ones a reader meets first:
 
-| Country | Gap | Kind | In short |
-| --- | --- | --- | --- |
-| 🇲🇽 | Opening years | source | neither INEGI nor SICT publishes them; bridge years are not used to date roads |
-| 🇲🇽 | Most state highways | source | most states do not number their roads, and only numbered roads become routes |
-| 🇲🇽 | Toll and free twins | source | the road file rarely writes the D suffix, so MEX-15 and MEX-15D share a number |
-| 🇲🇽 | Which state a federal road is in | source | located against Natural Earth's 1:10m boundaries |
-| 🇲🇽 | Route ends | source | given as the SICT section, not a town |
-| 🇲🇽 | Unnumbered roads, traffic off numbered roads | source | background only; stations not placed |
-| 🇲🇽 | Official speed limits | source | `VELOCIDAD` is not a posted limit; OpenStreetMap's are shown, over 78% of federal and 31% of state road length |
-| 🇲🇽 | State route numbers differ between agencies | source | INEGI and SICT number independently; detail in `mx-crosscheck.json` |
-| 🇲🇽 | How many crossings the northern border has | source | INDAABIN, IMT and NADB counts disagree; INDAABIN's 45 are drawn |
-| 🇲🇽 | Which road a concession is on | source | 41 of 75 titles linked: 6 by number, 35 by accepted name matches |
-| 🇲🇽 | Spanish interface; Mexico in the numbering explainer | pending | not built |
-| 🇲🇽 | CAPUFE toll-road traffic and tariffs | pending | published separately, not yet read |
-| 🇨🇦 | Traffic in BC, SK, MB, NL, YT, NU | source | not published in machine-readable form |
-| 🇨🇦 | Opening years outside Quebec | source | only Saskatchewan's Trans-Canada completion is dated |
-| 🇨🇦 | Nova Scotia counts on unnumbered roads | source | 8 of 111 counted highways have no route in the national file |
-| 🇨🇦 | Where the Canadian crossings are | source | CBSA gives addresses, not coordinates; 2 of 116 not placed |
-| 🇨🇦 | A register of toll facilities; undated fares | source | none exists; the seven shown are assembled by hand |
-| 🇨🇦 🇲🇽 CN | Which road a crossing is on | source | no register says; routes within 2 km are listed |
-| CN HK | Where the mainland's ports are | source | listed by name only; placed from OpenStreetMap, 15 of 84 not placed |
-| CN | An authoritative geometry | source | Tianditu refuses foreign requests; the mainland is drawn from OpenStreetMap, which no authority stands behind |
-| CN | Official lengths, traffic, toll share | source | not published per route; the OSM toll tag is too sparse to measure |
-| CN | Speed limits | source | OpenStreetMap tags a limit on 18% of expressway and under 10% of other length; the rest shows the statutory default, marked as such |
-| 🇺🇸 🇨🇦 | Speed limits off the reported network | source | 41–69% of US and 44–51% of Canadian length has a posted limit; defaults differ by state and province, so the rest is left blank |
+- **Mexico**: no opening years, most state roads unnumbered, toll and free twins sharing a
+  number, route ends given as SICT sections rather than towns.
+- **Mainland China**: drawn from OpenStreetMap, since no authority publishes geometry readable
+  from abroad; no official lengths, traffic or toll share per route.
+- **Canada**: traffic unpublished in six jurisdictions; official lengths only in six provinces.
+- **Speed limits**: shown only where a source posts one; the rest is left blank, never filled
+  with a default.
+- **Not planned**: a Spanish interface, CAPUFE toll-road data, Canadian pavement condition.
 
 ## Data sources
 
-In short below. **[docs/DATA-SOURCES.md](docs/DATA-SOURCES.md)** is the full register: the
-standard a source must meet, the edition and retrieval date of each, how to update or
-correct one, every decision about how it is used, and the data issues still open.
+Every source, with its edition, retrieval date, licence and the decisions about its use, is in
+**[docs/DATA-SOURCES.md](docs/DATA-SOURCES.md)**, which the site also shows on its Data &
+Sources page. In short:
 
-### United States
-
-| Source | Used for | Licence |
+| Country | Geometry and designation | What the authorities report |
 | --- | --- | --- |
-| [US Census TIGER/Line](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html) 2025 primary and secondary roads, 52 files | route geometry and designations | public domain |
-| [FHWA HPMS](https://data.transportation.gov/Roadways-and-Bridges/HPMS-Spatial-All-Sections-2024/42um-tgh5) *Spatial All Sections* 2024 | traffic counts, truck volumes, pavement roughness, rutting, cracking, lanes, speed limits, tolls, year last improved | US government work |
-| [US Census Gazetteer](https://www.census.gov/geographies/reference-files/time-series/geo/gazetteer-files.html) 2023 places | terminus naming | public domain |
-| [FHWA Route Log and Finder List](https://www.fhwa.dot.gov/planning/national_highway_system/interstate_highway_system/routefinder/) | official Interstate mileage, urban areas served | US government work |
-| FHWA *Interstate System Mileage Open to Traffic*, 1960–1997 | the buildout curve | US government work |
-| [BTS *Border Crossing Entry Data*](https://data.bts.gov/Research-and-Statistics/Border-Crossing-Entry-Data/keg4-3bc2) | checking where the Canadian crossings were placed, against the US port opposite | public domain |
-| [FHWA *National Bridge Inventory*](https://www.fhwa.dot.gov/bridge/nbi.cfm) 2025 | the bridges that carry an atlas route, with year built, for the bridge layer | public domain |
+| 🇺🇸 | US Census TIGER/Line 2025 (public domain) | FHWA HPMS 2024, Route Log, National Bridge Inventory; BTS border data |
+| 🇨🇦 | Statistics Canada National Road Network, Transport Canada NHS (OGL – Canada) | provincial traffic files and section inventories, CBSA offices, Ontario and Quebec bridges, toll operators |
+| 🇲🇽 | INEGI / SICT / IMT *Red Nacional de Caminos* 2025 (Libre Uso) | SICT *Datos Viales* traffic, federal bridges, concession titles; INDAABIN border ports |
+| CN | [OpenStreetMap](https://www.openstreetmap.org/copyright) via Geofabrik ([ODbL 1.0](https://opendatacommons.org/licenses/odbl/1-0/), © OpenStreetMap contributors) | the 2022 national highway plan; the National Office of Port Administration's port list |
+| TW | NLSC centrelines; Highway Bureau register (OGDL 1.0) | Freeway Bureau sections, tolls and volumes; Highway Bureau survey and roughness |
+| HK | Transport Department *Road Network* | Annual Traffic Census, toll tables |
 
-### Canada
-
-| Source | Used for | Licence |
-| --- | --- | --- |
-| [Statistics Canada National Road Network](https://www.statcan.gc.ca/en/lode/databases/odr) (NRN) | route geometry, road class, lanes, posted speed, surface, place names | Open Government Licence – Canada |
-| [Transport Canada National Highway System](https://open.canada.ca/data/en/dataset/2dac78ba-8b48-4bec-8290-cbdda8474f97) | Core / Feeder / Northern and Remote designation | Open Government Licence – Canada |
-| Transport Canada *NHS Annual Report* 2017 | published NHS mileage by jurisdiction and tier | Open Government Licence – Canada |
-| [Québec *Débit de circulation*](https://www.donneesquebec.ca/recherche/dataset/debit-de-circulation) | DJMA and heavy-vehicle share, Quebec | CC-BY 4.0 |
-| [Ontario *Provincial Highways Traffic Volumes*](https://www.library.mto.gov.on.ca/SydneyPLUS/TechPubs/Portal/tp/tvSplash.aspx) 2024 | AADT, Ontario | no licence stated by the publisher |
-| [Alberta *Traffic volumes on links in the highway network*](https://open.alberta.ca/opendata/traffic-volumes-on-links-in-the-highway-network) 2025 | WAADT and commercial share, Alberta | Open Government Licence – Alberta |
-| [Nova Scotia *Traffic Volumes – Provincial Highway System*](https://data.novascotia.ca/Roads-Driving-and-Transport/Traffic-Volumes-Provincial-Highway-System/8524-ec3n) | AADT, truck share, 85th-percentile speed | Open Government Licence – Nova Scotia |
-| [New Brunswick *AADT counts at point locations*](https://gnb.socrata.com/datasets/gdx2-xdus) 2023 | AADT, New Brunswick | Open Government Licence – New Brunswick |
-| [Prince Edward Island *Traffic Volumes*](https://www.princeedwardisland.ca/en/service/view-pei-traffic-volumes) 2015–2018 | AADT, Prince Edward Island | Open Government Licence – Prince Edward Island |
-| [GNWT Bureau of Statistics, *Estimated Traffic on NWT Highways*](https://www.statsnwt.ca/Transportation/) | estimated AADT, Northwest Territories | Open Government Licence – Northwest Territories |
-| [CBSA *Directory of CBSA Offices*](https://open.canada.ca/data/en/dataset/1018c301-d359-4077-8d9b-4e9fbe6a223f) | the Canada–US crossings, as the offices offering highway border service | Open Government Licence – Canada |
-| [NRCan Geolocation Service](https://geogratis.gc.ca/services/geolocation/en/locate) | placing those offices from their addresses, and the ends of the toll stretches | Open Government Licence – Canada |
-| [Ontario *Bridge conditions*](https://data.ontario.ca/dataset/bridge-conditions) | 5,053 provincial structures with year built, for the bridge layer | Open Government Licence – Ontario |
-| [Québec *Structure*](https://www.donneesquebec.ca/recherche/dataset/structure) | 5,181 structures on the numbered routes with year built, for the bridge layer | CC-BY 4.0 |
-| [407 ETR](https://407etr.com/en/travel-with-us) and [IPC Ontario Order PO-1976](https://www.ipc.on.ca/sites/default/files/legacy/2016/08/PO-1976.pdf) | 407 ETR's length, concession term and tolling | operator's terms; IPC order public |
-| Transport Canada [briefing binder (2025)](https://tc.canada.ca/en/binder/26-confederation-bridge-tolls) and [2023 briefing](https://tc.canada.ca/en/corporate-services/transparency/briefing-documents-transport-canada/2023/current-topics/confederation-bridge); [Parliamentary Budget Officer](https://www.pbo-dpb.ca/en/publications/LEG-2526-004-S--reducing-tolls-confederation-bridge-fares-wood-islands-caribou-ferry--reduction-droits-peage-pont-confederation-tarifs-traversier-wood-islands-caribou) (December 2025) | Confederation Bridge operator, agreements and dated tolls | Government of Canada terms |
-| [Highway 104 Western Alignment Regulations](https://novascotia.ca/just/regulations/regs/HW104reg.htm), the corporation's [2023–24 annual report](http://www.highway104.ns.ca/ar-2024.pdf), [cobequidpass.com](https://cobequidpass.com/tollfees) | Cobequid Pass length, opening, exemptions and toll | Nova Scotia terms; operator's terms |
-| [Federal Bridge Corporation](https://federalbridge.ca/portfolio-of-assets/) and the bridge operators: [Blue Water](https://bluewaterbridge.ca/toll-rates/), [Sault Ste. Marie](https://www.saultbridge.com/toll-rates-auto/), [Thousand Islands](https://tibridge.com/toll-rates/), [Seaway](https://sibc.ca/the-seaway-international-bridge-corporation-ltd-announces-toll-rate-adjustment-2/); [MDOT](https://www.michigan.gov/mdot/news-outreach/pressreleases/2026/09/14/toll-rollback-coming-to-international-bridge-oct-31) | ownership of the four international bridges, their tolls and dates | operators' terms |
-
-### Mexico
-
-| Source | Used for | Licence | Refresh |
-| --- | --- | --- | --- |
-| [INEGI / SICT / IMT *Red Nacional de Caminos*](https://www.inegi.org.mx/programas/rnc/) 2025, `red_vial` and `plaza_cobro` | route geometry, designation (CODIGO), administering body, toll flag, lanes, surface, divided; toll plazas | Términos de Libre Uso (INEGI) | annual, each December |
-| [SICT *Datos Viales*](https://www.datos.gob.mx/dataset/datos_viales) 2013–2024 | TDPA and vehicle mix at 12,263 count stations; 2023 in the twelve states the 2024 edition cuts short | Términos de Libre Uso MX | annual |
-| [SICT *Puentes de la Red Federal libre de peaje*](https://datos.gob.mx/dataset/puentes-de-la-red-federal-de-carreteras-libres-de-peaje) | 9,818 federal bridges with year built, for the bridge layer | Libre Uso MX | as SICT republishes |
-| SICT *Datos Viales* 2025, per-state PDF indexes | which roads SICT lists, their numbers and names; the names link concession titles to routes | no licence statement on the PDFs | annual; file names and layout changed between 2024 and 2025 |
-| [INDAABIN *Puertos fronterizos*](https://www.datos.gob.mx/dataset/puertos_fronterizos_centros_atencion_transito_fronterizo) 2025 list | the Mexican border crossings, north and south, with coordinates | CC BY 4.0 | the newer quarterly lists drop the coordinates |
-| [SICT *Títulos de Concesión*](https://micrs.sct.gob.mx/infraestructura/direccion-general-de-desarrollo-carretero/titulos-de-concesion/) | the 75 federal highway concession titles, with concessionaire, grant and end dates | none stated on the page | as SICT updates the page |
-| [Natural Earth](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-1-states-provinces/) Admin 1, 1:10m | locating federal segments and border ports within states; distance to the US border | public domain | rarely |
-
-### Mainland China
-
-The one source in the atlas that is not an authority: no Chinese body publishes road
-geometry that can be read from abroad ([D-66](docs/DATA-SOURCES.md#mainland-china-1)).
-The data under `data/geo/cn/` is derived from it and is available under the same licence.
-
-| Source | Used for | Licence |
-| --- | --- | --- |
-| [OpenStreetMap](https://www.openstreetmap.org/copyright), through [Geofabrik's China extract](https://download.geofabrik.de/asia/china.html) | geometry, G and S numbers, road class, route names and planned ends, the towns that name route ends | [Open Database License 1.0](https://opendatacommons.org/licenses/odbl/1-0/), © OpenStreetMap contributors |
-| 国家发展改革委、交通运输部《国家公路网规划》(2022), as [Chinese Wikipedia](https://zh.wikipedia.org/wiki/中华人民共和国国道) lists it | the main routes counted in the coverage table; each main route's planned name and listed length | government publication; Wikipedia text [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
-| 国家口岸管理办公室《全国口岸开放一览表》(as of 2024-09-30), placed through OpenStreetMap's Overpass and Nominatim | the 84 highway ports on the crossings layer | government publication; placements © OpenStreetMap contributors, ODbL |
-
-### All three
-
-| Source | Used for | Licence |
-| --- | --- | --- |
-| [OpenStreetMap](https://www.openstreetmap.org/copyright), through Geofabrik's China, Taiwan and Mexico extracts | `maxspeed` on the roads carrying an atlas route number, for the speed-limit layer in Mexico, China, Taiwan and Hong Kong (`data/speed.json`) | [Open Database License 1.0](https://opendatacommons.org/licenses/odbl/1-0/), © OpenStreetMap contributors |
-| [Terrain Tiles](https://registry.opendata.aws/terrain-tiles/) (AWS Open Data) | elevation profiles | open data |
-| [OpenFreeMap](https://openfreemap.org/) | vector basemap | open |
-| [Esri World Imagery](https://www.arcgis.com/home/item.html?id=10df2279f9684e4a9f6a7f08febac2a9) | satellite basemap | Esri terms |
+The data under `data/geo/cn/` is derived from OpenStreetMap and is available under the same
+licence ([D-66](docs/DATA-SOURCES.md#mainland-china-1)). Across all of them: OpenStreetMap
+speed limits, lanes and structures where no authority publishes them, labelled as such; AWS
+Terrain Tiles for elevation; OpenFreeMap and Esri World Imagery as basemaps.
 
 ## Dependencies
 
@@ -326,7 +259,7 @@ sit in the repository. The scripts below rebuild the *data*.
 | `npm run fetch:borders` | CBSA and INDAABIN crossing lists; geocodes the Canadian offices; places the mainland's ports from OpenStreetMap | `content/reference/border-crossings.json`, `cn-crossings.json` |
 | `npm run fetch:tolls` | SICT's concession register (Canadian facilities are kept by hand in `tolls-ca.json`) | `content/reference/mx-concessions.json` |
 | `npm run fetch:all` | every fetch above, in order | all of the above |
-| `npm run build` | `build-data`, `build-crossings`, `build-bridges`, `build-tolls`, `build-content` | `data/` |
+| `npm run build` | every `build-*` step, `build-data` first and `build-insights` last | `data/` |
 | `npm run build:elevation` | samples terrain along curated routes | `data/elevation/` |
 | `npm run propose:tolls` | proposes concession-to-route matches for review | `content/reference/mx-concession-matches.json` |
 | `npm run check:mx` | cross-checks Mexican route numbers against SICT | `content/reference/mx-crosscheck.json` |
@@ -344,7 +277,7 @@ npm run verify          # headless run-through against the served site
 ```
 
 `build-data.mjs` is the slow step: a shortest-path search over a graph built from every road
-fragment in five countries and regions, taking tens of minutes. It needs no network once the sources are
+fragment in six countries and regions, taking tens of minutes. It needs no network once the sources are
 on disk, except that TIGER/Line and Natural Earth download themselves on first use.
 
 ## Working on a second machine
@@ -386,7 +319,9 @@ one re-run. None of it can be committed; GitHub rejects files over 100 MB.
 | `content/dossiers/` | ✅ | hand-written route profiles, English and Chinese |
 | `content/reference/` | ✅ | sourced extracts and hand-kept records, each with its sources |
 | `data/` | ✅ | the build's output, and the only thing the site reads |
-| `docs/` | ✅ | architecture, accuracy, and the images on this page |
+| `test/` | ✅ | unit tests, run by `npm test` |
+| `docs/` | ✅ | architecture, sources, accuracy, roadmap, the dossier brief, and the images on this page |
+| `AGENTS.md` | ✅ | the short version for anyone, or any agent, changing the code: commands, rules, which document to update |
 | `tools/src/`, `tools/cache/`, `tools/shots/` | ❌ | downloads, tile cache, verification screenshots |
 
 ## Licence
