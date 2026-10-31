@@ -1,0 +1,89 @@
+{
+  "id": "mex-307-roo",
+  "route": { "sys": "mx-federal", "num": "307", "anchor": [-87.4654, 20.2114] },
+  "name": { "en": "Federal Highway 307 (Chetumal–Cancún, the Riviera Maya highway)", "zh": "307 号联邦公路（切图马尔—坎昆，玛雅海滨公路）" },
+  "aka": [
+    { "en": "Carretera Reforma Agraria–Puerto Juárez, its name in the federal road data", "zh": "雷福尔马阿格拉里亚—华雷斯港公路（联邦道路数据中的名称）" },
+    { "en": "Carretera Cancún–Tulum; Carretera Chetumal–Cancún", "zh": "坎昆—图卢姆公路；切图马尔—坎昆公路" },
+    { "en": "“La 307”", "zh": "“307 号路”（La 307）" }
+  ],
+  "tagline": { "en": "The only road between Cancún and Tulum: a track through the forest of a federal territory in the 1960s, now the high street of the Riviera Maya, with a ten-year-old sinkhole and a railway that nearly ran down its middle", "zh": "坎昆与图卢姆之间唯一的公路：1960 年代还是联邦属地森林中的土路，如今是玛雅海滨的主街——路上有一个存在了十年的塌陷坑，还有一条险些从路中央穿过的铁路" },
+  "termini": {
+    "start": { "at": [-88.464, 18.526], "en": "Reforma Agraria, west of Chetumal, at the junction with Federal Highway 186 from Escárcega", "zh": "切图马尔以西的雷福尔马阿格拉里亚，与来自埃斯卡塞加的 186 号联邦公路交会处" },
+    "end": { "at": [-86.85, 21.038], "en": "Puerto Juárez, Cancún, at the junction with Federal Highway 180 from Mérida", "zh": "坎昆华雷斯港，与来自梅里达的 180 号联邦公路交会处" }
+  },
+  "sections": [
+    {
+      "key": "character",
+      "en": [
+        "This piece of Federal Highway 307 runs the length of Quintana Roo. From Reforma Agraria, on Highway 186 west of Chetumal, it goes north by Bacalar and Felipe Carrillo Puerto, then up the Caribbean coast through Tulum, Akumal, Puerto Aventuras, Playa del Carmen and Puerto Morelos to Puerto Juárez in Cancún. English Wikipedia, from the 2011 road data, gives it 361 km; Spanish Wikipedia, from the ministry's national map, 366 km. A second, separate Highway 307 runs 458 km through eastern Chiapas from near Palenque round the Montes Azules reserve to La Trinitaria.",
+        "North of Tulum it is the spine of the Riviera Maya. El Financiero called it in 2022 the only road giving access to both Cancún and the Riviera, the country's two most important tourist centres. It is a free road, and widening, bypasses and repairs have been carried out on it a section at a time."
+      ],
+      "zh": [
+        "307 号联邦公路的这一段纵贯金塔纳罗奥州。它从切图马尔以西 186 号公路上的雷福尔马阿格拉里亚起，向北经巴卡拉尔和费利佩卡里略港，然后沿加勒比海岸北上，经图卢姆、阿库马尔、冒险港、卡门海滩和莫雷洛斯港，抵达坎昆的华雷斯港。英语维基百科依据 2011 年道路数据给出 361 公里；西班牙语维基百科依据交通部全国地图给出 366 公里。另有一条独立的 307 号公路，在恰帕斯州东部从帕伦克附近绕过蒙特斯阿苏莱斯保护区，延伸 458 公里至拉特立尼塔里亚。",
+        "图卢姆以北，它是玛雅海滨的脊梁。《金融家报》2022 年称，它是通往坎昆和玛雅海滨这两个全国最重要旅游区的唯一道路；这是一条免费公路，拓宽、绕城和维修工程都是一段一段进行的。"
+      ]
+    },
+    {
+      "key": "history",
+      "en": [
+        "In the 1960s the federal territory of Quintana Roo had little infrastructure, few roads, much forest and few people, as a 2020 account by the chroniclers of Felipe Carrillo Puerto, published by Quadratín and Por Esto, put it. From 1964, under the territory's governor Rufo Figueroa, the road network was extended north to join Felipe Carrillo Puerto with Tulum and Playa del Carmen; under his successor Javier Rojo Gómez, later in the decade, the Puerto Juárez–Playa del Carmen road was paved and the Felipe Carrillo Puerto–Tulum road built as an earth track. Cancún was begun as a planned resort at the turn of the 1970s, and Quintana Roo became a state on 8 October 1974.",
+        "The road grew with the coast's hotels. Between March 2005 and December 2008 a federal contract worth 201.7 million pesos widened and modernised the Tulum–Playa del Carmen section from kilometre 228.5 to 248.3. In March 2010 President Felipe Calderón confirmed a further 2,500 million pesos to continue widening Tulum–Cafetal, and that September the ministry filed the environmental statement for a 25.84 km bypass of Tulum with a branch to a planned Riviera Maya airport, put at 1,425 million pesos.",
+        "The Maya Train brought the road to national attention. In March 2021 the army, building the Cancún–Playa del Carmen stretch, announced that it would carry the line on a viaduct along the highway's median. Sinkholes and the protests of Riviera hoteliers over the damage to the 307 led to a change: by January 2022 the 50 km elevated section had been dropped and the line moved to the corridor of the electricity company's power lines beside the road, and on 19 January the elevated works already begun through Playa del Carmen were suspended, with the northern stretch to run inland instead."
+      ],
+      "zh": [
+        "费利佩卡里略港的地方史家 2020 年在 Quadratín 和《就是这样！》（Por Esto）发表的记述中写道，1960 年代的金塔纳罗奥联邦属地基础设施匮乏，道路稀少，森林茂密，人口稀疏。1964 年起，在属地总督鲁福·菲格罗亚任内，路网向北延伸，把费利佩卡里略港与图卢姆和卡门海滩连接起来；在 1960 年代后期接任的哈维尔·罗霍·戈麦斯任内，华雷斯港—卡门海滩公路得以铺装，费利佩卡里略港—图卢姆公路则修成了土路。坎昆作为规划中的度假区在 1970 年前后起步，金塔纳罗奥于 1974 年 10 月 8 日建州。",
+        "这条路随着海岸的酒店一同扩展。2005 年 3 月至 2008 年 12 月，一份金额 2.017 亿比索的联邦合同对图卢姆—卡门海滩段第 228.5 至 248.3 公里进行了拓宽改造。2010 年 3 月，费利佩·卡尔德龙总统确认再投入 25 亿比索继续拓宽图卢姆—卡费塔尔段；同年 9 月，交通部提交了图卢姆绕城公路的环境影响报告：主线 25.84 公里，另有通往规划中玛雅海滨机场的支线，投资估算 14.25 亿比索。",
+        "玛雅铁路让这条公路成为全国焦点。2021 年 3 月，负责修建坎昆—卡门海滩段的军方宣布，要在公路中央分隔带上以高架桥承载铁路。塌陷坑问题以及玛雅海滨酒店业者对 307 号公路受损的抗议促成了改线：到 2022 年 1 月，50 公里的高架段已被取消，线路移到公路旁电力公司高压线走廊一侧；1 月 19 日，已在卡门海滩开工的高架工程被叫停，北段改走内陆。"
+      ]
+    },
+    {
+      "key": "condition",
+      "en": [
+        "The limestone underneath is the road's problem. A sinkhole between kilometres 303.5 and 311.9 on the Playa del Carmen–Puerto Morelos stretch, described by the authorities as a geological fault, opened in 2015 and for a decade narrowed the road and caused crashes. The transport ministry repaired it in 2025 for 40.2 million pesos, finishing in July, and described the work as provisional; it announced a bridge over the fault, put at 300 million pesos with twelve months of work. In 2025 Quintana Roo's public works secretary also reported the end of repairs to stretches worn by lorries carrying material for the Maya Train.",
+        "For 2026 the ministry assigned Quintana Roo 575 million pesos for conservation of 900 km of federal road, including 316 km of Highways 180 and 307, with 342 million for 121 km of the Riviera Maya corridor, according to Por Esto."
+      ],
+      "zh": [
+        "地下的石灰岩是这条路的症结。卡门海滩—莫雷洛斯港段第 303.5 至 311.9 公里之间有一处被当局称为地质断层的塌陷坑，自 2015 年出现后十年间一直迫使道路收窄，并引发多起事故。交通部于 2025 年斥资 4,020 万比索进行修复，7 月完工，并称这只是临时措施；它宣布将在断层上方修建一座桥，投资估算 3 亿比索，工期十二个月。2025 年，金塔纳罗奥州公共工程厅长还报告，被运送玛雅铁路建材的卡车压坏的路段已修复完毕。",
+        "据《就是这样！》报道，2026 年交通部为金塔纳罗奥安排 5.75 亿比索，用于养护 900 公里联邦公路，其中包括 180 号和 307 号公路共 316 公里，玛雅海滨走廊 121 公里路段获 3.42 亿比索。"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "label": { "en": "Length", "zh": "长度" },
+      "value": { "en": "361 km in Quintana Roo, from the 2011 Datos Viales, as cited in English Wikipedia; 366 km (Spanish Wikipedia, from the SCT national map). The separate Chiapas piece is 458 km.", "zh": "金塔纳罗奥境内 361 公里，出自 2011 年《道路数据》，据英语维基百科引述；366 公里（西班牙语维基百科，依据交通部全国地图）。另有恰帕斯一段，长 458 公里。" },
+      "source": "SCT, Datos Viales de Quintana Roo and Chiapas 2011, as cited in English Wikipedia, Mexican Federal Highway 307; Spanish Wikipedia, Carretera Federal 307"
+    },
+    {
+      "label": { "en": "Construction cost", "zh": "造价" },
+      "why": { "en": "No public figure. The road was opened in pieces in the 1960s by the government of what was then a federal territory, with federal support, and widened section by section since; the sourced contracts are given below.", "zh": "无公开数据。这条路在 1960 年代由当时的联邦属地政府在联邦支持下分段打通，此后又逐段拓宽；有来源的合同见下文。" }
+    },
+    {
+      "label": { "en": "Funding", "zh": "出资方" },
+      "value": { "en": "Public: the territorial government with federal support in the 1960s, and since then the federal transport ministry, which pays for widening and upkeep from the federal budget. It is a toll-free road.", "zh": "公共资金：1960 年代由属地政府在联邦支持下出资，此后由联邦交通部以联邦预算支付拓宽与养护费用。该路为免费公路。" },
+      "source": "Quadratín Quintana Roo, 5 October 2020; QuienEsQuien.wiki, contract 7-W-CE-A-543-W-0-7; Por Esto, 25 May 2026"
+    },
+    {
+      "label": { "en": "Tulum–Playa del Carmen widening, 2005–2008", "zh": "图卢姆—卡门海滩段拓宽（2005—2008）" },
+      "value": { "en": "201.7 million pesos for kilometres 228.5 to 248.3, contract running from 16 March 2005 to 15 December 2008", "zh": "第 228.5 至 248.3 公里，2.017 亿比索，合同期 2005 年 3 月 16 日至 2008 年 12 月 15 日" },
+      "source": "QuienEsQuien.wiki, contract 7-W-CE-A-543-W-0-7 (federal procurement record)"
+    },
+    {
+      "label": { "en": "Sinkhole repair, 2025", "zh": "塌陷坑修复（2025）" },
+      "value": { "en": "40.2 million pesos, finished July 2025, described as provisional; a permanent bridge over kilometres 303.5–311.9 put at 300 million pesos", "zh": "4,020 万比索，2025 年 7 月完工，被称为临时措施；第 303.5 至 311.9 公里处的永久性桥梁估算 3 亿比索" },
+      "source": "24 Horas Quintana Roo, 24 July 2025; Por Esto, 27 February 2025; Government of Quintana Roo, 13 February 2025"
+    }
+  ],
+  "timeline": [
+    { "year": 1964, "en": "Under Governor Rufo Figueroa the territory's roads begin to be extended north from Felipe Carrillo Puerto towards Tulum and Playa del Carmen.", "zh": "在鲁福·菲格罗亚总督任内，属地道路开始自费利佩卡里略港向北朝图卢姆和卡门海滩延伸。" },
+    { "year": 1974, "en": "Quintana Roo becomes a state on 8 October.", "zh": "10 月 8 日，金塔纳罗奥建州。" },
+    { "year": 2005, "en": "A 201.7 million-peso contract to widen Tulum–Playa del Carmen begins in March.", "zh": "3 月，金额 2.017 亿比索的图卢姆—卡门海滩段拓宽合同开始执行。" },
+    { "year": 2010, "en": "Felipe Calderón confirms 2,500 million pesos to widen Tulum–Cafetal; the ministry files plans for a Tulum bypass.", "zh": "费利佩·卡尔德龙确认投入 25 亿比索拓宽图卢姆—卡费塔尔段；交通部提交图卢姆绕城公路方案。" },
+    { "year": 2015, "en": "A sinkhole opens on the Playa del Carmen–Puerto Morelos stretch.", "zh": "卡门海滩—莫雷洛斯港段出现塌陷坑。" },
+    { "year": 2021, "en": "In March the army announces the Maya Train will run on a viaduct along the highway's median.", "zh": "3 月，军方宣布玛雅铁路将沿公路中央分隔带以高架桥通过。" },
+    { "year": 2022, "en": "In January the elevated route is abandoned and the line moved beside the road; elevated works in Playa del Carmen are suspended on 19 January.", "zh": "1 月，高架方案被放弃，线路移至公路一侧；1 月 19 日，卡门海滩的高架工程被叫停。" },
+    { "year": 2025, "en": "The ten-year-old sinkhole is repaired for 40.2 million pesos; a permanent bridge is announced.", "zh": "存在十年的塌陷坑以 4,020 万比索修复，并宣布将修建永久性桥梁。" },
+    { "year": 2026, "en": "The ministry assigns 575 million pesos to Quintana Roo's federal roads, including 316 km of Highways 180 and 307.", "zh": "交通部为金塔纳罗奥联邦公路安排 5.75 亿比索，其中包括 180 号和 307 号公路共 316 公里。" }
+  ]
+}

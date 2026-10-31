@@ -1,0 +1,92 @@
+{
+  "id": "us-23",
+  "route": { "sys": "us-numbered", "num": "23" },
+  "name": { "en": "U.S. Route 23", "zh": "23 号美国国道" },
+  "aka": [
+    { "en": "Country Music Highway (Kentucky)", "zh": "乡村音乐公路（肯塔基）" },
+    { "en": "Hillbilly Highway", "zh": "山民公路" },
+    { "en": "Columbus–Sandusky Turnpike (in Ohio, the road it grew from)", "zh": "哥伦布—桑达斯基收费道（俄亥俄境内的前身）" }
+  ],
+  "tagline": { "en": "Jacksonville to the Straits of Mackinac, the road eastern Kentucky took north to the factories", "zh": "自杰克逊维尔至麦基诺海峡，肯塔基东部的人们沿着它北上进厂" },
+  "designatedYear": 1926,
+  "termini": {
+    "start": { "en": "US 1 and US 17 (Main Street) at the north edge of downtown Jacksonville, Florida", "zh": "佛罗里达州杰克逊维尔市中心北缘，与 US 1、US 17（主街）相接", "at": [-81.66, 30.33] },
+    "end": { "en": "I-75 at Mackinaw City, Michigan, just south of the Mackinac Bridge approach", "zh": "密歇根州麦基诺城，麦基诺大桥引道以南，与 I-75 相接", "at": [-84.73, 45.77] }
+  },
+  "sections": [
+    {
+      "key": "character",
+      "en": [
+        "US 23 crosses eight states, from Jacksonville through Georgia, the mountains of North Carolina, Tennessee, Virginia and Kentucky, and then north through Ohio and Michigan to the Straits of Mackinac. Georgia carries the most of it. Through Atlanta it is Moreland Avenue, dead straight for several miles along the Fulton–DeKalb county line, then Ponce de Leon Avenue and Buford Highway; north of Gainesville it climbs into the Blue Ridge with US 441 and in North Carolina follows the Great Smoky Mountains Expressway and then I-26 into Tennessee.",
+        "Its Appalachian middle is the part with a reputation. It crosses from Virginia into Kentucky at Pound Gap and runs down the Big Sandy valley through Pikeville, Prestonsburg, Paintsville and Ashland to the Ohio River, every mile of it four-lane since 1999. Kentucky calls it the Country Music Highway, and a sign at each county line names the singers who came from that county, Loretta Lynn and Dwight Yoakam among them.",
+        "North of the river it is an Ohio main street and then a Michigan freeway. It enters Portsmouth, follows the Scioto valley through Chillicothe to Columbus, where it is High Street, and passes Delaware and Marion before joining I-75 at Perrysburg and I-475 round Toledo. In Michigan it bypasses Ann Arbor, shares I-75 for about 74 miles past Flint and Saginaw, and finishes as a two-lane road along the Lake Huron shore through Tawas City, Alpena and Cheboygan."
+      ],
+      "zh": [
+        "US 23 跨越八个州：从杰克逊维尔出发，经佐治亚、北卡罗来纳山区、田纳西、弗吉尼亚与肯塔基，再北上穿过俄亥俄与密歇根，直抵麦基诺海峡。佐治亚境内的里程最长。在亚特兰大，它先是莫兰大道，沿富尔顿县与迪卡尔布县的县界笔直延伸数英里，再转庞塞德莱昂大道与布福德公路；过了盖恩斯维尔，它随 US 441 爬上蓝岭，在北卡罗来纳先走大雾山高速公路，再随 I-26 进入田纳西。",
+        "它在阿巴拉契亚山区的中段最有名气。它在庞德山口由弗吉尼亚进入肯塔基，沿大桑迪河谷经派克维尔、普雷斯顿斯堡、佩恩茨维尔与阿什兰下至俄亥俄河；自 1999 年起，这一段每一英里都是四车道。肯塔基称它为“乡村音乐公路”，每条县界上都有一块牌子，列出出身该县的歌手，其中包括洛蕾塔·林恩与德怀特·约克姆。",
+        "过河以北，它先是俄亥俄的城镇主街，再成为密歇根的高速公路。它进入朴次茅斯，沿锡奥托河谷经奇利科西到哥伦布（在那里它就是高街），经特拉华与马里恩后在佩里斯堡并入 I-75，再随 I-475 绕过托莱多。在密歇根，它绕过安娜堡，与 I-75 共线约 74 英里经弗林特与萨吉诺，最后以双车道公路沿休伦湖岸经塔瓦斯城、阿尔皮纳与奇博伊根到达终点。"
+      ]
+    },
+    {
+      "key": "history",
+      "en": [
+        "The Ohio part is the oldest. A road from Columbus through Worthington and Delaware towards Sandusky Bay was laid out about 1820, and on 31 January 1826 the state chartered the Columbus and Sandusky Turnpike Company to improve it; the next year the federal government granted 31,840 acres in trust to Ohio to finance the work. The turnpike reached Sandusky in 1834, but the company could not keep it up. Travellers called it the Mud Pike and sometimes wrecked its tollgates, and on 28 February 1843 the legislature repealed the company's charter; two years later the road became a public highway.",
+        "US 23 was one of the 1926 routes, running only from US 52 at Portsmouth, Ohio, along the old turnpike to Sandusky and on to Mackinaw City. It was then pushed south in stages: into Kentucky as far as Pikeville in 1929, to Atlanta in 1930, and in 1951 along US 1 to Jacksonville. AASHO turned down two later proposals to carry it further south into Florida.",
+        "In the decades when the Appalachian coalfields shed jobs, US 23 was the road out to Columbus, Detroit and the other industrial cities of the north. It was nicknamed the Hillbilly Highway, and the saying that the region's three R's were reading, writing and Route 23 is the source of Dwight Yoakam's song of nearly that title. The Kentucky General Assembly named the road the Country Music Highway on 1 March 1994, and the Kentucky section was designated a National Scenic Byway in 2002."
+      ],
+      "zh": [
+        "俄亥俄段最为古老。一条自哥伦布经沃辛顿与特拉华通往桑达斯基湾的道路约于 1820 年辟成；1826 年 1 月 31 日，州政府特许成立哥伦布与桑达斯基收费道公司来改善这条路，次年联邦政府以信托方式拨给俄亥俄 31,840 英亩土地为工程筹资。收费道于 1834 年修到桑达斯基，但公司无力养护。行人称之为“泥巴路”，有时还砸毁收费关卡；1843 年 2 月 28 日，州议会撤销了公司的特许状，两年后这条路成为公共道路。",
+        "US 23 是 1926 年的首批路线之一，当时只从俄亥俄州朴次茅斯的 US 52 出发，沿旧收费道至桑达斯基，再通往麦基诺城。此后它分阶段向南延伸：1929 年进入肯塔基至派克维尔，1930 年至亚特兰大，1951 年沿 US 1 至杰克逊维尔。AASHO 后来否决了两项把它继续向南延伸进佛罗里达的提议。",
+        "在阿巴拉契亚煤田不断流失工作岗位的那几十年里，US 23 是通往哥伦布、底特律等北方工业城市的出路。它被称为“山民公路”；“这里的三个 R 是读、写和 23 号公路”这句俗语，正是德怀特·约克姆那首几乎同名的歌的出处。1994 年 3 月 1 日，肯塔基州议会将这条路命名为“乡村音乐公路”；2002 年，肯塔基段被定为国家风景道。"
+      ]
+    },
+    {
+      "key": "money",
+      "en": [
+        "The only early financing on record is the Ohio turnpike's: a chartered company, a federal land grant of 31,840 acres held in trust by the state, and tolls that never paid for upkeep. The modern road has been built and widened by eight states with state and federal-aid money, project by project, and no total has been published. One upgrade cost almost nothing: in 1985 a section near Johnson City, Tennessee, already built to Interstate standards, was signed as I-181, and Johnson City's economic development chief later said all it cost was changing the signs. He credited it as the start of the campaign that carried I-26 over the mountains."
+      ],
+      "zh": [
+        "早期融资有据可查的只有俄亥俄收费道：一家特许公司、一笔由州政府代为托管的 31,840 英亩联邦赠地，以及始终不足以支付养护费用的通行费。现代的道路由八个州以州资金与联邦补助资金逐个项目修建和拓宽，从未公布过总额。有一次升级几乎没有花钱：1985 年，田纳西州约翰逊城附近一段早已按州际标准建成的路段被标为 I-181，约翰逊城的经济发展主管后来说，花掉的只是换牌子的钱。他认为这正是此后推动 I-26 翻越山区的那场运动的开端。"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "label": { "en": "Construction cost", "zh": "造价" },
+      "why": { "en": "No figure exists for the route. US 23 was numbered in 1926 over existing roads, part of them an 1820s turnpike, extended south three times to 1951, and rebuilt by eight states project by project.", "zh": "全线并无造价数据。US 23 于 1926 年沿既有道路编号，其中一部分是 1820 年代的收费道；此后到 1951 年三次向南延伸，并由八个州逐个项目改建。" }
+    },
+    {
+      "label": { "en": "Funding", "zh": "出资方" },
+      "why": { "en": "There is no single funder. Each state builds and maintains its own section with state and federal-aid highway money.", "zh": "没有单一出资方。各州以州资金与联邦补助公路资金修建并养护本州路段。" }
+    },
+    {
+      "label": { "en": "Columbus–Sandusky Turnpike land grant", "zh": "哥伦布—桑达斯基收费道赠地" },
+      "value": { "en": "31,840 acres granted by the federal government in trust to Ohio, 1827", "zh": "1827 年联邦政府以信托方式拨给俄亥俄 31,840 英亩土地" },
+      "source": "English Wikipedia, U.S. Route 23, history section"
+    },
+    {
+      "label": { "en": "Length", "zh": "全长" },
+      "value": { "en": "Reported at 1,435.17 miles in English Wikipedia's state-by-state table, Georgia longest at 391.69; not checked against state route logs", "zh": "英文维基百科分州表格称 1,435.17 英里，其中佐治亚最长，为 391.69 英里；未与各州路线里程表核对" },
+      "source": "English Wikipedia, U.S. Route 23"
+    }
+  ],
+  "trafficFigures": [
+    {
+      "label": { "en": "Route-wide traffic volume", "zh": "全线交通量" },
+      "why": { "en": "Eight state agencies count their own sections, and for long stretches US 23 shares pavement with I-26, I-75 and I-475, whose counts carry its traffic. No combined figure is published.", "zh": "8 个州的机构各自统计本州路段，而 US 23 在很长的路段上与 I-26、I-75、I-475 共用路面，车流计入这些州际公路。并无合并数字发布。" }
+    }
+  ],
+  "timeline": [
+    { "year": 1826, "en": "Ohio charters the Columbus and Sandusky Turnpike Company on 31 January.", "zh": "1 月 31 日，俄亥俄特许成立哥伦布与桑达斯基收费道公司。" },
+    { "year": 1834, "en": "The turnpike is completed to Sandusky.", "zh": "收费道修到桑达斯基。" },
+    { "year": 1843, "en": "The legislature dissolves the turnpike company on 28 February.", "zh": "2 月 28 日，州议会解散收费道公司。" },
+    { "year": 1926, "en": "US 23 is numbered from Portsmouth, Ohio, to Mackinaw City, Michigan.", "zh": "US 23 编定，自俄亥俄州朴次茅斯至密歇根州麦基诺城。" },
+    { "year": 1929, "en": "The route is extended south into Kentucky as far as Pikeville.", "zh": "路线向南延伸进入肯塔基，至派克维尔。" },
+    { "year": 1930, "en": "US 23 is extended to Atlanta.", "zh": "US 23 延伸至亚特兰大。" },
+    { "year": 1951, "en": "US 23 is extended along US 1 to Jacksonville, Florida.", "zh": "US 23 沿 US 1 延伸至佛罗里达州杰克逊维尔。" },
+    { "year": 1985, "en": "A section near Johnson City, Tennessee, is signed as I-181.", "zh": "田纳西州约翰逊城附近一段被标为 I-181。" },
+    { "year": 1994, "en": "Kentucky names its section the Country Music Highway on 1 March.", "zh": "3 月 1 日，肯塔基将本州路段命名为乡村音乐公路。" },
+    { "year": 1999, "en": "The whole Kentucky section is four-lane.", "zh": "肯塔基段全线成为四车道。" },
+    { "year": 2002, "en": "The Kentucky section is designated a National Scenic Byway.", "zh": "肯塔基段被定为国家风景道。" }
+  ]
+}

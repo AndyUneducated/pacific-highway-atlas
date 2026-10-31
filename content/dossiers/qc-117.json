@@ -1,0 +1,84 @@
+{
+  "id": "qc-117",
+  "route": { "sys": "ca-tch", "num": "117", "anchor": [-76.526, 47.043] },
+  "name": { "en": "Route 117", "zh": "117 号公路" },
+  "aka": [
+    { "en": "Route Transcanadienne (Sainte-Agathe-des-Monts to the Ontario border)", "zh": "横加公路（圣阿加特德蒙至安大略省界）" },
+    { "en": "Route des Belles-Histoires (Laurentides tourist route)", "zh": "美丽故事之路（劳伦蒂德旅游线路）" },
+    { "en": "Boulevard Curé-Labelle (Laval and the Laurentides)", "zh": "拉贝尔神父大道（拉瓦尔与劳伦蒂德）" },
+    { "en": "Routes 11, 11A, 58 and 59 (former numbers)", "zh": "11、11A、58、59 号公路（旧编号）" }
+  ],
+  "tagline": { "en": "Montreal's road to Abitibi: up through the Laurentians, then some 220 km of La Vérendrye wilderness to Val-d'Or, Rouyn-Noranda and Ontario", "zh": "蒙特利尔通往阿比蒂比之路：穿过劳伦琴山，再走约 220 公里的拉韦朗德里荒野，抵达瓦勒多尔、鲁安—诺兰达和安大略" },
+  "termini": {
+    "start": { "en": "The Ontario boundary west of Rouyn-Noranda, where the route becomes Ontario Highway 66 towards Kirkland Lake", "zh": "鲁安—诺兰达以西的安大略省界，该路在此变为通往柯克兰湖的安大略 66 号公路", "at": [-79.517, 48.147] },
+    "end": { "en": "Sainte-Agathe-des-Monts, at the north end of Autoroute 15, where the Trans-Canada designation leaves the route; Route 117 itself continues south beside the autoroute to the Décarie Interchange in Montreal", "zh": "圣阿加特德蒙，15 号高速公路北端，横加公路的标识在此离开该路；117 号公路本身继续沿高速公路南下，直至蒙特利尔的德卡里立交", "at": [-74.29, 46.062] }
+  },
+  "sections": [
+    {
+      "key": "character",
+      "en": [
+        "Route 117 runs 663.9 km from the Décarie Interchange in Montreal to the Ontario border beyond Rouyn-Noranda, and it is the only direct road between southern Quebec and Abitibi-Témiscamingue. From Sainte-Agathe-des-Monts, where Autoroute 15 ends, to Ontario it carries the Trans-Canada Highway's northern route, which continues as Ontario Highway 66 to Kirkland Lake.",
+        "South of Sainte-Agathe it runs beside the autoroute, as Boulevard Curé-Labelle through Laval and then through Saint-Jérôme, Sainte-Adèle and Val-David. North of it, it is a four-lane divided road past Mont-Tremblant to Labelle, and then mostly two lanes through Rivière-Rouge and Mont-Laurier to Grand-Remous on the Gatineau River.",
+        "From Grand-Remous it runs north for some 220 km through the forest and lakes of La Vérendrye Wildlife Reserve, with few services and a reputation for fatal crashes, some involving heavy trucks, and for treacherous winter conditions. It comes out at Val-d'Or and turns west through the mining towns of Malartic and Rouyn-Noranda to Ontario.",
+        "The two cities at the Abitibi end, Val-d'Or and Rouyn-Noranda, are home to the region's only two Quebec Maritimes Junior Hockey League teams, the Foreurs and the Huskies, and their rivalry is called the Guerre de la 117."
+      ],
+      "zh": [
+        "117 号公路自蒙特利尔的德卡里立交至鲁安—诺兰达以西的安大略省界，全长 663.9 公里，是魁北克南部与阿比蒂比—蒂米斯卡明格地区之间唯一的直达公路。从 15 号高速公路终止的圣阿加特德蒙到安大略，它承载横加公路的北线，北线在安大略续为通往柯克兰湖的 66 号公路。",
+        "圣阿加特以南，它与高速公路并行，在拉瓦尔名为拉贝尔神父大道，此后穿过圣热罗姆、圣阿德勒和瓦勒戴维。圣阿加特以北，它是经蒙特朗布朗通往拉贝尔的四车道分隔公路，此后大多为双车道，经红河镇和蒙洛里耶到达加蒂诺河畔的大雷穆。",
+        "自大雷穆起，它向北穿过拉韦朗德里野生动物保护区的森林与湖泊约 220 公里，沿途服务设施稀少，以致命车祸（部分涉及重型卡车）和冬季路况险恶而出名。它在瓦勒多尔驶出荒野，转向西穿过马拉蒂克和鲁安—诺兰达等矿业城镇，通往安大略。",
+        "阿比蒂比一端的两座城市瓦勒多尔和鲁安—诺兰达，拥有该地区仅有的两支魁北克海洋省青年冰球联赛球队“钻工队”和“哈士奇队”，两队之间的对抗被称为“117 号公路之战”。"
+      ]
+    },
+    {
+      "key": "history",
+      "en": [
+        "A road from Mont-Laurier to Senneterre, with a branch to Val-d'Or, had been championed some twenty years earlier by the member of the legislature Hector Authier; it was inaugurated in August 1940. The year before, in 1939, the province had created a reserve along the road's route, the Réserve de la Route-Mont-Laurier–Senneterre; it became La Vérendrye Park in 1950 and a wildlife reserve in 1979.",
+        "The road was assembled from several earlier routes: Route 11 from Laval to Grand-Remous, Route 11A from Montreal to Laval, Route 58 from Grand-Remous to Louvicourt and Route 59 from Louvicourt to the Ontario border. These were renumbered together as Route 117.",
+        "The four-lane section north of Sainte-Agathe now reaches Labelle. Widening the next 14.7 km to Rivière-Rouge to four lanes is under way; its first lot was finished in autumn 2024, and full service was then planned for November 2027, though the project's scope and schedule are being revised."
+      ],
+      "zh": [
+        "省议员埃克托尔·奥捷早在约二十年前就力推修建蒙洛里耶至森内泰尔的道路，并修一条支线通往瓦勒多尔；这条路于 1940 年 8 月举行通车典礼。前一年，即 1939 年，省政府沿该路线设立了“蒙洛里耶—森内泰尔公路保护区”；1950 年改为拉韦朗德里公园，1979 年改为野生动物保护区。",
+        "这条公路由几条较早的线路拼合而成：拉瓦尔至大雷穆的 11 号公路、蒙特利尔至拉瓦尔的 11A 号公路、大雷穆至卢维库尔的 58 号公路，以及卢维库尔至安大略省界的 59 号公路。这些线路后来统一改编为 117 号公路。",
+        "圣阿加特以北的四车道路段现已延伸到拉贝尔。接下来通往红河镇的 14.7 公里正在拓宽为四车道；第一标段于 2024 年秋完工，当时计划 2027 年 11 月全面通车，但项目范围和工期目前正在调整。"
+      ]
+    },
+    {
+      "key": "money",
+      "en": [
+        "The Labelle–Rivière-Rouge widening is budgeted at $222.3 million and paid for entirely by Quebec, according to the provincial Treasury Board's infrastructure dashboard. No cost has been found for the original road through La Vérendrye or for the route as a whole."
+      ],
+      "zh": [
+        "据魁北克省库务委员会的基础设施项目仪表板，拉贝尔至红河镇拓宽工程预算为 2.223 亿加元，全部由魁北克省出资。未查到穿越拉韦朗德里的原有道路或全线的造价。"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "label": { "en": "Length", "zh": "长度" },
+      "value": { "en": "663.9 km, Montreal to the Ontario border; the La Vérendrye section north of Grand-Remous is some 220 km.", "zh": "蒙特利尔至安大略省界 663.9 公里；大雷穆以北的拉韦朗德里路段约 220 公里。" },
+      "source": "English Wikipedia, Quebec Route 117"
+    },
+    {
+      "label": { "en": "Construction cost", "zh": "造价" },
+      "why": { "en": "No cost has been published for the route as a whole or for the 1940 road through La Vérendrye. The current Labelle–Rivière-Rouge widening is budgeted at $222.3 million.", "zh": "全线及 1940 年穿越拉韦朗德里的道路均未公布造价。当前拉贝尔至红河镇拓宽工程的预算为 2.223 亿加元。" }
+    },
+    {
+      "label": { "en": "Funding", "zh": "出资方" },
+      "value": { "en": "Province of Quebec; the Labelle–Rivière-Rouge widening is 100 per cent provincial.", "zh": "魁北克省；拉贝尔至红河镇拓宽工程 100% 由省政府出资。" },
+      "source": "Secrétariat du Conseil du trésor du Québec, Tableau de bord des projets d'infrastructure, Route 117 Labelle–Rivière-Rouge"
+    },
+    {
+      "label": { "en": "Labelle–Rivière-Rouge widening", "zh": "拉贝尔至红河镇拓宽工程" },
+      "value": { "en": "14.7 km to four lanes; $222.3 million; first lot completed autumn 2024; full service planned for November 2027, with scope and schedule under revision.", "zh": "14.7 公里拓宽为四车道；2.223 亿加元；第一标段 2024 年秋完工；计划 2027 年 11 月全面通车，范围与工期正在调整。" },
+      "source": "Secrétariat du Conseil du trésor du Québec, Tableau de bord des projets d'infrastructure; Transports Québec news release, 31 October 2024"
+    }
+  ],
+  "timeline": [
+    { "year": 1939, "en": "Quebec creates the Réserve de la Route-Mont-Laurier–Senneterre along the planned road.", "zh": "魁北克沿规划中的道路设立“蒙洛里耶—森内泰尔公路保护区”。" },
+    { "year": 1940, "en": "The Mont-Laurier–Senneterre road, with its branch to Val-d'Or, is inaugurated in August.", "zh": "8 月，蒙洛里耶—森内泰尔公路及其通往瓦勒多尔的支线举行通车典礼。" },
+    { "year": 1950, "en": "The reserve becomes La Vérendrye Park.", "zh": "该保护区改为拉韦朗德里公园。" },
+    { "year": 1979, "en": "La Vérendrye becomes a wildlife reserve.", "zh": "拉韦朗德里改为野生动物保护区。" },
+    { "year": 2008, "en": "The Huskies and Foreurs meet in the playoffs for the first time in the Guerre de la 117.", "zh": "哈士奇队与钻工队首次在季后赛中上演“117 号公路之战”。" },
+    { "year": 2024, "en": "The first lot of the Labelle–Rivière-Rouge widening is completed in the autumn.", "zh": "秋季，拉贝尔至红河镇拓宽工程第一标段完工。" }
+  ]
+}

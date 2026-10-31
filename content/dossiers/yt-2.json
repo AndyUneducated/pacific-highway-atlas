@@ -1,0 +1,87 @@
+{
+  "id": "yt-2",
+  "route": { "sys": "ca-nhs", "num": "2", "anchor": [-136.75, 62.531] },
+  "name": { "en": "Highway 2 (Klondike Highway)", "zh": "2 号公路（克朗代克公路）" },
+  "aka": [
+    { "en": "Whitehorse–Mayo Road (Yukon's original Highway 2)", "zh": "怀特霍斯—梅奥公路（育空最初的 2 号公路）" },
+    { "en": "Dawson–Mayo Road (former Highway 3)", "zh": "道森—梅奥公路（原 3 号公路）" },
+    { "en": "Carcross Road (former Highway 5) and Skagway Road", "zh": "卡克罗斯路（原 5 号公路）与斯卡圭路" },
+    { "en": "Alaska Route 98 (Skagway to the border)", "zh": "阿拉斯加 98 号公路（斯卡圭至边境）" }
+  ],
+  "tagline": { "en": "The gold-rush route by road, from tidewater at Skagway over the White Pass and down the Yukon valley to Dawson City", "zh": "以公路重走淘金之路：自斯卡圭海港翻越白山口，沿育空河谷直下道森市" },
+  "termini": {
+    "start": { "en": "The British Columbia boundary south of Carcross, the southern end of the Yukon section; the highway continues through British Columbia and over the White Pass to Skagway, Alaska", "zh": "卡克罗斯以南的不列颠哥伦比亚省界，即育空路段的南端；公路继续穿过不列颠哥伦比亚，翻越白山口通往阿拉斯加的斯卡圭", "at": [-134.66, 60.0] },
+    "end": { "en": "The Yukon River ferry landing at Dawson City, where the free ferry connects to the Top of the World Highway", "zh": "道森市的育空河渡口，免费渡轮由此连接“世界之巅公路”", "at": [-139.43, 64.07] }
+  },
+  "sections": [
+    {
+      "key": "character",
+      "en": [
+        "The Klondike Highway runs about 709 km from the cruise-ship port of Skagway, Alaska, to Dawson City, roughly along the route the stampeders took to the goldfields in 1897–98. It is three governments' road: 23 km in Alaska as Route 98, about 58 km across a corner of British Columbia and the rest in Yukon, all of it beyond the border signed and maintained as Yukon Highway 2.",
+        "The southern part climbs from sea level over the White Pass, at 874 metres, past the lakes of the Coast Mountains to Carcross, then joins the Alaska Highway into Whitehorse. North of the capital it follows the Yukon River valley through Carmacks, Pelly Crossing and Stewart Crossing, passes the turn for the Dempster Highway to Inuvik, and ends at the river at Dawson, where a ferry crosses to the Top of the World Highway.",
+        "More than half of Yukoners who live outside Whitehorse depend on it for access, and it carries ore and fuel trucks as well as cruise-ship buses and summer traffic."
+      ],
+      "zh": [
+        "克朗代克公路全长约 709 公里，自阿拉斯加的邮轮港斯卡圭通往道森市，大致沿 1897—1898 年淘金者奔赴金矿的路线而行。它由三个政府共管：23 公里位于阿拉斯加，编为 98 号公路；约 58 公里斜穿不列颠哥伦比亚省一角；其余在育空。过了边境的全部路段均标为并由育空政府养护为育空 2 号公路。",
+        "南段自海平面爬升翻越海拔 874 米的白山口，经海岸山脉中的湖泊到卡克罗斯，然后并入阿拉斯加公路进入怀特霍斯。首府以北，它沿育空河谷经卡马克斯、佩利克罗辛和斯图尔特克罗辛北上，经过通往因纽维克的登普斯特公路岔口，终于道森的河边，渡轮在此过河连接“世界之巅公路”。",
+        "住在怀特霍斯以外的育空居民中，过半数依靠这条路出入；路上既有矿石车和油罐车，也有邮轮游客大巴和夏季游客。"
+      ]
+    },
+    {
+      "key": "history",
+      "en": [
+        "The road was put together from local pieces. The Whitehorse–Mayo Road, Yukon's original Highway 2, ran to Stewart Crossing and then north-east to the silver mines at Mayo, Elsa and Keno; bridges replaced the ferries at Carmacks, Pelly Crossing and Stewart Crossing, the last in 1960. The Dawson–Mayo Road from Stewart Crossing to Dawson opened in September 1955 as Highway 3. South of Whitehorse, the Carcross Road was briefly part of the Alaska Highway in 1942 and later became Highway 5.",
+        "A road from Skagway was being pressed for as early as 1913 and not built for 65 years. Skagway volunteers and the State of Alaska began blasting up the mountain in 1961; Canada built a new bridge at Carcross and extended the road to the British Columbia border between 1970 and 1972, and in February 1972 agreed to build the remaining 33 miles to the Alaska border while Alaska built its last nine. The road was completed between Skagway and Carcross in August 1978 and had its first full summer in 1979. That year the pieces were joined as Highway 2 and named the Klondike Highway; the old road from Stewart Crossing to Mayo became Highway 11, the Silver Trail.",
+        "The highway was built for tourists, but it became a freight route. In 1986 the owners of the Faro mine secured agreement to truck ore concentrate to Skagway and the road was opened year-round, one of the reasons the White Pass and Yukon Route railway closed. The whole highway was gravel in 1979; paving reached Carmacks by 1982, and the Carcross–Skagway section was realigned and paved in the late 1980s and early 1990s."
+      ],
+      "zh": [
+        "这条路由各地的零散路段拼合而成。怀特霍斯—梅奥公路是育空最初的 2 号公路，通到斯图尔特克罗辛，再向东北通往梅奥、埃尔萨和基诺的银矿；卡马克斯、佩利克罗辛和斯图尔特克罗辛的渡口先后由桥梁取代，最后一座于 1960 年建成。斯图尔特克罗辛至道森的道森—梅奥公路于 1955 年 9 月开通，编为 3 号公路。在怀特霍斯以南，卡克罗斯路在 1942 年曾短暂作为阿拉斯加公路的一部分，后来编为 5 号公路。",
+        "早在 1913 年就有人力促从斯卡圭修路，却 65 年后才实现。1961 年，斯卡圭的志愿者与阿拉斯加州开始在山上爆破开路；1970 至 1972 年，加拿大在卡克罗斯新建桥梁，并把道路修到不列颠哥伦比亚省界；1972 年 2 月，加拿大同意修建通往阿拉斯加边境的剩余 33 英里，阿拉斯加则负责其境内最后 9 英里。斯卡圭至卡克罗斯的道路于 1978 年 8 月贯通，1979 年迎来第一个完整的夏季通行季。同年，各段合并编为 2 号公路，命名为克朗代克公路；斯图尔特克罗辛至梅奥的旧路改为 11 号公路，即“白银之路”。",
+        "这条路本为游客而建，却成了货运通道。1986 年，法罗矿的新业主争取到用卡车把精矿运往斯卡圭的许可，公路随之全年开放，这也是白山口与育空铁路停运的原因之一。1979 年全线仍为砾石路；到 1982 年铺装已延伸至卡马克斯；卡克罗斯至斯卡圭段于 20 世纪 80 年代末至 90 年代初改线并铺装。"
+      ]
+    },
+    {
+      "key": "money",
+      "en": [
+        "The current work is the reconstruction of the North Klondike Highway between Whitehorse and the Dempster turn-off, so that legal loads can travel year-round without spring weight restrictions. In July 2019 Ottawa committed $118.2 million from the National Trade Corridors Fund to rebuild about 100 km, a $157 million first phase with Yukon's share; a second phase of $180 million followed in 2021, $135 million federal and $45 million territorial. Yukon now gives the ten-year total as $267.6 million, of which $66.9 million is its own.",
+        "The south end has a different arrangement: until shortly before Yukon's interpretive plan for the road, revised in 2005, winter maintenance of the Alaskan stretch was shared among Yukon, British Columbia and Alaska, and snow removal between the US border and the Yukon boundary could cost $790,000 a year. British Columbia handed its stretch to Canada in 1987, and Yukon maintains it."
+      ],
+      "zh": [
+        "当前的工程是重建怀特霍斯至登普斯特岔口之间的北克朗代克公路，使合法载重车辆全年通行，不再受春季限重。2019 年 7 月，联邦政府承诺从“国家贸易走廊基金”拨款 1.182 亿加元重建约 100 公里，连同育空出资构成 1.57 亿加元的第一期；2021 年又追加 1.8 亿加元的第二期，其中联邦 1.35 亿、育空 4,500 万加元。育空政府目前公布的十年总投入为 2.676 亿加元，其中自身出资 6,690 万加元。",
+        "南端的安排则不同：在育空该路解说规划（2005 年修订）编写前不久，阿拉斯加境内路段的冬季养护一直由育空、不列颠哥伦比亚和阿拉斯加三方分担，美国边境至育空边界之间的除雪费用每年可达 79 万加元。1987 年，不列颠哥伦比亚把其境内路段移交联邦，由育空负责养护。"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "label": { "en": "Length", "zh": "长度" },
+      "value": { "en": "About 709 km from Skagway to Dawson City: 23 km in Alaska, about 58 km in British Columbia and the rest in Yukon. The South Klondike, Skagway to the Alaska Highway, is 157.8 km.", "zh": "斯卡圭至道森市约 709 公里：阿拉斯加 23 公里，不列颠哥伦比亚约 58 公里，其余在育空。南克朗代克公路（斯卡圭至阿拉斯加公路）长 157.8 公里。" },
+      "source": "English Wikipedia, Klondike Highway; Government of Yukon, South Klondike Highway Interpretive Plan, 2005"
+    },
+    {
+      "label": { "en": "Construction cost", "zh": "造价" },
+      "why": { "en": "No cost was found for the original roads, which were built by different governments between the 1950s and 1978. The current reconstruction of the North Klondike is budgeted at $267.6 million over ten years.", "zh": "未查到原有道路的造价；这些道路由不同政府在 20 世纪 50 年代至 1978 年间修建。北克朗代克公路当前的重建工程十年预算为 2.676 亿加元。" }
+    },
+    {
+      "label": { "en": "Funding", "zh": "出资方" },
+      "value": { "en": "Canada paid for the section from the Yukon boundary to the Alaska border, built in the 1970s under a 1972 agreement; Alaska built its own nine miles. The North Klondike reconstruction is federal and territorial: $200.7 million from the National Trade Corridors Fund and $66.9 million from Yukon.", "zh": "育空边界至阿拉斯加边境段由加拿大出资，依据 1972 年协议于 20 世纪 70 年代修建；阿拉斯加修建其境内 9 英里。北克朗代克公路重建由联邦与育空共同出资：“国家贸易走廊基金”2.007 亿加元，育空 6,690 万加元。" },
+      "source": "Yukon Nuggets, Skagway Road; British Columbia Order in Council 1164/1987; Government of Yukon, Statement from Minister Clarke on updates to the North Klondike Highway; Government of Canada grants record, National Trade Corridors Fund agreement with Yukon (2019)"
+    },
+    {
+      "label": { "en": "North Klondike phases", "zh": "北克朗代克工程分期" },
+      "value": { "en": "Phase one $157 million, including $118.2 million federal (2019), on sections between Carmacks and the Dempster junction; phase two $180 million, $135 million federal and $45 million Yukon (2021), for 110 km between Carmacks and Stewart Crossing.", "zh": "第一期 1.57 亿加元，其中联邦 1.182 亿（2019 年），用于卡马克斯至登普斯特路口之间的路段；第二期 1.8 亿加元，联邦 1.35 亿、育空 4,500 万（2021 年），用于卡马克斯至斯图尔特克罗辛之间的 110 公里。" },
+      "source": "Transport Canada news release, July 2019; Transport Canada news release, 29 July 2021; Government of Yukon news release 21-263, 2021"
+    }
+  ],
+  "timeline": [
+    { "year": 1913, "en": "Newspapers in Dawson report that an auto road from Skagway may open soon; British Columbia never funds its part.", "zh": "道森报纸报道斯卡圭汽车公路即将开通；不列颠哥伦比亚始终未为其境内路段拨款。" },
+    { "year": 1955, "en": "The Dawson–Mayo Road from Stewart Crossing to Dawson opens in September.", "zh": "9 月，斯图尔特克罗辛至道森的道森—梅奥公路开通。" },
+    { "year": 1960, "en": "The last of three bridges replacing the ferries at Carmacks, Pelly Crossing and Stewart Crossing is finished.", "zh": "取代卡马克斯、佩利克罗辛和斯图尔特克罗辛渡口的三座桥梁中最后一座建成。" },
+    { "year": 1961, "en": "Skagway volunteers and the State of Alaska begin blasting the road up from Skagway.", "zh": "斯卡圭志愿者与阿拉斯加州开始从斯卡圭向上爆破开路。" },
+    { "year": 1972, "en": "Canada agrees in February to build the road from the British Columbia–Yukon boundary to the Alaska border.", "zh": "2 月，加拿大同意修建不列颠哥伦比亚—育空边界至阿拉斯加边境的道路。" },
+    { "year": 1978, "en": "The Skagway–Carcross road is completed in August; the route is numbered Highway 2 and named the Klondike Highway.", "zh": "8 月，斯卡圭至卡克罗斯道路贯通；全线编为 2 号公路，定名克朗代克公路。" },
+    { "year": 1986, "en": "The south section opens year-round for ore trucks from the Faro mine.", "zh": "南段为法罗矿的矿石车全年开放。" },
+    { "year": 2019, "en": "Ottawa commits $118.2 million to rebuild about 100 km of the North Klondike.", "zh": "联邦政府承诺拨款 1.182 亿加元，重建北克朗代克公路约 100 公里。" },
+    { "year": 2021, "en": "A second, $180 million phase of North Klondike reconstruction is announced.", "zh": "宣布北克朗代克公路重建第二期，金额 1.8 亿加元。" }
+  ]
+}

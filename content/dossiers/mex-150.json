@@ -1,0 +1,111 @@
+{
+  "id": "mex-150",
+  "route": { "sys": "mx-federal", "num": "150" },
+  "name": { "en": "Federal Highway 150 (Mexico City–Puebla–Veracruz)", "zh": "150 号联邦公路（墨西哥城—普埃布拉—韦拉克鲁斯）" },
+  "aka": [
+    { "en": "Carretera México–Puebla; Carretera Puebla–Tehuacán (the free road)", "zh": "墨西哥城—普埃布拉公路；普埃布拉—特瓦坎公路（免费公路）" },
+    { "en": "Autopista Cinco de Mayo, the México–Puebla toll motorway of 1962", "zh": "“五月五日”高速公路，即 1962 年的墨西哥城—普埃布拉收费高速" },
+    { "en": "Autopista México–Veracruz (the tolled 150D)", "zh": "墨西哥城—韦拉克鲁斯高速公路（收费路 150D）" }
+  ],
+  "tagline": { "en": "The capital's road to the Gulf, over the pass between the volcanoes and down the Cumbres de Maltrata, rebuilt as a toll motorway for the centenary of the Battle of Puebla", "zh": "首都通往墨西哥湾的道路：越过两座火山之间的山口，再沿马尔特拉塔山脊下行；为纪念普埃布拉战役一百周年而改建为收费高速" },
+  "termini": {
+    "start": { "at": [-99.009, 19.367], "en": "The La Concordia interchange on the eastern edge of Mexico City, where Calzada Ignacio Zaragoza becomes the México–Puebla motorway; the highway is reckoned from San Lázaro, about 14 km further in", "zh": "墨西哥城东缘的拉孔科尔迪亚立交，伊格纳西奥·萨拉戈萨大道在此转为墨西哥城—普埃布拉高速；公路里程自再往城内约 14 公里的圣拉萨罗起算" },
+    "end": { "at": [-95.998, 19.058], "en": "The port of Veracruz, where the toll road from Córdoba arrives by Mata de Pita and meets Federal Highway 140 from Xalapa", "zh": "韦拉克鲁斯港，来自科尔多瓦的收费路经马塔德皮塔抵达这里，与来自哈拉帕的 140 号联邦公路相接" }
+  },
+  "sections": [
+    {
+      "key": "character",
+      "en": [
+        "Federal Highway 150 leaves Mexico City along Calzada Ignacio Zaragoza, climbs through Ixtapaluca and Río Frío into the forested Sierra Nevada between Popocatépetl and Iztaccíhuatl, and descends by San Martín Texmelucan to Puebla. From there the free road, known locally as the Puebla–Tehuacán and Tehuacán–Orizaba road, swings south-east through Tehuacán before coming down to Orizaba and Córdoba and on to the port of Veracruz. English Wikipedia, from the transport ministry's 2011 road data, gives it 461.24 km.",
+        "The tolled 150D takes the more direct line: Puebla, Amozoc, Acatzingo and Esperanza, then down the Cumbres de Maltrata to Ciudad Mendoza, Orizaba, Córdoba and La Tinaja, and across the coastal plain to Veracruz. Spanish Wikipedia adds its pieces up to 387.4 km. The section between the volcanoes is one of the four principal roads in and out of Mexico City, in the words of the transport ministry's history series, which says the motorway designed for an average of 20,000 vehicles a day came to carry 120,000 users."
+      ],
+      "zh": [
+        "150 号联邦公路沿伊格纳西奥·萨拉戈萨大道驶出墨西哥城，经伊斯塔帕卢卡和里奥弗里奥爬升，进入波波卡特佩特火山与伊斯塔西瓦特尔火山之间林木茂密的内华达山，再经圣马丁特斯梅卢坎下行至普埃布拉。此后，当地称为“普埃布拉—特瓦坎公路”和“特瓦坎—奥里萨巴公路”的免费公路折向东南经过特瓦坎，再下行到奥里萨巴和科尔多瓦，直抵韦拉克鲁斯港。英语维基百科依据交通部 2011 年道路数据，给出其长度为 461.24 公里。",
+        "收费路 150D 走更直的线路：普埃布拉、阿莫索克、阿卡钦戈、埃斯佩兰萨，然后沿马尔特拉塔山脊下行至门多萨城、奥里萨巴、科尔多瓦和拉蒂纳哈，再穿过沿海平原到达韦拉克鲁斯。西班牙语维基百科将各段相加为 387.4 公里。交通部的历史专栏称，两座火山之间的这一段是进出墨西哥城的四条主要道路之一；这条按日均 2 万辆设计的高速，后来的使用者达到 12 万人次。"
+      ]
+    },
+    {
+      "key": "history",
+      "en": [
+        "The ground has been a route between the coast and the plateau for millennia. The archaeologist Yamile Lira López describes the valley of Maltrata as the last of a series of ever-narrower valleys climbing from the coastal plain, a place of passage and rest from the Middle Preclassic until the motorway; the Veracruz–Mexico City railway through it opened in 1873.",
+        "The motor road came in 1927. On 16 September that year, under Plutarco Elías Calles, the federal México–Puebla road built by the ministry of communications was inaugurated, as part of a planned 1,435 km México–Suchiate road to the Guatemalan border. In 1931 the National Roads Commission described it climbing from kilometre 35 to its highest point at Llano Grande, kilometre 55, with Popocatépetl and Iztaccíhuatl in view almost all the way.",
+        "By the 1950s it was overloaded. In 1959 the minister of public works, Javier Barros Sierra, announced a direct toll road, and work began that January. It was opened on 5 May 1962, the centenary of the Battle of Puebla, by President Adolfo López Mateos at a roundabout built for the purpose at the entrance to Puebla, with a bronze of General Ignacio Zaragoza. The director of CAPUFE, Hugo Cervantes del Río, said that roads were no longer meant to join as many towns as possible but to cut travel time to a minimum, bypassing even the places in between. English Wikipedia links the road to Volkswagen's choice of Puebla for its plant three years later.",
+        "The eastern sections followed. A ministry history lists Puebla–Orizaba among the toll motorways of 1966; Lira López dates the new road high on the hills north of Maltrata to 1969 and the present motorway there to 1994, which left the town off the through route. Grupo Mexicano de Desarrollo opened the 98 km Córdoba–Veracruz motorway in October 1992 and ran it until 1998. Spanish Wikipedia says the México–Puebla motorway was folded into FARAC, the federal toll-road rescue trust, when it was created in 1997."
+      ],
+      "zh": [
+        "这片地带作为沿海与高原之间的通道已有数千年历史。考古学家亚米莱·利拉·洛佩斯写道，马尔特拉塔河谷是自沿海平原逐级上升、越来越窄的一串河谷中的最后一个，从中前古典期直到高速公路通车，一直是行旅歇脚之地；途经此地的韦拉克鲁斯—墨西哥城铁路于 1873 年通车。",
+        "汽车公路始于 1927 年。那年 9 月 16 日，在普卢塔科·埃利亚斯·卡列斯任内，由交通与公共工程部修建的联邦墨西哥城—普埃布拉公路落成；它是规划中通往危地马拉边境、全长 1,435 公里的墨西哥城—苏奇亚特公路的一部分。1931 年，国家道路委员会描述道：公路从 35 公里处开始爬升，到 55 公里处的利亚诺格兰德达到最高点，一路几乎都能望见波波卡特佩特和伊斯塔西瓦特尔两座火山。",
+        "到 1950 年代，这条路已不堪重负。1959 年，公共工程部长哈维尔·巴罗斯·谢拉宣布修建一条直达的收费公路，工程于当年 1 月开工。1962 年 5 月 5 日，即普埃布拉战役一百周年，阿道弗·洛佩斯·马特奥斯总统在普埃布拉入口处专门修建的环岛上为其揭幕，环岛中央立着伊格纳西奥·萨拉戈萨将军的铜像。CAPUFE 局长乌戈·塞万提斯·德尔里奥说，公路的作用已不再是像从前那样连接尽可能多的城镇，而是把行程时间压到最短，甚至绕开中间的地方。英语维基百科认为，三年后大众汽车选择在普埃布拉建厂与这条路有关。",
+        "东段随后建成。交通部的一篇史料把普埃布拉—奥里萨巴段列为 1966 年的收费高速之一；利拉·洛佩斯则称，马尔特拉塔以北山上的新路于 1969 年通车，现在的高速于 1994 年建成，此后该镇便不再处于过境线上。墨西哥发展集团于 1992 年 10 月开通了 98 公里的科尔多瓦—韦拉克鲁斯高速，并经营至 1998 年。据西班牙语维基百科，1997 年联邦收费公路救助信托基金 FARAC 成立时，墨西哥城—普埃布拉高速被并入其中。"
+      ]
+    },
+    {
+      "key": "engineering",
+      "en": [
+        "The 1962 motorway was 113 km of four-lane road, three times the width of the federal road, with its curves cut from 350 to 74 and the journey from two and a half hours to an hour and five minutes. Spanish and English Wikipedia record more than 9 million cubic metres of material moved at Llano Grande and Río Frío.",
+        "The Cumbres de Maltrata are the hardest stretch. There the two carriageways separate and cross over each other twice, the Córdoba–Puebla carriageway passing through Maltrata itself, and the road goes through four tunnels. English Wikipedia records a rockslide that closed one lane for six months in 2010 and says CAPUFE ranked the section second in the country for crashes in 2011. Further east, the Córdoba–Veracruz motorway has 15 bridges and 55 grade separations, according to its builder.",
+        "At the Mexico City end the motorway was rebuilt between 2013 and 2016 from La Concordia to the Cuautla road, from six lanes to twelve: eight central and four lateral. In Puebla, an elevated second deck of 15.3 km, from the Volkswagen plant to the Cuauhtémoc stadium, opened on 17 October 2016 and cut the crossing of the city from 50 minutes to 10, by the ministry's account."
+      ],
+      "zh": [
+        "1962 年的高速全长 113 公里，四车道，宽度是联邦公路的三倍；弯道由 350 处减至 74 处，行程由两个半小时缩短到一小时五分钟。西班牙语和英语维基百科记载，在利亚诺格兰德和里奥弗里奥一带共挖运土石逾 900 万立方米。",
+        "马尔特拉塔山脊是最难走的一段。两幅路面在此分开并两度上下交叉，科尔多瓦往普埃布拉方向的路面直接穿过马尔特拉塔镇，全段有四条隧道。英语维基百科记载，2010 年一次落石导致一条车道封闭六个月，并称 CAPUFE 在 2011 年将该段列为全国事故第二多的路段。再往东，据承建商介绍，科尔多瓦—韦拉克鲁斯高速有 15 座桥梁和 55 处立体交叉。",
+        "在墨西哥城一端，高速公路于 2013 至 2016 年间改建，拉孔科尔迪亚至库奥特拉公路一段由六车道扩为十二车道：中间八条、两侧辅道四条。在普埃布拉，一条长 15.3 公里的高架“二层”于 2016 年 10 月 17 日通车，从大众汽车工厂延伸至夸乌特莫克体育场；据交通部介绍，穿城时间由 50 分钟缩短到 10 分钟。"
+      ]
+    },
+    {
+      "key": "money",
+      "en": [
+        "The 1962 motorway cost 235 million pesos, paid entirely by CAPUFE, the federal toll-road agency, according to the ministry's history series; Spanish and English Wikipedia give more than 220 million. Its first tolls were 15 pesos for a car between Mexico City and Puebla, 10 to San Martín Texmelucan and back, and 25 pesos for a lorry on the round trip.",
+        "Córdoba–Veracruz was built by Grupo Mexicano de Desarrollo, which operated it from 1992 to 1998. The motorway pieces are now concessioned to FONADIN, the national infrastructure fund run by Banobras. The Puebla viaduct of 2016 cost 10,500 million pesos, 52.3 per cent of it private and 47.6 per cent federal. A Banobras project to widen 45.3 km of the Córdoba–Orizaba–Ciudad Mendoza expressway from four lanes to eight was set back in November 2025, when the ministry, citing the floods in Veracruz, told Banobras to cancel the procurement of the project's supervising agent."
+      ],
+      "zh": [
+        "据交通部历史专栏，1962 年的高速造价 2.35 亿比索，全部由联邦收费公路机构 CAPUFE 承担；西班牙语和英语维基百科作“逾 2.2 亿”。最初的通行费为：墨西哥城至普埃布拉小汽车 15 比索，往返圣马丁特斯梅卢坎 10 比索，货车往返墨西哥城—普埃布拉 25 比索。",
+        "科尔多瓦—韦拉克鲁斯段由墨西哥发展集团修建，并于 1992 至 1998 年间经营。各段高速现特许给 Banobras 管理的国家基础设施基金（FONADIN）。2016 年的普埃布拉高架造价 105 亿比索，其中私人资本占 52.3%、联邦占 47.6%。Banobras 将科尔多瓦—奥里萨巴—门多萨城快速路 45.3 公里由四车道扩为八车道的项目于 2025 年 11 月受挫：交通部以韦拉克鲁斯洪灾为由，通知 Banobras 取消该项目监理代理机构的采购程序。"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "label": { "en": "Length", "zh": "长度" },
+      "value": { "en": "461.24 km for the free road via Tehuacán, from the 2011 Datos Viales, as cited in English Wikipedia; 387.4 km for the toll road 150D, summed from its sections in Spanish Wikipedia", "zh": "经特瓦坎的免费公路 461.24 公里，出自 2011 年《道路数据》，据英语维基百科引述；收费路 150D 为 387.4 公里，由西班牙语维基百科各段相加而得" },
+      "source": "SCT, Datos Viales de Puebla and Veracruz 2011, as cited in English Wikipedia, Mexican Federal Highway 150; Spanish Wikipedia, Carretera Federal 150D"
+    },
+    {
+      "label": { "en": "Construction cost", "zh": "造价" },
+      "why": { "en": "No figure for the whole route. The free road of the late 1920s and the motorway's eastern sections have no published cost in the sources read; the sourced section costs are given below.", "zh": "全线无数据。所查资料中，1920 年代末的免费公路以及高速东段均无公开造价；有来源的分段造价见下文。" }
+    },
+    {
+      "label": { "en": "México–Puebla motorway, 1962", "zh": "墨西哥城—普埃布拉高速（1962）" },
+      "value": { "en": "235 million pesos for 113 km (SCT, El Mirador); more than 220 million (Spanish and English Wikipedia)", "zh": "113 公里，2.35 亿比索（交通部《El Mirador》）；逾 2.2 亿（西班牙语及英语维基百科）" },
+      "source": "SCT, El Mirador, Autopista Cinco de Mayo o camino directo México–Puebla; Spanish Wikipedia, Autopista México–Puebla"
+    },
+    {
+      "label": { "en": "Funding", "zh": "出资方" },
+      "value": { "en": "The 1927 road: the federal ministry of communications and public works. The 1962 motorway: CAPUFE, in full. Córdoba–Veracruz: built and operated to 1998 by Grupo Mexicano de Desarrollo. The motorway is now held by FONADIN under concession, paid from tolls. The 2016 Puebla viaduct: 52.3 per cent private, 47.6 per cent federal.", "zh": "1927 年的公路：联邦交通与公共工程部。1962 年的高速：全部由 CAPUFE 承担。科尔多瓦—韦拉克鲁斯段：由墨西哥发展集团修建并经营至 1998 年。高速现由国家基础设施基金（FONADIN）以特许方式持有，以通行费偿付。2016 年的普埃布拉高架：私人资本 52.3%，联邦 47.6%。" },
+      "source": "SCT, El Mirador, Autopista Cinco de Mayo; Grupo Mexicano de Desarrollo, Córdoba–Veracruz; FONADIN, tender LA-006G1C003-E9-2017, Annex B"
+    },
+    {
+      "label": { "en": "Puebla elevated viaduct", "zh": "普埃布拉高架" },
+      "value": { "en": "15.3 km, opened 17 October 2016; 10,500 million pesos, 52.3 per cent private and 47.6 per cent federal", "zh": "15.3 公里，2016 年 10 月 17 日通车；造价 105 亿比索，私人资本 52.3%、联邦 47.6%" },
+      "source": "SCT, El Mirador, Autopista Cinco de Mayo o camino directo México–Puebla"
+    },
+    {
+      "label": { "en": "Córdoba–Veracruz motorway", "zh": "科尔多瓦—韦拉克鲁斯高速" },
+      "value": { "en": "98 km, four lanes, 15 bridges; in operation from October 1992", "zh": "98 公里，四车道，15 座桥；1992 年 10 月起运营" },
+      "source": "Grupo Mexicano de Desarrollo, Vías Terrestres: Córdoba–Veracruz"
+    }
+  ],
+  "timeline": [
+    { "year": 1873, "en": "The Veracruz–Mexico City railway opens through the valley of Maltrata.", "zh": "途经马尔特拉塔河谷的韦拉克鲁斯—墨西哥城铁路通车。" },
+    { "year": 1927, "en": "The federal México–Puebla road is inaugurated on 16 September.", "zh": "9 月 16 日，联邦墨西哥城—普埃布拉公路落成。" },
+    { "year": 1959, "en": "Work on a direct México–Puebla toll road begins in January.", "zh": "1 月，墨西哥城—普埃布拉直达收费公路开工。" },
+    { "year": 1962, "en": "Adolfo López Mateos opens the México–Puebla motorway on 5 May, the centenary of the Battle of Puebla.", "zh": "5 月 5 日，普埃布拉战役一百周年之际，阿道弗·洛佩斯·马特奥斯为墨西哥城—普埃布拉高速揭幕。" },
+    { "year": 1966, "en": "Puebla–Orizaba is listed by the ministry among the toll motorways opened this year.", "zh": "交通部把普埃布拉—奥里萨巴段列为当年开通的收费高速之一。" },
+    { "year": 1969, "en": "A new road high on the hills north of Maltrata opens, by Lira López's account.", "zh": "据利拉·洛佩斯记载，马尔特拉塔以北山上的新路通车。" },
+    { "year": 1992, "en": "The Córdoba–Veracruz motorway enters service in October.", "zh": "10 月，科尔多瓦—韦拉克鲁斯高速投入运营。" },
+    { "year": 1997, "en": "The México–Puebla motorway passes to FARAC, the new federal toll-road rescue trust.", "zh": "墨西哥城—普埃布拉高速移交新成立的联邦收费公路救助信托基金 FARAC。" },
+    { "year": 2010, "en": "A rockslide at the Cumbres de Maltrata closes one lane for six months.", "zh": "马尔特拉塔山脊发生落石，一条车道封闭六个月。" },
+    { "year": 2016, "en": "The twelve-lane rebuild at the Mexico City end is finished and the Puebla viaduct opens on 17 October.", "zh": "墨西哥城一端的十二车道改建完工；10 月 17 日，普埃布拉高架通车。" },
+    { "year": 2025, "en": "Citing floods in Veracruz, the ministry cancels the procurement of a supervising agent for widening the Córdoba–Orizaba–Ciudad Mendoza expressway.", "zh": "交通部以韦拉克鲁斯洪灾为由，取消科尔多瓦—奥里萨巴—门多萨城快速路拓宽项目监理代理机构的采购。" }
+  ]
+}

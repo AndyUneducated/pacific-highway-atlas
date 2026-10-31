@@ -1,0 +1,85 @@
+{
+  "id": "mex-175",
+  "route": { "sys": "mx-federal", "num": "175" },
+  "name": { "en": "Federal Highway 175 (Tuxtepec–Oaxaca–Puerto Ángel)", "zh": "175 号联邦公路（图斯特佩克—瓦哈卡—安赫尔港）" },
+  "aka": [
+    { "en": "Carretera Tuxtepec–Oaxaca (the Sierra Juárez road)", "zh": "图斯特佩克—瓦哈卡公路（华雷斯山区公路）" },
+    { "en": "Carretera Oaxaca–Puerto Ángel; Carretera Troncal 175", "zh": "瓦哈卡—安赫尔港公路；175 号干线公路" }
+  ],
+  "tagline": { "en": "A narrow mountain road that crosses Oaxaca from the Gulf lowlands to the Pacific, climbing over the Sierra Juárez to the state capital and over the Sierra Sur by San José del Pacífico to the coast", "zh": "一条狭窄的山区公路，从墨西哥湾低地横穿瓦哈卡直达太平洋：先翻越华雷斯山脉抵达州府，再经圣何塞德尔帕西菲科翻过南马德雷山脉南段下到海岸" },
+  "termini": {
+    "start": { "at": [-95.637, 18.715], "en": "Near Buenavista, Veracruz, at the junction with Federal Highway 180 on the Gulf coastal plain", "zh": "韦拉克鲁斯州布埃纳维斯塔附近，墨西哥湾沿岸平原上与 180 号联邦公路的交会处" },
+    "end": { "at": [-96.488, 15.669], "en": "Puerto Ángel, Oaxaca, on the Pacific, beyond the crossing of Federal Highway 200 at Pochutla", "zh": "瓦哈卡州太平洋岸边的安赫尔港，过波丘特拉与 200 号联邦公路的交会处之后" }
+  },
+  "sections": [
+    {
+      "key": "character",
+      "en": [
+        "Federal Highway 175 runs from Highway 180 on the Veracruz coastal plain south through Cosamaloapan, where it meets Highway 145, to Tuxtepec on the Papaloapan, and then climbs into the Sierra Juárez by Valle Nacional, Ixtlán de Juárez and Guelatao, the birthplace of Benito Juárez, to Oaxaca city. South of the capital it runs down the central valleys by Ocotlán, Ejutla and Miahuatlán, crosses the Sierra Sur at San José del Pacífico, and descends by Candelaria Loxicha to Pochutla and the port of Puerto Ángel.",
+        "English Wikipedia, from the 2011 road data, gives the length as 579.35 km. The transport research institute IMT, describing the Oaxaca network in 2000, counted 474.3 km within the state and described the road as 5.5 m wide, against 10 m for the trans-isthmus Highway 185. The Oaxaca–Puerto Ángel section runs to about kilometre 247 in the ministry's own works records."
+      ],
+      "zh": [
+        "175 号联邦公路自韦拉克鲁斯沿海平原上的 180 号公路向南，经科萨马洛阿潘（在此与 145 号公路交会）到达帕帕洛阿潘河畔的图斯特佩克，然后经巴耶纳西奥纳尔、伊斯特兰德华雷斯和贝尼托·华雷斯的出生地格拉陶攀入华雷斯山脉，抵达瓦哈卡城。州府以南，公路沿中部谷地经奥科特兰、埃胡特拉和米亚瓦特兰南下，在圣何塞德尔帕西菲科越过南部山脉，再经坎德拉里亚洛希查下到波丘特拉和安赫尔港。",
+        "英语维基百科依据 2011 年道路数据给出全长 579.35 公里。墨西哥交通研究所（IMT）在描述 2000 年瓦哈卡路网时，统计该路州内长 474.3 公里、宽 5.5 米，而横贯地峡的 185 号公路宽 10 米。在交通部自己的工程记录中，瓦哈卡—安赫尔港段的里程桩号排到约 247 公里。"
+      ]
+    },
+    {
+      "key": "history",
+      "en": [
+        "The northern half grew out of the opening of the Papaloapan basin and the Sierra Juárez forests after 1947. A presidential decree of 1956 created a forestry unit to supply the paper mill at Tuxtepec, Fábrica de Papel Tuxtepec (FAPATUX), founded in 1958; roads into the sierra were then built jointly by the federal public works ministry, FAPATUX and the state government, financed by the Papaloapan Commission. According to Spanish Wikipedia's history of Tuxtepec, the Tuxtepec–Oaxaca road was first built as a dirt road under Governor Alfonso Pérez Gasga and paved under Governor Víctor Bravo Ahuja, a native of Tuxtepec.",
+        "The southern half was finished later. On 21 March 1982 President José López Portillo inaugurated the paved road from Miahuatlán to San Pedro Pochutla, completing the link between the central valleys and the Pacific coast.",
+        "The mountain section south of Miahuatlán is exposed to Pacific storms. A Oaxaca state deputy complained in 2014 that kilometres 100 to 132 had not been repaired since Hurricane Carlotta in June 2012 and the rains of October 2013. Hurricane Agatha, which struck the coast in May 2022, caused landslides on the road at San José del Pacífico, at the Jalatengo bridge and at El Porvenir; the ministry spent about 28 million pesos on emergency works between kilometres 112 and 247 and rebuilt the Miahuatlán II bridge at kilometre 98."
+      ],
+      "zh": [
+        "北半段源于 1947 年以后对帕帕洛阿潘流域和华雷斯山区森林的开发。1956 年的一项总统令设立了一个林业单位，为图斯特佩克造纸厂（FAPATUX，1958 年建厂）供应原料；此后通往山区的道路由联邦公共工程部、FAPATUX 和州政府三方合建，由帕帕洛阿潘委员会出资。据西班牙语维基百科的图斯特佩克历史，图斯特佩克—瓦哈卡公路最初在州长阿方索·佩雷斯·加斯加任内修成土路，后在图斯特佩克出身的州长比克托·布拉沃·阿胡哈任内铺装。",
+        "南半段完成较晚。1982 年 3 月 21 日，何塞·洛佩斯·波蒂略总统为米亚瓦特兰至圣佩德罗波丘特拉的铺装公路主持通车，打通了中部谷地与太平洋沿岸之间的连接。",
+        "米亚瓦特兰以南的山区路段易受太平洋风暴侵袭。2014 年，一位瓦哈卡州议员抱怨称，100 至 132 公里路段自 2012 年 6 月卡洛塔飓风和 2013 年 10 月的降雨以来一直未获修复。2022 年 5 月登陆海岸的阿加莎飓风在圣何塞德尔帕西菲科、哈拉滕戈桥和埃尔波韦尼尔等处引发路段滑坡；交通部在 112 至 247 公里之间投入约 2,800 万比索进行抢险，并重建了 98 公里处的米亚瓦特兰二号桥。"
+      ]
+    },
+    {
+      "key": "money",
+      "en": [
+        "The road is federal and maintained from the ministry's conservation budget. At the Oaxaca end, the state government prepared a cost-benefit analysis in 2021 for widening kilometres 1 to 6.3, from the city to the airport junction, with a new bridge over the Río Salado; the first stage was costed at 197.6 million pesos."
+      ],
+      "zh": [
+        "该路属联邦公路，由交通部养护预算维护。在瓦哈卡城一端，州政府于 2021 年编制了成本效益分析，拟拓宽从市区到机场路口的 1 至 6.3 公里路段，并新建跨越萨拉多河的桥梁；第一期造价估算为 1.976 亿比索。"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "label": { "en": "Length", "zh": "长度" },
+      "value": { "en": "579.35 km from the 2011 Datos Viales, as cited in English Wikipedia; 474.3 km within Oaxaca, 5.5 m wide (IMT, 2000)", "zh": "579.35 公里，出自 2011 年《道路数据》，据英语维基百科引述；瓦哈卡州内 474.3 公里，宽 5.5 米（IMT，2000 年）" },
+      "source": "SCT, Datos Viales 2011, as cited in English Wikipedia, Mexican Federal Highway 175; IMT, Publicación Técnica 305, Movilidad y desarrollo regional en Oaxaca"
+    },
+    {
+      "label": { "en": "Construction cost", "zh": "造价" },
+      "why": { "en": "No public figure for the original construction, carried out in stages from the 1950s to 1982 by the federal government, the Papaloapan Commission and the state.", "zh": "原有公路由联邦政府、帕帕洛阿潘委员会和州政府自 1950 年代至 1982 年分阶段修建，无公开造价。" }
+    },
+    {
+      "label": { "en": "Funding", "zh": "出资方" },
+      "value": { "en": "Federal, with the Papaloapan Commission financing the roads into the Sierra Juárez in partnership with FAPATUX and the Oaxaca government.", "zh": "联邦出资；通往华雷斯山区的道路由帕帕洛阿潘委员会出资，与 FAPATUX 和瓦哈卡州政府合作修建。" },
+      "source": "Historia Ambiental Latinoamericana y Caribeña (HALAC), Apuestas del Estado mexicano, on FAPATUX and the Sierra Norte"
+    },
+    {
+      "label": { "en": "Hurricane Agatha emergency works, 2022", "zh": "2022 年阿加莎飓风抢险工程" },
+      "value": { "en": "About 28.4 million pesos on Oaxaca–Puerto Ángel, km 112–247; 9.1 million to rebuild the Miahuatlán II bridge at km 98+670", "zh": "瓦哈卡—安赫尔港 112 至 247 公里约 2,840 万比索；重建 98+670 处米亚瓦特兰二号桥 910 万比索" },
+      "source": "SICT, Dirección General de Conservación de Carreteras, Oaxaca, cierre diciembre 2022"
+    },
+    {
+      "label": { "en": "Oaxaca–airport widening (proposed)", "zh": "瓦哈卡—机场段拓宽（拟议）" },
+      "value": { "en": "197.6 million pesos for the first stage, km 1–6.3, in the state's 2021 cost-benefit analysis", "zh": "州政府 2021 年成本效益分析中，1 至 6.3 公里第一期 1.976 亿比索" },
+      "source": "Secretaría de Finanzas de Oaxaca, Análisis costo-beneficio, Carretera Troncal 175, 2021"
+    }
+  ],
+  "timeline": [
+    { "year": 1947, "en": "The Papaloapan Commission is created; it later finances roads into the Sierra Juárez.", "zh": "帕帕洛阿潘委员会成立，后来为通往华雷斯山区的道路出资。" },
+    { "year": 1956, "en": "A presidential decree creates the forestry unit supplying the Tuxtepec paper mill.", "zh": "总统令设立为图斯特佩克造纸厂供应原料的林业单位。" },
+    { "year": 1958, "en": "The FAPATUX paper mill is founded at Tuxtepec.", "zh": "FAPATUX 造纸厂在图斯特佩克建立。" },
+    { "year": 1982, "en": "José López Portillo inaugurates the paved Miahuatlán–Pochutla road on 21 March.", "zh": "3 月 21 日，何塞·洛佩斯·波蒂略为铺装的米亚瓦特兰—波丘特拉公路主持通车。" },
+    { "year": 2012, "en": "Hurricane Carlotta damages the mountain section south of Miahuatlán.", "zh": "卡洛塔飓风损毁米亚瓦特兰以南的山区路段。" },
+    { "year": 2014, "en": "A state deputy demands the repair of kilometres 100 to 132, still unrepaired.", "zh": "一位州议员要求修复仍未修好的 100 至 132 公里路段。" },
+    { "year": 2021, "en": "The Oaxaca government costs the widening of the road from the city to the airport.", "zh": "瓦哈卡州政府对市区至机场段的拓宽进行造价测算。" },
+    { "year": 2022, "en": "Hurricane Agatha causes landslides at San José del Pacífico; the ministry carries out emergency works.", "zh": "阿加莎飓风在圣何塞德尔帕西菲科等处引发滑坡；交通部实施抢险工程。" }
+  ]
+}

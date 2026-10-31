@@ -1,0 +1,96 @@
+{
+  "id": "tw-15",
+  "route": { "sys": "tw-provincial", "num": "15" },
+  "name": { "en": "Western Coastal Highway, northern section", "zh": "西部滨海公路北段" },
+  "aka": [
+    { "en": "Xibin Highway", "zh": "西滨公路" },
+    { "en": "Zhonghua Road (Bali section)", "zh": "中华路（八里段）" }
+  ],
+  "tagline": { "en": "From Tamsui over the Guandu bridge and down the north-west coast past Taoyuan airport to Hsinchu, the surface road beside the West Coast Expressway", "zh": "自淡水越过关渡大桥，沿西北海岸经桃园机场南下至新竹，是西滨快速公路旁的平面道路" },
+  "termini": {
+    "start": { "at": [121.46, 25.13], "en": "Zhuwei, Tamsui, New Taipei, at the east end of the Guandu bridge, on Provincial Highways 2 and 2B", "zh": "新北市淡水区竹围，关渡大桥东端，衔接台 2 线、台 2 乙线" },
+    "end": { "at": [120.91, 24.79], "en": "Guliao, Xiangshan, Hsinchu city, at the north end of the Jinshui bridge, where it meets Provincial Highway 61", "zh": "新竹市香山区罟寮浸水桥北端，衔接台 61 线" }
+  },
+  "sections": [
+    {
+      "key": "character",
+      "en": [
+        "Provincial Highway 15 runs 78.900 km from Tamsui across the mouth of the Tamsui river on the Guandu bridge, through Bali, where it is called Zhonghua Road and meets Highway 64, and along the coast through Linkou and Luzhu to Dayuan. There it shares about 1 km with Highway 4 at Zhuwei and passes Taoyuan international airport on its seaward side, then runs on through Guanyin, Xinwu, Xinfeng and Zhubei to the Nanliao coast of Hsinchu.",
+        "For most of its length it runs beside Highway 61, the West Coast Expressway, and in Xinfeng and Zhubei shares its structure. Before the expressway was built, the coastal highway carried the heavy traffic of the Taoyuan coast industrial areas alone; in 2018 the mayor of Taoyuan said it had been overloaded and prone to accidents. Speed limits are 40 to 70 km/h."
+      ],
+      "zh": [
+        "台 15 线全长 78.900 公里，自淡水经关渡大桥跨越淡水河口，经八里（此段称中华路，与台 64 线交会），沿海岸经林口、芦竹至大园，在竹围与台 4 线共线约 1 公里，经桃园国际机场靠海一侧，再经观音、新屋、新丰、竹北至新竹南寮海岸。",
+        "全线大部分与台 61 线西滨快速公路并行，在新丰、竹北一带并与之共构。快速公路建成前，桃园沿海各工业区的大量交通全靠这条滨海公路；2018 年桃园市长表示，过去只有台 15 线，负荷重且常发生车祸。全线限速每小时 40 至 70 公里。"
+      ]
+    },
+    {
+      "key": "history",
+      "en": [
+        "The Guandu bridge was ordered by the premier, Chiang Ching-kuo, in 1976. A works office was set up in 1977, the design was by China Engineering Consultants with T. Y. Lin, and the steel was fabricated by the Tang Eng Iron Works; work ran from 1978 to 1983. It opened on 31 October 1983 with the provincial governor, Lee Teng-hui, attending. Tolls were charged from 1 December 1983, NT$30 for large vehicles and NT$20 for small, and were expected to repay the bridge by 1997; they ended early, on 1 January 1991.",
+        "In 1992 the coastal highway was raised to expressway standard under the Six-Year National Development Plan, and the expressway, Highway 61, was built beside it in stages; the Bali–Linkou section opened in 2008, and Yong'an to Xinfeng on 19 May 2018. A short link, Highway 15A, joined the two in Dayuan from 20 April 2004 until 12 January 2026.",
+        "On 16 February 1998, at about 20:05, China Airlines flight CI676, an Airbus A300 landing at Taoyuan, crashed onto Highway 15, Guoji Road section 2, in Dayuan, destroying houses at numbers 715–721. All 196 on board died; Chinese Wikipedia gives 7 dead on the ground and 203 in all, the United Daily News archive 6 and 202. A car on the highway was hit and its five occupants killed. The governor of the central bank was among the dead."
+      ],
+      "zh": [
+        "关渡大桥由时任行政院长蒋经国于 1976 年指示兴建。1977 年成立工程处，由中华工程顾问司与林同棪设计，唐荣铁工厂制造钢构，1978 年至 1983 年施工。1983 年 10 月 31 日通车，台湾省主席李登辉出席。1983 年 12 月 1 日起收费，大型车 30 元、小型车 20 元，原预计 1997 年回收成本，1991 年 1 月 1 日提前停止收费。",
+        "1992 年，西部滨海公路提高标准为快速公路，纳入“六年国建”，台 61 线随后在其旁分段兴建；八里至林口段于 2008 年通车，永安至新丰段于 2018 年 5 月 19 日通车。在大园连接两线的台 15 甲线，存续于 2004 年 4 月 20 日至 2026 年 1 月 12 日。",
+        "1998 年 2 月 16 日约 20 时 5 分，华航 CI676 班机（空中客车 A300）降落桃园时坠落于大园台 15 线国际路二段，715 至 721 号民宅被毁。机上 196 人全部罹难；地面死亡人数，中文维基百科作 7 人、合计 203 人，联合报《报时光》作 6 人、合计 202 人。公路上一辆汽车被撞，车内五人死亡。中央银行总裁许远东亦在罹难者之中。"
+      ]
+    },
+    {
+      "key": "engineering",
+      "en": [
+        "The Guandu bridge is a five-span continuous steel tied arch with a 165 m main span, 539 m long over the river (530 m in a 1983 newspaper report) and 809 m with its approaches, 19 m wide with four lanes and footways. It was fully welded without rivets, from about 6,000 tonnes of China Steel plate, and its last arch section weighed 1,750 tonnes.",
+        "The newest piece is the realignment round Taoyuan airport's third runway. Work began on 20 October 2021, and the new road opened at 18:00 on 23 May 2026 with the premier attending. A 12 January 2026 announcement moved 26.370–32.200 km onto the new road, now 26.370–32.460 km, and handed the old road to the Civil Aeronautics Administration, lengthening the route from 78.640 km to 78.900 km."
+      ],
+      "zh": [
+        "关渡大桥为五跨连续钢系拱桥，主跨 165 米，跨河主桥长 539 米（1983 年报道作 530 米），连引桥 809 米，宽 19 米，设四车道及人行道。全桥焊接、不用铆钉，使用中钢钢板约 6,000 吨，最后合龙的拱段重 1,750 吨。",
+        "最新的一段是配合桃园机场第三跑道的改线。工程于 2021 年 10 月 20 日开工，新路于 2026 年 5 月 23 日 18 时通车，行政院长卓荣泰出席。2026 年 1 月 12 日的公告将 26.370 至 32.200 公里改至新路（新里程 26.370 至 32.460 公里），旧路移交民航局，全线长度由 78.640 公里增至 78.900 公里。"
+      ]
+    },
+    {
+      "key": "money",
+      "en": [
+        "No cost is published for the coastal road as a whole. The Guandu bridge cost NT$2.5 billion including its link roads, by a United Daily News report of September 1983, and was meant to be repaid by tolls. The airport realignment cost NT$2.452 billion, by the Highway Bureau's northern new-construction office, as part of the third-runway project, put at NT$37.4 billion."
+      ],
+      "zh": [
+        "全线未公布总造价。据《联合报》1983 年 9 月报道，关渡大桥连同联络道路造价 25 亿元，原定以通行费回收。机场段改线经费 24.52 亿元（公路局北区新建工程分局资料），属第三跑道计划的一部分；第三跑道计划经费 374 亿元。"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "label": { "en": "Construction cost", "zh": "造价" },
+      "why": { "en": "No route-wide figure is published. The two priced works are the Guandu bridge and the 2021–26 airport realignment, listed below.", "zh": "未公布全线造价。有金额的两项工程为关渡大桥与 2021—2026 年的机场段改线，另列如下。" }
+    },
+    {
+      "label": { "en": "Funding", "zh": "出资方" },
+      "why": { "en": "No breakdown has been published. The Guandu bridge was built by a dedicated works office and was to be repaid by tolls, which were stopped in 1991; the airport realignment belongs to the third-runway programme, but who paid what share of it was not found.", "zh": "未见出资构成公布。关渡大桥由专设工程处兴建，原以通行费回收，1991 年停止收费；机场段改线属第三跑道计划，各方分摊比例未查到。" }
+    },
+    {
+      "label": { "en": "Guandu bridge", "zh": "关渡大桥" },
+      "value": { "en": "NT$2.5 billion including link roads; opened 31 October 1983; main span 165 m", "zh": "连同联络道路 25 亿元；1983 年 10 月 31 日通车；主跨 165 米" },
+      "source": "United Daily News, 9 September 1983, via udn 報時光; T.Y. Lin International Taiwan project page"
+    },
+    {
+      "label": { "en": "Airport realignment", "zh": "机场段改线" },
+      "value": { "en": "NT$2.452 billion; work began 20 October 2021; opened 23 May 2026", "zh": "24.52 亿元；2021 年 10 月 20 日开工；2026 年 5 月 23 日通车" },
+      "source": "Highway Bureau Northern Region New Construction Branch project page; Central News Agency, 23 May 2026"
+    },
+    {
+      "label": { "en": "Length", "zh": "长度" },
+      "value": { "en": "78.900 km since 2026 (78.640 km before); English Wikipedia gives 83.9 km from a 2020 list", "zh": "2026 年起 78.900 公里（此前 78.640 公里）；英文维基百科依 2020 年路线表作 83.9 公里" },
+      "source": "Executive Yuan announcement of 12 January 2026, as cited in Chinese Wikipedia, 台15線; English Wikipedia, Provincial Highway 15 (Taiwan)"
+    }
+  ],
+  "timeline": [
+    { "year": 1976, "en": "The premier orders a bridge over the mouth of the Tamsui river at Guandu.", "zh": "行政院长指示兴建关渡大桥。" },
+    { "year": 1978, "en": "Work starts on the Guandu bridge.", "zh": "关渡大桥动工。" },
+    { "year": 1983, "en": "The Guandu bridge opens on 31 October; tolls begin on 1 December.", "zh": "10 月 31 日关渡大桥通车；12 月 1 日开始收费。" },
+    { "year": 1991, "en": "Guandu bridge tolls end on 1 January.", "zh": "1 月 1 日，关渡大桥停止收费。" },
+    { "year": 1992, "en": "The coastal highway is raised to expressway standard under the Six-Year Plan.", "zh": "西部滨海公路提高为快速公路标准，纳入六年国建。" },
+    { "year": 1998, "en": "China Airlines CI676 crashes onto the highway in Dayuan on 16 February.", "zh": "2 月 16 日，华航 CI676 班机坠落于大园台 15 线。" },
+    { "year": 2004, "en": "Highway 15A, a link to the expressway, is numbered on 20 April.", "zh": "4 月 20 日，连接快速公路的台 15 甲线纳编。" },
+    { "year": 2021, "en": "Work begins on 20 October on the realignment round the airport's third runway.", "zh": "10 月 20 日，配合机场第三跑道的改线工程开工。" },
+    { "year": 2026, "en": "Highway 15A is struck off on 12 January; the airport realignment opens on 23 May.", "zh": "1 月 12 日台 15 甲线解编；5 月 23 日机场段改线通车。" }
+  ]
+}

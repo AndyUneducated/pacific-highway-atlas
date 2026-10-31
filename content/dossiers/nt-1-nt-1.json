@@ -1,0 +1,89 @@
+{
+  "id": "nt-1-nt-1",
+  "route": { "sys": "ca-nhs", "num": "1", "anchor": [-120.246, 61.206] },
+  "name": { "en": "Highway 1 (Mackenzie Highway)", "zh": "1 号公路（麦肯齐公路）" },
+  "aka": [
+    { "en": "Mackenzie Highway (continuing south as Alberta Highway 35 to Grimshaw)", "zh": "麦肯齐公路（向南续为艾伯塔 35 号公路，通往格里姆肖）" },
+    { "en": "Highway of Heroes (Alberta border to Enterprise)", "zh": "英雄公路（艾伯塔省界至恩特普赖斯）" },
+    { "en": "Mackenzie Valley Highway (proposed extension north of Wrigley)", "zh": "麦肯齐河谷公路（规划中的赖格利以北延伸段）" }
+  ],
+  "tagline": { "en": "The Northwest Territories' first road to the south, now running 690 km into the Dehcho with two river crossings that are ferries in summer and ice in winter", "zh": "西北地区第一条通往南方的公路，如今深入德乔地区 690 公里，两处过河夏季靠渡轮、冬季走冰桥" },
+  "termini": {
+    "start": { "en": "The Alberta boundary at the 60th parallel, where Alberta Highway 35 becomes Highway 1", "zh": "北纬 60 度的艾伯塔省界，艾伯塔 35 号公路在此变为 1 号公路", "at": [-116.983, 60.0] },
+    "end": { "en": "Wrigley, on the Mackenzie River, where the all-weather road ends and the winter road continues north to Norman Wells", "zh": "麦肯齐河畔的赖格利，全天候公路在此结束，冬季道路继续北通诺曼韦尔斯", "at": [-123.489, 63.236] }
+  },
+  "sections": [
+    {
+      "key": "character",
+      "en": [
+        "The Mackenzie Highway starts at Mile Zero in Grimshaw, Alberta, and runs about 1,160 km to Wrigley; the last 690 km, from the 60th parallel, are Northwest Territories Highway 1. It is part of the National Highway System, a core route as far as the junction with the Yellowknife Highway and a northern and remote route beyond it.",
+        "From the Alberta border it runs through boreal forest to Enterprise, where Highway 2 branches north to Hay River, and on past the Kakisa River to the turn for Fort Providence and Yellowknife. West of there it crosses the Trout River, passes the access road to Jean Marie River and meets the Liard Highway from British Columbia at Checkpoint, then turns north.",
+        "Two crossings make it a seasonal road: the Liard River near Fort Simpson, served by the ferry MV Lafferty from about late May to late October and by an ice bridge in winter, and the Mackenzie River at N'Dulee, by the MV Johnny Berens in summer and ice from about mid-December. The published seasons leave gaps at freeze-up and break-up. Beyond Wrigley a winter road continues to Norman Wells, Fort Good Hope and Colville Lake."
+      ],
+      "zh": [
+        "麦肯齐公路起于艾伯塔省格里姆肖的“零英里”，全长约 1,160 公里，通往赖格利；自北纬 60 度起的最后 690 公里即西北地区 1 号公路。它属于国家公路系统，在耶洛奈夫公路路口以南为核心路线，以北为北方与偏远路线。",
+        "公路自艾伯塔省界穿过北方针叶林到恩特普赖斯，2 号公路在此向北分出通往海里弗；再经卡基萨河到通往普罗维登斯堡和耶洛奈夫的路口。由此向西，它跨过特劳特河，经过通往琼玛丽河的支路，在“检查站”与来自不列颠哥伦比亚的利亚德公路相会，然后折向北。",
+        "两处过河使它成为季节性道路：辛普森堡附近的利亚德河，约 5 月下旬至 10 月下旬由“拉弗蒂号”渡轮摆渡，冬季走冰桥；恩杜利的麦肯齐河，夏季由“约翰尼·贝伦斯号”渡轮摆渡，约 12 月中旬起走冰桥。公布的通行季在封冻和解冻时留有空档。赖格利以北，冬季道路继续通往诺曼韦尔斯、古德霍普堡和科尔维尔湖。"
+      ]
+    },
+    {
+      "key": "history",
+      "en": [
+        "The highway follows the line of a winter road opened in 1939, and work on a highway that had begun before the war was abandoned when it broke out. In November 1945 Alberta and Canada agreed to build the road to Great Slave Lake, and it was built between 1945 and 1948; the first tourists drove into Hay River on 20 August 1948. Some stretches, especially around Steen River in Alberta, stayed notoriously bad for years.",
+        "In 1960 the road was extended from Enterprise north-west past Fort Providence to Rae-Edzo and Yellowknife; that branch is now Highway 3, and the stub from Enterprise to Hay River is Highway 2. Around 1970 the Mackenzie Highway was pushed west from the Yellowknife junction, and the section to Fort Simpson opened in 1971.",
+        "Work then began on a grade from Fort Simpson to Wrigley, intended eventually to reach the Dempster Highway south of Inuvik, but it was abandoned in 1977. The road was finally completed to Wrigley in 1994, with the N'Dulee crossing of the Mackenzie. On 8 November 2013 the section from the Alberta border to Enterprise was designated the Highway of Heroes.",
+        "The extension north has been studied for decades. In March 2026 Prime Minister Mark Carney referred the Mackenzie Valley Highway to the federal Major Projects Office and announced that construction would start that summer, beginning with bridges and with resurfacing Highway 1 between N'Dulee and Wrigley."
+      ],
+      "zh": [
+        "公路沿 1939 年开辟的一条冬季道路而建；战前已经动工的公路工程则在战争爆发后中止。1945 年 11 月，艾伯塔与联邦达成协议修建通往大奴湖的道路，工程于 1945 至 1948 年完成；1948 年 8 月 20 日，第一批游客驾车抵达海里弗。部分路段，尤其是艾伯塔境内斯廷河一带，多年来路况之差出了名。",
+        "1960 年，道路自恩特普赖斯向西北延伸，经普罗维登斯堡通往雷—埃德佐和耶洛奈夫；这条支线今为 3 号公路，恩特普赖斯至海里弗的短线为 2 号公路。约 1970 年，麦肯齐公路自耶洛奈夫路口向西推进，通往辛普森堡的路段于 1971 年通车。",
+        "此后开始修筑辛普森堡至赖格利的路基，原打算最终接上因纽维克以南的登普斯特公路，但工程于 1977 年中止。直到 1994 年，道路才连同恩杜利的麦肯齐河渡口修到赖格利。2013 年 11 月 8 日，艾伯塔省界至恩特普赖斯段被命名为“英雄公路”。",
+        "向北延伸已研究了几十年。2026 年 3 月，总理马克·卡尼把麦肯齐河谷公路提交联邦重大项目办公室，并宣布当年夏季开工，首先修建桥梁，并重铺恩杜利至赖格利之间的 1 号公路。"
+      ]
+    },
+    {
+      "key": "money",
+      "en": [
+        "The original road was a federal–provincial project under the 1945 agreement; in June 1948 Parliament was asked for $471,700 to complete the Northwest Territories portion. No total cost for the highway has been found.",
+        "The money now is for going further. In 2018 Canada committed $102.5 million from the National Trade Corridors Fund and the territorial government $37.5 million, $140 million in all, for the Great Bear River bridge at Tulita and an all-weather link north to Mount Gaudet. In September 2026 Ottawa announced $405 million from its Arctic Infrastructure Fund, including design work on bridges at the Liard and N'Dulee crossings. CBC has reported estimates of $1.65 billion for the first phase, Wrigley to Norman Wells, and roughly $2 billion more to reach Inuvik."
+      ],
+      "zh": [
+        "原有道路是依据 1945 年协议实施的联邦—省合作项目；1948 年 6 月，议会审议了为完成西北地区路段所需的 47.17 万加元拨款。未查到这条公路的总造价。",
+        "如今的资金用于继续向前修。2018 年，联邦从“国家贸易走廊基金”承诺 1.025 亿加元，西北地区政府出资 3,750 万加元，合计 1.4 亿加元，用于修建图利塔的大熊河大桥及向北通往高代山的全天候道路。2026 年 9 月，联邦宣布从“北极基础设施基金”拨款 4.05 亿加元，其中包括利亚德河和恩杜利两处渡口的桥梁设计。据加拿大广播公司报道，第一期赖格利至诺曼韦尔斯的估算造价为 16.5 亿加元，通往因纽维克还需约 20 亿加元。"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "label": { "en": "Length", "zh": "长度" },
+      "value": { "en": "690 km from the Alberta border to Wrigley; the whole Mackenzie Highway from Grimshaw is about 1,160 km.", "zh": "艾伯塔省界至赖格利 690 公里；麦肯齐公路自格里姆肖起全长约 1,160 公里。" },
+      "source": "English Wikipedia, Mackenzie Highway"
+    },
+    {
+      "label": { "en": "Construction cost", "zh": "造价" },
+      "why": { "en": "No cost for the highway as a whole has been published. The only contemporary figure found is the $471,700 Parliament was asked for in 1948 to finish the Northwest Territories portion of the road to Great Slave Lake.", "zh": "这条公路的总造价从未公布。查到的唯一同期数字，是 1948 年议会为完成通往大奴湖道路的西北地区路段而审议的 47.17 万加元。" }
+    },
+    {
+      "label": { "en": "Funding", "zh": "出资方" },
+      "value": { "en": "Federal and Alberta governments under a November 1945 agreement for the original road; federal money in the Northwest Territories portion (1948). The northward extension is federal and territorial: $102.5 million federal and $37.5 million territorial (2018), and $405 million federal (2026).", "zh": "原有道路依据 1945 年 11 月协议由联邦与艾伯塔省出资；西北地区路段使用联邦资金（1948 年）。向北延伸由联邦与地区政府出资：2018 年联邦 1.025 亿、地区 3,750 万加元；2026 年联邦 4.05 亿加元。" },
+      "source": "Government of the Northwest Territories, NWT Timeline; House of Commons Debates, 22 June 1948 (Lipad); CBC News, Mackenzie Valley Highway project to get $102M boost from federal gov't, 27 June 2018; CBC News, 2026"
+    },
+    {
+      "label": { "en": "River crossings", "zh": "过河渡口" },
+      "value": { "en": "Liard River: MV Lafferty ferry from about mid or late May to late October, ice bridge from about late November to mid-April. Mackenzie River at N'Dulee: MV Johnny Berens from about late May to late October, ice bridge from about mid-December to mid-April.", "zh": "利亚德河：“拉弗蒂号”渡轮约 5 月中下旬至 10 月下旬运营，冰桥约 11 月下旬至次年 4 月中旬开放。恩杜利的麦肯齐河：“约翰尼·贝伦斯号”渡轮约 5 月下旬至 10 月下旬运营，冰桥约 12 月中旬至次年 4 月中旬开放。" },
+      "source": "Government of the Northwest Territories, Department of Infrastructure, Highway 1 (as cited in English Wikipedia, Mackenzie Highway)"
+    }
+  ],
+  "timeline": [
+    { "year": 1939, "en": "A winter road is opened along the line the highway will later follow.", "zh": "一条冬季道路开通，日后的公路即沿其走向修建。" },
+    { "year": 1945, "en": "Alberta and Canada agree in November to build an all-weather road to Great Slave Lake.", "zh": "11 月，艾伯塔与联邦同意修建通往大奴湖的全天候道路。" },
+    { "year": 1948, "en": "The first tourists drive into Hay River on 20 August.", "zh": "8 月 20 日，第一批游客驾车抵达海里弗。" },
+    { "year": 1960, "en": "A branch is built from Enterprise past Fort Providence to Yellowknife.", "zh": "自恩特普赖斯经普罗维登斯堡通往耶洛奈夫的支线建成。" },
+    { "year": 1971, "en": "The highway west to Fort Simpson opens to traffic.", "zh": "向西通往辛普森堡的公路通车。" },
+    { "year": 1977, "en": "Work on the grade from Fort Simpson towards Wrigley is abandoned.", "zh": "辛普森堡至赖格利方向的路基工程中止。" },
+    { "year": 1994, "en": "The highway is completed to Wrigley, with the N'Dulee crossing of the Mackenzie River.", "zh": "公路连同恩杜利的麦肯齐河渡口修到赖格利。" },
+    { "year": 2013, "en": "The section from the Alberta border to Enterprise is designated the Highway of Heroes on 8 November.", "zh": "11 月 8 日，艾伯塔省界至恩特普赖斯段被命名为“英雄公路”。" },
+    { "year": 2018, "en": "Canada and the territory commit $140 million to the Great Bear River bridge and the first piece of the Mackenzie Valley Highway.", "zh": "联邦与地区政府承诺 1.4 亿加元，用于大熊河大桥和麦肯齐河谷公路的第一段。" },
+    { "year": 2026, "en": "Prime Minister Carney refers the Mackenzie Valley Highway to the Major Projects Office in March; $405 million follows in September.", "zh": "3 月，卡尼总理把麦肯齐河谷公路提交重大项目办公室；9 月追加 4.05 亿加元。" }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "i-88-il",
+  "route": { "sys": "us-interstate", "num": "88", "anchor": [-88.72, 41.89] },
+  "officialMi": 140.6,
+  "mileageSource": "FHWA Route Log and Finder List, Table 1, January 2022, as cited in English Wikipedia",
+  "name": { "en": "Interstate 88 (Illinois)", "zh": "88 号州际公路（伊利诺伊）" },
+  "aka": [
+    { "en": "Ronald Reagan Memorial Tollway (since 2004)", "zh": "罗纳德·里根纪念收费公路（2004 年起）" },
+    { "en": "East–West Tollway (the original name)", "zh": "东西收费公路（原名）" }
+  ],
+  "tagline": { "en": "A 1958 Chicago toll road and a 1970s freeway to the Quad Cities, made an Interstate in 1987 so that drivers could do 65", "zh": "一条 1958 年的芝加哥收费公路，加上一条 1970 年代通往四城地区的高速公路，1987 年为了让车速提到 65 英里而升为州际公路" },
+  "designatedYear": 1987,
+  "termini": {
+    "start": { "en": "I-80 near East Moline and Silvis, in the Quad Cities", "zh": "四城地区东莫林与锡尔维斯附近，与 I-80 相接", "at": [-90.35, 41.54] },
+    "end": { "en": "I-290 and I-294 at Hillside, on the western edge of Chicago", "zh": "芝加哥西缘的希尔赛德，与 I-290、I-294 相接", "at": [-87.90, 41.87] }
+  },
+  "sections": [
+    {
+      "key": "character",
+      "en": [
+        "I-88 is two roads. West of Rock Falls it is a free state freeway, maintained by the Illinois Department of Transportation, across the open farmland of Rock Island and Whiteside counties to the Quad Cities. East of the US 30 interchange near Rock Falls it becomes the Ronald Reagan Memorial Tollway, run by the Illinois State Toll Highway Authority, passing Dixon, Reagan's boyhood town, and the edge of DeKalb before reaching the suburbs.",
+        "Its eastern third is one of the Chicago region's main suburban corridors, running through Aurora, Naperville, Lisle, Downers Grove and Oak Brook to the Eisenhower Expressway at Hillside. On the way it keeps a relic of the pre-Interstate toll roads, the DeKalb Oasis, a commercial service area built in 1975 before the road became an Interstate, and allowed to stay open although federal law bars new commercial rest areas on Interstates."
+      ],
+      "zh": [
+        "I-88 是两条路。罗克福尔斯以西，它是一条免费的州高速公路，由伊利诺伊州交通部养护，穿过罗克艾兰县与怀特赛德县的开阔农田通往四城地区。在罗克福尔斯附近的 US 30 互通以东，它成为由伊利诺伊州收费公路管理局经营的罗纳德·里根纪念收费公路，经过里根少年时代的家乡迪克森和迪卡尔布边缘，再进入郊区。",
+        "它的东段三分之一是芝加哥地区的主要郊区走廊之一，经奥罗拉、内珀维尔、莱尔、唐纳斯格罗夫与奥克布鲁克，到希尔赛德接艾森豪威尔高速公路。沿途保留着一件州际公路以前的收费公路遗物——迪卡尔布服务区：这处商业服务区建于 1975 年，早于该路成为州际公路，因此尽管联邦法律禁止在州际公路上新设商业休息区，它仍得以继续营业。"
+      ]
+    },
+    {
+      "key": "history",
+      "en": [
+        "The road began as one of the first three Illinois toll roads, planned and built under the Illinois State Toll Highway Commission set up in 1953. The East–West Tollway opened on 21 November 1958 from the I-294 interchange near Hillside to US 30 near Sugar Grove, signed as US 30 Toll. When that designation was dropped in 1966 the tollway became IL 190, and in 1971 IL 5, the year work began on a 69-mile extension to Rock Falls. That extension opened in stages in 1974, reaching DeKalb on 15 August, Rochelle on 29 September and Rock Falls on 15 November.",
+        "West of Rock Falls the state built a free freeway to the Quad Cities as a federal-aid primary route; by 1979 it was complete to East Moline and also signed IL 5. The road was built to Interstate standards but was not an Interstate, and that mattered in 1987, when Congress amended the national speed limit to allow 65 mph only on rural Interstates. IDOT and the Tollway asked AASHTO to make IL 5 an Interstate, and that year it became I-88. The national speed limit was repealed in 1995; the number remained.",
+        "After Ronald Reagan died in 2004, the Tollway board renamed its section the Ronald Reagan Memorial Tollway, since it passes near his birthplace of Tampico and skirts Dixon. The original 1958 section was then rebuilt and widened between 2005 and 2012, to four lanes each way between IL 59 and York Road and three lanes each way near Aurora, as part of the Tollway's Congestion-Relief Program."
+      ],
+      "zh": [
+        "这条路起初是伊利诺伊州最早的三条收费公路之一，由 1953 年设立的伊利诺伊州收费公路委员会规划修建。东西收费公路于 1958 年 11 月 21 日通车，自希尔赛德附近的 I-294 互通至休格格罗夫附近的 US 30，标为“US 30 收费线”。1966 年这一编号取消后，收费公路改称 IL 190；1971 年又改为 IL 5，同年开始修建通往罗克福尔斯的 69 英里延长线。延长线于 1974 年分段通车：8 月 15 日到迪卡尔布，9 月 29 日到罗谢尔，11 月 15 日到罗克福尔斯。",
+        "罗克福尔斯以西，州政府以联邦补助主干道的名义修了一条通往四城地区的免费高速公路；到 1979 年已修到东莫林，同样标为 IL 5。这条路按州际公路标准修建，却不是州际公路——这在 1987 年变得要紧：那一年国会修改全国限速法，只允许农村地区的州际公路限速 65 英里。伊利诺伊州交通部与收费公路管理局请求 AASHTO 将 IL 5 改为州际公路，当年它就成了 I-88。全国限速法于 1995 年废除，编号则保留了下来。",
+        "2004 年罗纳德·里根去世后，收费公路管理局董事会将其路段改名为罗纳德·里根纪念收费公路，因为它经过里根的出生地坦皮科附近，并擦过迪克森。随后在 2005 至 2012 年间，1958 年的原始路段作为收费公路管理局“缓解拥堵计划”的一部分进行了改建和拓宽：IL 59 至约克路之间拓宽为双向八车道，奥罗拉附近拓宽为双向六车道。"
+      ]
+    },
+    {
+      "key": "money",
+      "en": [
+        "The tolled section was meant to be temporary. The state promised “Toll Free in ’73”, when the original construction bonds would be paid off, but the tolls stayed, and the Tollway instead borrowed again to extend and rebuild its roads. Its Congestion-Relief Program, adopted in 2004 at $6.3 billion for the whole system, budgeted about $991.6 million for I-88 between 2005 and 2012, financed by long-term revenue bonds that keep the road tolled."
+      ],
+      "zh": [
+        "收费路段原本只是权宜之计。州政府曾许诺“73 年免费”，即在原始建设债券还清时取消收费，但收费一直保留，收费公路管理局反而再次举债扩建和改建道路。其 2004 年通过、覆盖整个系统、总额 63 亿美元的“缓解拥堵计划”，在 2005 至 2012 年间为 I-88 编列了约 9.916 亿美元，资金来自长期收入债券，这也使该路必须继续收费。"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "label": { "en": "Construction cost", "zh": "造价" },
+      "why": { "en": "No published figure separates the 1958 East–West Tollway from the other two toll roads planned and opened with it in 1958, and none has been found for the 1974 extension or the free freeway west of Rock Falls.", "zh": "1958 年的东西收费公路与 1958 年同批规划通车的另两条收费公路并无分开的公开造价，1974 年延长线和罗克福尔斯以西的免费高速公路也未找到造价数据。" }
+    },
+    {
+      "label": { "en": "Funding", "zh": "出资方" },
+      "value": { "en": "East of Rock Falls, toll revenue bonds of the Illinois State Toll Highway Authority (originally the Toll Highway Commission); west of Rock Falls, state and federal-aid highway money through IDOT", "zh": "罗克福尔斯以东：伊利诺伊州收费公路管理局（前身为收费公路委员会）的通行费收入债券；罗克福尔斯以西：经由伊利诺伊州交通部的州资金与联邦补助公路资金" },
+      "source": "English Wikipedia, Illinois State Toll Highway Authority and Interstate 88 (Illinois)"
+    },
+    {
+      "label": { "en": "Rebuilding and widening, 2005–2012", "zh": "改建与拓宽（2005—2012 年）" },
+      "value": { "en": "About $991.6 million budgeted for I-88 within the $6.3 billion Congestion-Relief Program", "zh": "在 63 亿美元的“缓解拥堵计划”中为 I-88 编列约 9.916 亿美元" },
+      "source": "Illinois State Toll Highway Authority, Congestion-Relief Program Summary, Executive Summary, September 2007"
+    }
+  ],
+  "timeline": [
+    { "year": 1953, "en": "The Illinois State Toll Highway Commission is established.", "zh": "伊利诺伊州收费公路委员会成立。" },
+    { "year": 1958, "en": "The East–West Tollway opens on 21 November from Hillside to Sugar Grove, signed US 30 Toll.", "zh": "11 月 21 日，东西收费公路自希尔赛德至休格格罗夫通车，标为“US 30 收费线”。" },
+    { "year": 1966, "en": "The tollway is renumbered IL 190.", "zh": "收费公路改编为 IL 190。" },
+    { "year": 1971, "en": "It becomes IL 5, and work begins on the extension to Rock Falls.", "zh": "改编为 IL 5，通往罗克福尔斯的延长线开工。" },
+    { "year": 1974, "en": "The extension opens in stages to DeKalb, Rochelle and Rock Falls.", "zh": "延长线分段通车至迪卡尔布、罗谢尔与罗克福尔斯。" },
+    { "year": 1975, "en": "The DeKalb Oasis opens.", "zh": "迪卡尔布服务区启用。" },
+    { "year": 1979, "en": "The free freeway from Rock Falls to East Moline is complete.", "zh": "罗克福尔斯至东莫林的免费高速公路建成。" },
+    { "year": 1987, "en": "AASHTO approves the I-88 number, allowing a 65 mph limit.", "zh": "AASHTO 批准 I-88 编号，使限速可提高到 65 英里。" },
+    { "year": 2004, "en": "The tollway is renamed for Ronald Reagan.", "zh": "收费公路改以罗纳德·里根命名。" },
+    { "year": 2012, "en": "Reconstruction and widening of the original 1958 section is completed.", "zh": "1958 年原始路段的改建与拓宽完成。" }
+  ]
+}

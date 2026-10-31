@@ -1,0 +1,104 @@
+{
+  "id": "bc-5",
+  "route": { "sys": "ca-nhs", "num": "5", "anchor": [-120.117, 51.146] },
+  "name": { "en": "Highway 5 (Coquihalla and Southern Yellowhead Highway)", "zh": "5 号公路（科奎哈拉公路与南黄头公路）" },
+  "aka": [
+    { "en": "Coquihalla Highway, “the Coq” (Hope–Kamloops)", "zh": "科奎哈拉公路，俗称“the Coq”（霍普至坎卢普斯）" },
+    { "en": "Southern Yellowhead Highway (Kamloops–Tête Jaune Cache)", "zh": "南黄头公路（坎卢普斯至泰特若纳卡什）" },
+    { "en": "North Thompson Highway", "zh": "北汤普森公路" }
+  ],
+  "tagline": { "en": "A mountain freeway rushed through for Expo 86, paid back by tolls, then rebuilt after the 2021 floods", "zh": "为 1986 年世博会赶工修成的山地高速公路，靠收费还清造价，2021 年洪灾后又重建" },
+  "termini": {
+    "start": { "en": "The Othello interchange with Highway 3, seven kilometres east of Hope, where the Coquihalla begins", "zh": "霍普以东 7 公里与 3 号公路相交的奥赛罗立交，科奎哈拉公路由此开始", "at": [-121.448, 49.371] },
+    "end": { "en": "The junction with Yellowhead Highway 16 just across the Fraser at Tête Jaune Cache", "zh": "泰特若纳卡什跨过菲沙河后与黄头公路（16 号公路）的交会处", "at": [-119.422, 52.976] }
+  },
+  "sections": [
+    {
+      "key": "character",
+      "en": [
+        "Highway 5 is the shortest road between Vancouver and Edmonton, and it is two roads of very different kinds. The southern 186 km, from Hope to Kamloops, is the Coquihalla: a four- to six-lane freeway signed at 120 km/h for most of its length, climbing the Coquihalla River to the 1,244-metre Coquihalla Pass, crossing the Thompson Plateau through Merritt and topping out again at the Surrey Lake Summit, 1,444 metres, before dropping into Kamloops.",
+        "North of Kamloops it is the Southern Yellowhead, a mostly two-lane road of about 314 km following the North Thompson River and the Canadian National main line through Barriere, Clearwater, Blue River and Valemount. It has a single set of traffic lights, in Valemount, and ends at Highway 16 near Tête Jaune Cache.",
+        "The Coquihalla roughly follows the grade of the Kettle Valley Railway, abandoned in the late 1950s, and kept its Shakespearean station names: the interchanges at Othello, Portia and Shylock Road, and the Juliet bridges, take their names from sidings that were given Shakespearean names when the railway was built. Snowfall at the summit can exceed 10 cm an hour, and the stretch between Hope and Merritt has a reputation as one of the hardest winter drives in the province."
+      ],
+      "zh": [
+        "5 号公路是温哥华与埃德蒙顿之间最短的道路，它其实是两条截然不同的路。南段 186 公里，自霍普至坎卢普斯，即科奎哈拉公路：一条四至六车道的高速公路，大部分路段限速 120 公里/小时，沿科奎哈拉河爬升至海拔 1,244 米的科奎哈拉山口，经梅里特穿越汤普森高原，再于海拔 1,444 米的萨里湖垭口登上第二个高点，然后下到坎卢普斯。",
+        "坎卢普斯以北是南黄头公路，长约 314 公里，大部分为双车道，沿北汤普森河与加拿大国家铁路干线经巴里尔、克利尔沃特、布卢里弗和瓦莱芒特北上。全线只有一处红绿灯，位于瓦莱芒特；终点在泰特若纳卡什附近接 16 号公路。",
+        "科奎哈拉公路大致沿 20 世纪 50 年代末废弃的凯特尔谷铁路路基修建，也沿用了铁路的莎士比亚式站名：奥赛罗、波西亚、夏洛克路等立交和朱丽叶桥，都得名于修建铁路时以莎剧人物命名的会让站。山口降雪可超过每小时 10 厘米，霍普至梅里特一段被视为该省冬季最难驾驶的路段之一。"
+      ]
+    },
+    {
+      "key": "history",
+      "en": [
+        "The number 5 has moved more than once. From 1941 to 1953 it belonged to a route between the Okanagan and Salmon Arm; in 1953 it was given to the Princeton–Merritt–Kamloops road (now Highway 5A) and north of Kamloops, and by 1960 it reached Tête Jaune Cache. The section north of Kamloops was signed as the Southern Yellowhead from 1970.",
+        "The Coquihalla began as a campaign. From 1963 the Merritt Board of Trade staged vehicle caravans over the abandoned Kettle Valley grade to press for a direct road to Hope. Surveying started in 1973 and the first contract, 4.5 km near Hope, was let in 1979, but work went slowly until Premier Bill Bennett announced in 1984 that the road would be finished in time for Expo 86 in Vancouver. Phase 1, Hope to Merritt, opened on 16 May 1986, the convoy led by the premier in an open car; Phase 2, Merritt to Kamloops, was completed on 4 September 1987, and the Okanagan Connector to Kelowna, now Highway 97C, on 1 October 1990.",
+        "The rush cost money and a political reckoning. A provincial inquiry under Douglas MacKay reported in 1987 that the legislature and the public had been deliberately misled about the cost, that documents had been falsified to disguise it, and that in the matter of the Coquihalla the legislature had lost effective control of the public purse. The Hope–Merritt section was tolled, the only tolled highway in British Columbia, until the tolls were lifted on 26 September 2008. A 2003 plan to hand the road and its toll revenue to a private operator was dropped three months after it was announced.",
+        "On 14 and 15 November 2021 an atmospheric river dropped about 200 mm of rain on the route. More than 20 sites over 130 km between Hope and Merritt were damaged and bridge spans collapsed at Jessica, Juliet and Bottletop. Crews reopened the highway to commercial traffic in 35 days, on 20 December, and to all traffic on 19 January 2022; six permanent replacement bridges, on deeper piles and with longer spans, were finished in November 2023."
+      ],
+      "zh": [
+        "“5 号”这个编号几经迁移。1941 至 1953 年，它属于奥卡纳根至萨蒙阿姆之间的一条路线；1953 年改授普林斯顿—梅里特—坎卢普斯公路（今 5A 号公路）及坎卢普斯以北路段，到 1960 年已延至泰特若纳卡什。坎卢普斯以北路段自 1970 年起标为“南黄头公路”。",
+        "科奎哈拉公路始于一场请愿运动。自 1963 年起，梅里特商会多次组织车队沿废弃的凯特尔谷铁路路基行驶，呼吁修建直通霍普的公路。1973 年开始勘测，1979 年发包首个合同——霍普附近的 4.5 公里，但进展缓慢；直到 1984 年，省长比尔·贝内特宣布此路要赶在温哥华 1986 年世博会前完工。一期霍普至梅里特段于 1986 年 5 月 16 日通车，由省长乘敞篷车率车队通过；二期梅里特至坎卢普斯段于 1987 年 9 月 4 日完工；通往基洛纳的奥卡纳根连接线（今 97C 号公路）于 1990 年 10 月 1 日完工。",
+        "赶工带来了高昂代价，也带来了政治清算。由道格拉斯·麦凯主持的省级调查于 1987 年发表报告，认定议会和公众在造价问题上遭到蓄意误导，有关文件被篡改以掩盖真实成本，并称在科奎哈拉公路一事上，议会“失去了对公共钱袋的有效控制”。霍普至梅里特段收取通行费，是不列颠哥伦比亚省唯一的收费公路，直至 2008 年 9 月 26 日取消收费。2003 年曾有将道路及其通行费收入交给私营运营商的计划，宣布三个月后即被搁置。",
+        "2021 年 11 月 14 日至 15 日，一场“大气河”在沿线降下约 200 毫米雨水。霍普至梅里特之间 130 公里内逾 20 处受损，杰西卡、朱丽叶和博特尔托普三处桥跨坍塌。抢修队伍用 35 天于 12 月 20 日恢复货运通行，2022 年 1 月 19 日向所有车辆开放；六座采用更深桩基、更大跨度的永久替代桥梁于 2023 年 11 月建成。"
+      ]
+    },
+    {
+      "key": "money",
+      "en": [
+        "The province gives the capital cost of the three Coquihalla phases, including the Okanagan Connector, as $848 million. The first two phases had been budgeted at $250 million and cost more than $400 million, according to CBC's account of the reports at the time. Tolls, about $57 million a year by 2007, brought in $845 million over 22 years; when the province judged that this had offset the capital cost, it removed them under a 2003 policy that tolls end once construction costs are recovered.",
+        "The 2021 repairs were paid for separately. The minister put temporary repairs on the Coquihalla at $50–55 million in January 2022, and the contractor alliance that rebuilt the bridges, Kiewit and Emil Anderson, gives its contract value as $260 million. The province expected federal disaster assistance to cover most of the $1–1.5 billion bill for Highways 1, 5 and 8 together."
+      ],
+      "zh": [
+        "省政府公布的科奎哈拉公路三期工程（含奥卡纳根连接线）资本成本为 8.48 亿加元。据 CBC 对当年报道的梳理，前两期预算为 2.5 亿加元，实际花费逾 4 亿加元。通行费到 2007 年每年约 5,700 万加元，22 年间共收入 8.45 亿加元；省政府认定其已抵偿资本成本后，依据 2003 年“收回建设成本即停止收费”的政策取消了收费。",
+        "2021 年的修复费用另行计算。2022 年 1 月，交通部长估计科奎哈拉公路的临时修复费用为 5,000 万至 5,500 万加元；负责重建桥梁的承包联盟（Kiewit 与 Emil Anderson）公布的合同金额为 2.6 亿加元。省政府预计，1、5、8 号公路合计 10 亿至 15 亿加元的修复费用大部分将由联邦灾害援助承担。"
+      ]
+    },
+    {
+      "key": "drive",
+      "en": [
+        "Exit numbers on the Coquihalla continue those of Highway 1 west of Hope, so the road starts at Exit 170 rather than at zero. Through Kamloops Highway 5 runs for about 12 km on the same lanes as Highways 1 and 97, a wrong-way concurrency in which 5 north and 97 south share a carriageway. A variable speed limit has operated around the Coquihalla Summit since June 2016, and DriveBC publishes webcams along the pass."
+      ],
+      "zh": [
+        "科奎哈拉公路的出口编号延续霍普以西 1 号公路的编号，因此从 170 号出口而非 0 号起算。在坎卢普斯，5 号公路与 1 号、97 号公路共用约 12 公里车道，形成一段“反向共线”：北行的 5 号与南行的 97 号走同一侧车行道。科奎哈拉山口一带自 2016 年 6 月起实行可变限速，DriveBC 在山口沿线提供实时摄像画面。"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "label": { "en": "Length", "zh": "长度" },
+      "value": { "en": "536.66 km, of which the Coquihalla Highway is 185.55 km, as cited in English Wikipedia, British Columbia Highway 5, from the ministry's Landmark Kilometre Inventory (2016). The same article's text gives 543 km.", "zh": "536.66 公里，其中科奎哈拉公路 185.55 公里，据英文维基百科“不列颠哥伦比亚 5 号公路”条目所引交通部《地标公里清单》（2016 年）。该条目正文另作 543 公里。" },
+      "source": "English Wikipedia, British Columbia Highway 5 (citing BC Ministry of Transportation and Infrastructure, Landmark Kilometre Inventory, July 2016)"
+    },
+    {
+      "label": { "en": "Construction cost", "zh": "造价" },
+      "value": { "en": "$848 million for the three Coquihalla phases, Hope–Merritt (1986), Merritt–Kamloops (1987) and the Okanagan Connector (1990). The first two phases were budgeted at $250 million and cost more than $400 million. No figure was found for the Southern Yellowhead north of Kamloops.", "zh": "科奎哈拉公路三期共 8.48 亿加元：霍普至梅里特（1986 年）、梅里特至坎卢普斯（1987 年）及奥卡纳根连接线（1990 年）。前两期预算 2.5 亿加元，实际逾 4 亿加元。坎卢普斯以北的南黄头公路未查到造价数字。" },
+      "source": "BC Government news release 2008OTP0240-001470, 26 September 2008; CBC News, Taking a look at 31 years of woes on the Coquihalla Highway"
+    },
+    {
+      "label": { "en": "Funding", "zh": "出资方" },
+      "value": { "en": "The province, recovered through tolls on the Hope–Merritt section: $845 million collected from 1986 to 2008. The 2021 flood repairs were expected to be largely covered by federal disaster assistance (70 to 90 per cent, in the minister's estimate for Highways 1, 5 and 8).", "zh": "省政府出资，并通过霍普至梅里特段的通行费收回：1986 至 2008 年共收取 8.45 亿加元。2021 年洪灾修复费用预计大部分由联邦灾害援助承担（据交通部长对 1、5、8 号公路的估计，为 70% 至 90%）。" },
+      "source": "CBC News, Coquihalla Highway tolls dropped, says B.C. premier, 26 September 2008; Powell River Peak (Canadian Press), Highways prepared for extreme weather ‘new normal,’ says B.C. transportation minister"
+    },
+    {
+      "label": { "en": "2021 flood repairs", "zh": "2021 年洪灾修复" },
+      "value": { "en": "More than 20 damaged sites over 130 km; reopened to trucks in 35 days and to all traffic on 19 January 2022; six permanent bridges finished in November 2023. Contract value $260 million (January 2022–December 2023), as given by the contractor.", "zh": "130 公里内逾 20 处受损；35 天后恢复货运，2022 年 1 月 19 日全面通车；六座永久桥梁于 2023 年 11 月建成。承包商公布的合同金额为 2.6 亿加元（2022 年 1 月至 2023 年 12 月）。" },
+      "source": "BC Government news release 2023MOTI0184-001792, 15 November 2023; Emil Anderson Construction, Coquihalla CAT5 project page"
+    },
+    {
+      "label": { "en": "The 1987 inquiry", "zh": "1987 年调查" },
+      "value": { "en": "The commissioner found that the legislature and public were deliberately misled about the cost and that the true costs were disguised by falsified documents and expense transfers.", "zh": "调查专员认定议会和公众在造价上遭到蓄意误导，真实成本被篡改文件和费用转移所掩盖。" },
+      "source": "British Columbia, Report of the Commissioner, Inquiry into the Coquihalla and Related Highway Projects (Douglas L. MacKay), 1987"
+    }
+  ],
+  "timeline": [
+    { "year": 1963, "en": "The Merritt Board of Trade stages the first of eight caravans over the abandoned Kettle Valley grade to press for a road to Hope.", "zh": "梅里特商会组织八次车队中的第一次，沿废弃的凯特尔谷铁路路基行驶，呼吁修建通往霍普的公路。" },
+    { "year": 1970, "en": "Highway 5 from Kamloops to Tête Jaune Cache is signed as the Southern Yellowhead.", "zh": "坎卢普斯至泰特若纳卡什的 5 号公路标为“南黄头公路”。" },
+    { "year": 1984, "en": "Premier Bill Bennett announces that the Coquihalla will be fast-tracked to open for Expo 86.", "zh": "省长比尔·贝内特宣布加快修建科奎哈拉公路，赶在 1986 年世博会前通车。" },
+    { "year": 1986, "en": "The tolled Hope–Merritt section opens on 16 May.", "zh": "5 月 16 日，收费的霍普至梅里特段通车。" },
+    { "year": 1987, "en": "Merritt–Kamloops opens on 4 September; the MacKay inquiry reports that the cost was concealed from the legislature.", "zh": "9 月 4 日，梅里特至坎卢普斯段通车；麦凯调查报告指出造价曾向议会隐瞒。" },
+    { "year": 2003, "en": "A plan to hand the road and its tolls to a private operator is announced in May and shelved in July.", "zh": "5 月宣布将道路及通行费交给私营运营商的计划，7 月即被搁置。" },
+    { "year": 2008, "en": "Tolls are lifted on 26 September after $845 million has been collected.", "zh": "累计收取 8.45 亿加元后，9 月 26 日取消收费。" },
+    { "year": 2014, "en": "The speed limit on the Coquihalla rises from 110 to 120 km/h on 2 July.", "zh": "7 月 2 日，科奎哈拉公路限速由 110 公里/小时提高至 120 公里/小时。" },
+    { "year": 2021, "en": "Floods on 14–15 November wash out bridges between Hope and Merritt; trucks return on 20 December.", "zh": "11 月 14 日至 15 日洪水冲毁霍普至梅里特之间的桥梁；12 月 20 日货车恢复通行。" },
+    { "year": 2023, "en": "The last of six permanent replacement bridges is finished in November.", "zh": "11 月，六座永久替代桥梁全部建成。" }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "cn-g205-fuj",
+  "route": { "sys": "cn-national", "num": "G205", "anchor": [119.8, 40.0] },
+  "name": { "en": "Shanhaiguan–Shenzhen Highway", "zh": "山海关—深圳公路" },
+  "aka": [
+    { "en": "Shanshen line", "zh": "山深线" },
+    { "en": "Shanhaiguan–Guangzhou Highway (the 1981 route)", "zh": "山海关—广州公路（1981 年线路）" },
+    { "en": "Shenhui road (the Shenzhen section)", "zh": "深惠路（深圳段）" }
+  ],
+  "tagline": { "en": "From Laolongtou at Shanhaiguan to Dongmen in Shenzhen, down the inland side of the east coast through eight provinces", "zh": "从山海关老龙头到深圳东门，沿东部沿海的内侧穿越八个省份" },
+  "termini": {
+    "start": { "at": [119.8, 39.97], "en": "The Laolongtou scenic area, Shanhaiguan district, Qinhuangdao, Hebei — kilometre 0", "zh": "河北省秦皇岛市山海关区老龙头景区——零公里" },
+    "end": { "at": [114.12, 22.55], "en": "The junction of Dongmen Middle Road and Shaibu Road, Luohu, Shenzhen", "zh": "深圳市罗湖区东门中路与晒布路交界" }
+  },
+  "sections": [
+    {
+      "key": "character",
+      "en": [
+        "G205 is one of the north–south national roads. It starts at Shanhaiguan in Hebei and runs through Hebei, Tianjin, Shandong, Jiangsu, Anhui, Zhejiang, Fujian and Guangdong to Shenzhen. In the north it passes Changli, Luanzhou, Tangshan, Tianjin, Huanghua and Yanshan; in Shandong Qingyun, Wudi, Binzhou, Boxing, Zibo, Laiwu, Xintai, Mengyin and Linyi; in Jiangsu Xinyi, Shuyang, Huai'an and Hongze to Nanjing. It crosses the Yangtze there and goes south-west by Ma'anshan, Wuhu, Nanling and Jing county to Huangshan, over into western Zhejiang at Kaihua, Changshan and Jiangshan, down the length of inland Fujian by Pucheng, Jian'ou, Nanping, Sanming, Yong'an and Shanghang, and through Meizhou, Xingning, Longchuan, Heyuan and Huizhou in eastern Guangdong to Shenzhen.",
+        "Chinese Wikipedia gives two lengths, 3,160 km in its infobox and mileage table and 2,976.45 km in its text. At Nanjing it shares the Nanjing Yangtze River Bridge with G104 and G312. The atlas draws the road as one long piece and a few kilometres in Guangdong separately; this page is anchored on the long piece."
+      ],
+      "zh": [
+        "G205 是南北纵向的普通国道之一。它起于河北山海关，经河北、天津、山东、江苏、安徽、浙江、福建、广东，止于深圳。北段经昌黎、滦州、唐山、天津、黄骅、盐山；山东境内经庆云、无棣、滨州、博兴、淄博、莱芜、新泰、蒙阴、临沂；江苏境内经新沂、沭阳、淮安、洪泽到南京。在南京跨过长江后，经马鞍山、芜湖、南陵、泾县向西南至黄山，翻入浙西的开化、常山、江山，纵贯福建内陆的浦城、建瓯、南平、三明、永安、上杭，再经粤东的梅州、兴宁、龙川、河源、惠州抵深圳。",
+        "中文维基百科给出两个里程：信息框和里程表作 3160 公里，正文作 2976.45 公里。在南京，它与 G104、G312 共用南京长江大桥。图集将这条路画成一条长线段，另有广东境内数公里单独绘出；本页定位在长线段上。"
+      ]
+    },
+    {
+      "key": "history",
+      "en": [
+        "In the national trunk highway plan of November 1981 the route ended at Guangzhou, sharing the Guangzhou–Shantou road, G324, from Huizhou. The southern end was later moved to Shenzhen, but sources date the change differently. The Shenzhen Evening News reported in 2006 that in 1996, during the first national highway census, the Ministry of Communications upgraded the provincial Huizhou–Shenzhen road to a national road as the extension of G205 — 39.364 km in Shenzhen from the Huiyang border at Kengtang to the Dongmen bus station, still called the 'Shenhui road' by residents. Chinese Wikipedia's article says the end was Guangzhou before 1993; its national-road table says the present line dates from after 2000.",
+        "The Shenzhen section has since become a city road. In 2010 the Shenzhen transport bureau listed among its major projects the rebuilding of 36 km from the Buji checkpoint to the Huizhou border as a class-I road with eight lanes, designed for 60 km/h. In Tianjin, the provincial road numbering rules of 2022 set out a new line for G205 that leaves the outer ring road, running south from the Lutai development zone in Tangshan on a string of existing and new roads before rejoining the old line at Zhongwang."
+      ],
+      "zh": [
+        "1981 年 11 月的《国家干线公路网（试行方案）》中，这条路止于广州，自惠州起与 324 国道（广汕公路）共线。南端后来改到深圳，但各方对改线时间说法不一。《深圳晚报》2006 年报道，1996 年全国第一次公路普查中，交通部将原广东省道惠深线升级为国道，作为 205 国道的延长线——深圳境内自深惠交界坑塘至东门汽车站共 39.364 公里，市民至今称之为“深惠路”。中文维基百科 205 国道条目称 1993 年之前终点为广州；其国道列表则称 2000 年后方为现行走向。",
+        "此后深圳段逐渐成为城市道路。2010 年，深圳市交通运输局将国道 205 深圳段改建工程列为重大建设项目：自布吉联检站至深惠交界共 36 公里，按一级公路、双向八车道、设计时速 60 公里改建。天津段方面，2022 年出台的普通省道编号规则为 G205 规划了新线位：调出外环，从唐山芦台经济开发区起向南改走一系列既有和新建道路，至中旺镇返回原线。"
+      ]
+    },
+    {
+      "key": "money",
+      "en": [
+        "No cost exists for the road as a whole. The one great structure on it, the Nanjing Yangtze River Bridge, cost 287.577 million yuan; from August 1989 to 1 December 2005 a toll station on its northern approach, on Daqiao North Road where G104, G205 and G328 run together, collected about 1.7 billion yuan towards Nanjing's road projects. The bridge's 2016–2018 rebuild was estimated at 1.09 billion yuan."
+      ],
+      "zh": [
+        "全线没有总造价。路上最大的结构物南京长江大桥总造价 2.87577 亿元；1989 年 8 月至 2005 年 12 月 1 日，大桥北侧承载 104、205、328 国道的大桥北路上设有收费站，共为南京道路建设筹集约 17 亿元。2016—2018 年大桥维修改造估算总投资 10.9 亿元。"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "label": { "en": "Construction cost", "zh": "造价" },
+      "why": { "en": "No cost exists for the whole road, which joins older provincial roads across eight provinces and is rebuilt section by section, each priced on its own.", "zh": "全线没有总造价：它连接八个省份原有的道路，分段改建、分段计价。" }
+    },
+    {
+      "label": { "en": "Funding", "zh": "出资方" },
+      "why": { "en": "No route-wide funding statement has been found. The only recorded arrangement is the Nanjing bridge toll station of 1989–2005, which raised about 1.7 billion yuan for Nanjing road projects.", "zh": "未查到全线出资说明。唯一有记载的筹资安排是 1989—2005 年的南京桥北收费站，为南京道路建设筹集约 17 亿元。" }
+    },
+    {
+      "label": { "en": "Length", "zh": "全长" },
+      "value": { "en": "3,160 km (Chinese Wikipedia infobox and mileage table); 2,976.45 km (the same article's text)", "zh": "3160 公里（中文维基百科信息框及里程表）；2976.45 公里（同条目正文）" },
+      "source": "Chinese Wikipedia, 205国道"
+    },
+    {
+      "label": { "en": "Shenzhen section", "zh": "深圳段" },
+      "value": { "en": "39.364 km from Kengtang on the Huiyang border to the Dongmen bus station, made national road in 1996", "zh": "自深惠交界坑塘至东门汽车站 39.364 公里，1996 年升为国道" },
+      "source": "Shenzhen Evening News, 22 February 2006, via Sina"
+    },
+    {
+      "label": { "en": "Nanjing Yangtze River Bridge (shared with G104 and G312)", "zh": "南京长江大桥（与 G104、G312 共用）" },
+      "value": { "en": "287.577 million yuan in total; 2016–2018 rebuild estimated at 1.09 billion", "zh": "总造价 2.87577 亿元；2016—2018 年维修改造估算 10.9 亿元" },
+      "source": "Chinese Wikipedia, 南京长江大桥"
+    }
+  ],
+  "timeline": [
+    { "year": 1968, "en": "The road deck of the Nanjing Yangtze River Bridge opens on 29 December.", "zh": "12 月 29 日，南京长江大桥公路桥通车。" },
+    { "year": 1981, "en": "The national trunk highway plan of November names Shanhaiguan–Guangzhou as G205.", "zh": "11 月，《国家干线公路网（试行方案）》将山海关至广州公路编为 205 国道。" },
+    { "year": 1989, "en": "A toll station opens on the Nanjing bridge's northern approach in August.", "zh": "8 月，南京长江大桥北侧设立收费站。" },
+    { "year": 1996, "en": "The Huizhou–Shenzhen road becomes the extension of G205, by the Shenzhen Evening News account.", "zh": "据《深圳晚报》，惠深线升级为国道，成为 205 国道延长线。" },
+    { "year": 2005, "en": "Tolls on the Nanjing bridge approach end on 1 December.", "zh": "12 月 1 日，南京桥北收费站停止收费。" },
+    { "year": 2010, "en": "Shenzhen lists the eight-lane rebuilding of its 36 km of G205 as a major project.", "zh": "深圳将国道 205 深圳段 36 公里双向八车道改建列为重大建设项目。" },
+    { "year": 2016, "en": "The Nanjing bridge road deck closes for rebuilding on 28 October.", "zh": "10 月 28 日，南京长江大桥公路桥封闭维修改造。" },
+    { "year": 2018, "en": "The Nanjing bridge reopens on 29 December.", "zh": "12 月 29 日，南京长江大桥恢复通车。" },
+    { "year": 2022, "en": "Provincial road numbering rules set a new line for G205 around Tianjin's outer ring.", "zh": "普通省道编号规则为 G205 天津段规划调出外环的新线位。" }
+  ]
+}

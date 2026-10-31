@@ -1,0 +1,90 @@
+{
+  "id": "mex-005-bcn",
+  "route": { "sys": "mx-federal", "num": "005", "anchor": [-115.45, 32.62] },
+  "name": { "en": "Federal Highway 5 (Mexicali–San Felipe–Laguna Chapala)", "zh": "5 号联邦公路（墨西卡利—圣费利佩—查帕拉潟湖）" },
+  "aka": [
+    { "en": "Carretera Mexicali–San Felipe", "zh": "墨西卡利—圣费利佩公路" },
+    { "en": "Carretera San Felipe–Puertecitos–Laguna Chapala (the Gulf of California road)", "zh": "圣费利佩—普埃尔特西托斯—查帕拉潟湖公路（加利福尼亚湾沿岸公路）" }
+  ],
+  "tagline": { "en": "The road from the Mexicali border down the desert to the fishing port of San Felipe and along the Gulf of California to the Transpeninsular, finished only in 2020", "zh": "从墨西卡利边境穿越沙漠到渔港圣费利佩、再沿加利福尼亚湾通往半岛纵贯公路的道路，直到 2020 年才全线完工" },
+  "termini": {
+    "start": { "at": [-115.439, 32.614], "en": "Mexicali, Baja California, near the western border crossing to Calexico", "zh": "下加利福尼亚州墨西卡利，靠近通往卡莱克西科的西口岸" },
+    "end": { "at": [-114.382, 29.385], "en": "Laguna Chapala, at the junction with Federal Highway 1, the Transpeninsular", "zh": "查帕拉潟湖，与 1 号联邦公路（半岛纵贯公路）交会处" }
+  },
+  "sections": [
+    {
+      "key": "character",
+      "en": [
+        "Federal Highway 5 runs south from Mexicali through the farm ejidos of the Mexicali Valley, past the junction with Highway 3 from Ensenada at El Chinero, and down the desert between the Sierra de Juárez and the Gulf of California to San Felipe. From there it follows the gulf coast south by Puertecitos and turns inland to meet the Transpeninsular at Laguna Chapala. English Wikipedia gives 401 km; the Mexicali–San Felipe section is about 190 km, and the San Felipe–Laguna Chapala section 201 km.",
+        "The ministry's figures describe a road of three characters: four lanes from Mexicali to the El Faro junction, about kilometre 38; a widened two-lane road 12 m across from El Faro towards San Felipe, ending in a four-lane boulevard at the port; and a 9 m two-lane road along the gulf to Laguna Chapala, with 60 km of older 7 m road. The southern section gives traffic from Baja California Sur an alternative to the Pacific route through Ensenada; the ministry said in 2020 that it saved about five hours on journeys to Mexicali."
+      ],
+      "zh": [
+        "5 号联邦公路自墨西卡利向南，穿过墨西卡利谷地的农业村社，经过来自恩塞纳达的 3 号公路在埃尔奇内罗的交会处，沿华雷斯山脉与加利福尼亚湾之间的沙漠南下至圣费利佩。此后公路沿海湾海岸南行，经普埃尔特西托斯后转向内陆，在查帕拉潟湖与半岛纵贯公路相接。英语维基百科给出全长 401 公里；墨西卡利—圣费利佩段约 190 公里，圣费利佩—查帕拉潟湖段 201 公里。",
+        "交通部的数据把这条路描述为三种形态：墨西卡利至约 38 公里处的埃尔法罗路口为四车道；埃尔法罗往圣费利佩为拓宽至 12 米的双车道，到港口前接上一段四车道林荫大道；沿海湾至查帕拉潟湖为 9 米宽的双车道，另有 60 公里 7 米宽的旧路。南段为来自南下加利福尼亚州的车辆提供了取代经恩塞纳达的太平洋沿岸路线的选择；交通部 2020 年称，它使前往墨西卡利的行程节省约五小时。"
+      ]
+    },
+    {
+      "key": "history",
+      "en": [
+        "The Mexicali–San Felipe road was paved between 1948 and 1951, while a company that had bought the land at San Felipe in 1947 was setting out to build a tourist resort there.",
+        "Its modern rebuilding began under the national infrastructure programme of 2007–2012, as part of a wider \"Mar de Cortés\" plan to connect the border with the Transpeninsular. The federal auditor described the El Faro–San Felipe project as 131.7 km, from kilometre 38.7 to 170.4, widened to 12 m with 36 bridges and underpasses to replace the dips where desert washes crossed the road, at an estimated 1,367 million pesos; the four-lane boulevard into San Felipe, kilometres 160 to 170.4, was let in October 2008. On 4 April 2010 a magnitude 7.2 earthquake struck with its epicentre about 3 km from the highway, and the road was re-levelled between kilometres 20 and 38. On 23 August 2011 President Felipe Calderón inaugurated 51 km of the widening at El Chinero, with 26 km of reconstruction from El Faro to Guadalupe Victoria, for 750 million pesos; the regional news agency AFN noted that much of it was still unfinished.",
+        "The gulf road south of San Felipe was the last piece. The transport ministry declared it finished in August 2020, when it built the junction with the Transpeninsular at Laguna Chapala. It reported 2,553 million pesos spent over twelve years, 685 million of them under the López Obrador government, on 141 km of new 9 m road and 60 km of rehabilitated 7 m road; at a presidential event in Ensenada in December 2020 the secretary, Jorge Arganis Díaz-Leal, gave a total of 1,956 million pesos, with 27 bridges and two junctions."
+      ],
+      "zh": [
+        "墨西卡利—圣费利佩公路于 1948 至 1951 年间铺装，同一时期，一家在 1947 年购下圣费利佩土地的公司正着手在那里兴建旅游度假区。",
+        "现代改建始于 2007—2012 年国家基础设施计划，是连接边境与半岛纵贯公路的“科尔特斯海”计划的一部分。联邦审计署描述埃尔法罗—圣费利佩项目长 131.7 公里（38.7 至 170.4 公里），拓宽至 12 米，建 36 座桥梁和下穿通道以取代沙漠冲沟漫过路面的过水路段，估算造价 13.67 亿比索；进入圣费利佩的四车道林荫大道（160 至 170.4 公里）于 2008 年 10 月发包。2010 年 4 月 4 日，一场 7.2 级地震的震中距公路约 3 公里，20 至 38 公里路段随后重新找平。2011 年 8 月 23 日，费利佩·卡尔德龙总统在埃尔奇内罗为 51 公里拓宽工程及埃尔法罗至瓜达卢佩维多利亚 26 公里的重建工程揭幕，投资 7.5 亿比索；地区通讯社 AFN 指出，其中许多部分尚未完工。",
+        "圣费利佩以南的海湾公路是最后一段。2020 年 8 月，交通部在查帕拉潟湖建成与半岛纵贯公路的路口后宣布其完工，称十二年间共投入 25.53 亿比索，其中 6.85 亿在洛佩斯·奥夫拉多尔政府任内，修建了 141 公里 9 米宽的新路，并修复了 60 公里 7 米宽的旧路；2020 年 12 月在恩塞纳达举行的总统活动上，交通部长豪尔赫·阿尔加尼斯·迪亚斯-莱亚尔给出的总额为 19.56 亿比索，含 27 座桥梁和两处路口。"
+      ]
+    },
+    {
+      "key": "condition",
+      "en": [
+        "In June 2026 the ministry began resurfacing 36.5 km of the Mexicali–San Felipe road, from the El Chinero junction at kilometre 134.5 and later near the San Felipe entrance at kilometre 178.5, for more than 130 million pesos. Its 2024 accounts record the final payments for rebuilding both carriageways of the Los Cuates bridge at kilometre 166.8."
+      ],
+      "zh": [
+        "2026 年 6 月，交通部开始重铺墨西卡利—圣费利佩公路 36.5 公里，从 134.5 公里处的埃尔奇内罗路口起，随后延至 178.5 公里处的圣费利佩入口附近，投资逾 1.3 亿比索。该部 2024 年账目记录了重建 166.8 公里处洛斯夸特斯桥双向桥面的结算款项。"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "label": { "en": "Length", "zh": "长度" },
+      "value": { "en": "401 km (English Wikipedia); about 190 km Mexicali–San Felipe and 201 km San Felipe–Laguna Chapala", "zh": "401 公里（英语维基百科）；墨西卡利—圣费利佩约 190 公里，圣费利佩—查帕拉潟湖 201 公里" },
+      "source": "English Wikipedia, Mexican Federal Highway 5; Ensenada.net, 5 June 2026; SCT via Pregonero Baja, 7 August 2020"
+    },
+    {
+      "label": { "en": "Construction cost", "zh": "造价" },
+      "why": { "en": "No public figure for the original road of 1948–1951; the costs of the modern sections are given below.", "zh": "1948—1951 年的原有公路无公开造价；现代各段造价见下文。" }
+    },
+    {
+      "label": { "en": "El Faro–San Felipe modernisation", "zh": "埃尔法罗—圣费利佩段改造" },
+      "value": { "en": "Estimated at 1,367 million pesos for 131.7 km (federal auditor, 2009 accounts); the ministry gave 1,450 million in 2014", "zh": "131.7 公里估算 13.67 亿比索（联邦审计署，2009 年度账目）；交通部 2014 年给出 14.5 亿比索" },
+      "source": "ASF, Informe del resultado de la fiscalización superior de la Cuenta Pública 2009, audit 512; Expansión Obras, 17 December 2014"
+    },
+    {
+      "label": { "en": "San Felipe–Laguna Chapala", "zh": "圣费利佩—查帕拉潟湖段" },
+      "value": { "en": "2,553 million pesos over twelve years for 201 km (ministry, August 2020); 1,956 million in the secretary's figure of December 2020", "zh": "201 公里十二年间 25.53 亿比索（交通部，2020 年 8 月）；交通部长 2020 年 12 月给出 19.56 亿比索" },
+      "source": "Pregonero Baja and Uniradio Informa, August 2020; The Mazatlan Post, 25 December 2020"
+    },
+    {
+      "label": { "en": "Funding", "zh": "出资方" },
+      "value": { "en": "Federal, through the transport ministry", "zh": "联邦交通部出资" },
+      "source": "ASF, Cuenta Pública 2009, audit 512; Pregonero Baja, 7 August 2020"
+    },
+    {
+      "label": { "en": "2011 inauguration", "zh": "2011 年揭幕" },
+      "value": { "en": "51 km of widening and 26 km of reconstruction, 750 million pesos, opened by Felipe Calderón on 23 August 2011", "zh": "51 公里拓宽及 26 公里重建，7.5 亿比索，2011 年 8 月 23 日由费利佩·卡尔德龙揭幕" },
+      "source": "AFN Tijuana, 23 August 2011"
+    }
+  ],
+  "timeline": [
+    { "year": 1948, "en": "Paving of the Mexicali–San Felipe road begins.", "zh": "墨西卡利—圣费利佩公路开始铺装。" },
+    { "year": 1951, "en": "The paved road reaches San Felipe.", "zh": "铺装公路通到圣费利佩。" },
+    { "year": 2008, "en": "The ministry lets the contract for the four-lane boulevard into San Felipe.", "zh": "交通部发包进入圣费利佩的四车道林荫大道工程。" },
+    { "year": 2010, "en": "A magnitude 7.2 earthquake on 4 April damages the road south of Mexicali.", "zh": "4 月 4 日，7.2 级地震损坏墨西卡利以南路段。" },
+    { "year": 2011, "en": "Felipe Calderón inaugurates 51 km of widening at El Chinero on 23 August.", "zh": "8 月 23 日，费利佩·卡尔德龙在埃尔奇内罗为 51 公里拓宽工程揭幕。" },
+    { "year": 2020, "en": "The ministry declares the San Felipe–Laguna Chapala road finished in August.", "zh": "8 月，交通部宣布圣费利佩—查帕拉潟湖公路完工。" },
+    { "year": 2024, "en": "The ministry settles the rebuilding of the Los Cuates bridge at kilometre 166.8.", "zh": "交通部结清 166.8 公里处洛斯夸特斯桥的重建款项。" },
+    { "year": 2026, "en": "Resurfacing of 36.5 km of the Mexicali–San Felipe road begins in June.", "zh": "6 月，墨西卡利—圣费利佩公路 36.5 公里重铺工程开工。" }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "us-31",
+  "route": { "sys": "us-numbered", "num": "31" },
+  "name": { "en": "U.S. Route 31", "zh": "31 号美国国道" },
+  "aka": [
+    { "en": "West Michigan Pike (Michigan auto trail of 1913)", "zh": "西密歇根公路（1913 年的密歇根汽车道）" },
+    { "en": "Dixie Highway (western mainline, in Michigan and Kentucky)", "zh": "迪克西公路（西线干道，密歇根与肯塔基境内）" }
+  ],
+  "tagline": { "en": "Mobile Bay to the Straits of Mackinac, split in two between Nashville and Louisville and shadowed by I-65 for half its length", "zh": "自莫比尔湾至麦基诺海峡，在纳什维尔与路易斯维尔之间一分为二，半程都有 I-65 相伴" },
+  "designatedYear": 1926,
+  "termini": {
+    "start": { "en": "US 90 and US 98 at Spanish Fort, Alabama, on the east shore of Mobile Bay", "zh": "亚拉巴马州斯帕尼什堡，莫比尔湾东岸，与 US 90、US 98 相接", "at": [-87.91, 30.67] },
+    "end": { "en": "I-75 south of Mackinaw City, Michigan", "zh": "密歇根州麦基诺城以南，与 I-75 相接", "at": [-84.73, 45.73] }
+  },
+  "sections": [
+    {
+      "key": "character",
+      "en": [
+        "US 31 runs through Alabama, Tennessee, Kentucky, Indiana and Michigan, and its southern half is a road the Interstate made local. From the Mobile area to Indianapolis it lies close to I-65, which has taken its through traffic: in Alabama it runs by Bay Minette, Brewton, Evergreen, Montgomery, Birmingham, Cullman and Decatur, and between Athens and the Tennessee line it shares I-65's pavement and is largely unsigned. In Tennessee it is the old main street of Pulaski, Columbia, Spring Hill and Franklin.",
+        "At Nashville it divides. US 31W keeps near I-65 through Bowling Green and Elizabethtown and enters Louisville as Dixie Highway; US 31E goes east of it through Glasgow and Bardstown and enters Louisville as Bardstown Road. The two rejoin at Second Street downtown, and the reunited US 31 runs less than a mile in Kentucky before crossing the Ohio on the Clark Memorial Bridge.",
+        "North of Indianapolis it becomes a through road again, a divided highway past Kokomo and Plymouth to South Bend's St. Joseph Valley Parkway. In Michigan it follows the Lake Michigan shore: on I-94 and I-196 to Holland, by Grand Haven and Muskegon on a freeway that ends at Ludington, then as a two-lane road by Manistee, Traverse City, Charlevoix and Petoskey to its end at I-75 just south of the Mackinac Bridge."
+      ],
+      "zh": [
+        "US 31 途经亚拉巴马、田纳西、肯塔基、印第安纳与密歇根，其南半段是一条被州际公路变成地方道路的路。从莫比尔一带到印第安纳波利斯，它紧邻 I-65，过境车流已被后者吸走：在亚拉巴马，它经贝米内特、布鲁顿、埃弗格林、蒙哥马利、伯明翰、卡尔曼与迪凯特；在阿森斯至田纳西州界之间与 I-65 共用路面，大多不设标志。在田纳西，它是普拉斯基、哥伦比亚、斯普林希尔与富兰克林的老主街。",
+        "到纳什维尔它一分为二。US 31W 靠近 I-65，经鲍灵格林与伊丽莎白敦，以“迪克西公路”之名进入路易斯维尔；US 31E 走其东侧，经格拉斯哥与巴兹敦，以“巴兹敦路”之名进入路易斯维尔。两者在市中心第二街重新汇合，合并后的 US 31 在肯塔基境内走不到一英里，就经克拉克纪念大桥跨过俄亥俄河。",
+        "印第安纳波利斯以北，它重新成为过境干道，以分隔公路经科科莫与普利茅斯通往南本德的圣约瑟夫谷公园道。在密歇根，它沿密歇根湖岸而行：先随 I-94 与 I-196 到霍兰，再以高速公路经格兰黑文与马斯基根到卢丁顿为止，之后以双车道公路经马尼斯蒂、特拉弗斯城、夏洛瓦与佩托斯基，止于麦基诺大桥以南不远的 I-75。"
+      ]
+    },
+    {
+      "key": "history",
+      "en": [
+        "The Michigan half was an auto trail before it was a numbered road. The West Michigan Lake Shore Highway Association, founded on 10 January 1912, reorganised on 30 May 1913 as the West Michigan Pike Association and marked a roughly 400-mile route from the Indiana line to Mackinaw City with concrete posts eight feet tall; from 1915 the same road was part of the western mainline of the Dixie Highway. The state trunkline system created on 13 May 1913 included it as Division 5, and in 1919 it was signed as M-58 and M-11. On 11 November 1926 those numbers became US 31.",
+        "Its northern end has moved twice. By the end of 1927 US 31 was carried across the Straits of Mackinac on the state car ferries to meet US 2 north of St. Ignace. When the Mackinac Bridge opened on 1 November 1957 the route was cut back to the bridge's southern approach, and later to its present junction with I-75. In the south the route once crossed Mobile Bay on narrow causeway bridges, among them the Admiral Raphael Semmes drawbridge over the Tensaw, and ended at US 90 in Mobile; it now stops at Spanish Fort. The 31W–31E split, at Sellersburg, Indiana, until 1975, was moved south to Louisville.",
+        "Michigan has spent half a century turning the lakeshore road into a freeway. Sections opened from the 1950s; the St. Joseph Valley Parkway began at the Indiana line in 1979, and the northern freeway reached its end at Ludington in 1990. The last link, east of Benton Harbor, was held up after the Mitchell's satyr, a butterfly found in the Blue Creek Fen in its path, was listed as endangered in 1992. A revised route was approved in 2004, and the final 1.8 miles to I-94 opened on 9 November 2022."
+      ],
+      "zh": [
+        "密歇根这一半在有编号之前是一条汽车道。1912 年 1 月 10 日成立的西密歇根湖岸公路协会，于 1913 年 5 月 30 日改组为西密歇根公路协会，用八英尺高的混凝土标柱标出了一条自印第安纳州界至麦基诺城、约 400 英里长的路线；自 1915 年起，这条路又成为迪克西公路西线干道的一部分。1913 年 5 月 13 日设立的州干线公路系统将其列为第 5 段，1919 年标为 M-58 与 M-11。1926 年 11 月 11 日，这两个编号改为 US 31。",
+        "它的北端搬过两次。到 1927 年底，US 31 已借州营汽车渡轮跨过麦基诺海峡，在圣伊尼亚斯以北与 US 2 相接。1957 年 11 月 1 日麦基诺大桥通车，路线截至大桥南引道，后来又截至今天与 I-75 的交汇处。在南端，路线曾经由狭窄的堤道桥梁跨越莫比尔湾——其中包括跨坦索河的拉斐尔·塞姆斯海军上将开合桥——止于莫比尔的 US 90；如今止于斯帕尼什堡。31W 与 31E 的分岔点原在印第安纳州塞勒斯堡，1975 年南移至路易斯维尔。",
+        "密歇根花了半个世纪把这条湖岸公路改造成高速公路。各段自 1950 年代起陆续通车；圣约瑟夫谷公园道 1979 年从印第安纳州界起建，北段高速公路 1990 年修到卢丁顿为止。本顿港以东的最后一段，因线位上的蓝溪沼泽中发现一种蝴蝶——米切尔眼蝶，并于 1992 年被列为濒危物种而停滞。修订后的线位于 2004 年获批，通往 I-94 的最后 1.8 英里于 2022 年 11 月 9 日通车。"
+      ]
+    },
+    {
+      "key": "money",
+      "en": [
+        "As with other 1926 routes, no cost has ever been totalled for US 31; it is the sum of fifty years of state projects in five states. The final Michigan freeway link is a clear example of what one piece now costs. MDOT announced a $20 million federal discretionary grant for it in December 2018, and the project, which also relocated an interchange and rebuilt 3.5 miles of I-94, cost $121.5 million."
+      ],
+      "zh": [
+        "与其他 1926 年的路线一样，US 31 从未有人汇总过造价；它是五个州五十年州级项目的总和。密歇根最后一段高速公路清楚地说明了如今一段路要花多少钱。2018 年 12 月，密歇根州交通部宣布为其获得 2,000 万美元的联邦专项补助；该项目同时迁建了一处互通并重建了 3.5 英里的 I-94，总造价 1.215 亿美元。"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "label": { "en": "Construction cost", "zh": "造价" },
+      "why": { "en": "No figure exists for the route. US 31 was numbered in 1926 over existing state roads and auto trails, and has been rebuilt by five states project by project since.", "zh": "全线并无造价数据。US 31 于 1926 年沿既有州道与汽车道编号，此后由五个州逐个项目改建。" }
+    },
+    {
+      "label": { "en": "Funding", "zh": "出资方" },
+      "why": { "en": "There is no single funder. Each state builds and maintains its own section with state and federal-aid highway money.", "zh": "没有单一出资方。各州以州资金与联邦补助公路资金修建并养护本州路段。" }
+    },
+    {
+      "label": { "en": "Final St. Joseph Valley Parkway link, Michigan", "zh": "圣约瑟夫谷公园道最后一段（密歇根）" },
+      "value": { "en": "$121.5 million, including relocation of the BL I-94 interchange and 3.5 miles of I-94 reconstruction; $20 million federal discretionary grant announced December 2018; opened 9 November 2022", "zh": "1.215 亿美元，含迁建 BL I-94 互通及重建 3.5 英里 I-94；2018 年 12 月宣布获 2,000 万美元联邦专项补助；2022 年 11 月 9 日通车" },
+      "source": "Michigan Department of Transportation releases, as cited in English Wikipedia, U.S. Route 31 in Michigan"
+    },
+    {
+      "label": { "en": "Length", "zh": "全长" },
+      "value": { "en": "Reported at about 1,280 miles in English Wikipedia, which gives no source; not checked against state route logs", "zh": "英文维基百科称约 1,280 英里，但未注出处；未与各州路线里程表核对" },
+      "source": "English Wikipedia, U.S. Route 31"
+    }
+  ],
+  "trafficFigures": [
+    {
+      "label": { "en": "Route-wide traffic volume", "zh": "全线交通量" },
+      "why": { "en": "Five state agencies count their own sections, the route splits into two between Nashville and Louisville, and in places it shares pavement with I-65, I-94 and I-196. No combined figure is published.", "zh": "5 个州的机构各自统计本州路段；路线在纳什维尔与路易斯维尔之间分为两支，部分路段又与 I-65、I-94、I-196 共用路面。并无合并数字发布。" }
+    }
+  ],
+  "timeline": [
+    { "year": 1913, "en": "The West Michigan Pike Association is organised on 30 May to mark a lakeshore auto trail.", "zh": "5 月 30 日，西密歇根公路协会组建，标定一条湖岸汽车道。" },
+    { "year": 1919, "en": "Michigan signs the future US 31 as M-58 and M-11.", "zh": "密歇根将日后的 US 31 标为 M-58 与 M-11。" },
+    { "year": 1926, "en": "US 31 is numbered on 11 November.", "zh": "11 月 11 日，US 31 编定。" },
+    { "year": 1927, "en": "The route is carried across the Straits of Mackinac by state car ferry to US 2.", "zh": "路线借州营汽车渡轮跨过麦基诺海峡，与 US 2 相接。" },
+    { "year": 1957, "en": "The Mackinac Bridge opens on 1 November and US 31 is cut back to its southern approach.", "zh": "11 月 1 日麦基诺大桥通车，US 31 截至大桥南引道。" },
+    { "year": 1975, "en": "The split into US 31W and US 31E moves from Sellersburg, Indiana, to Louisville.", "zh": "US 31W 与 US 31E 的分岔点由印第安纳州塞勒斯堡移至路易斯维尔。" },
+    { "year": 1979, "en": "The first section of the St. Joseph Valley Parkway opens from the Indiana line.", "zh": "圣约瑟夫谷公园道第一段自印第安纳州界通车。" },
+    { "year": 1990, "en": "The northern Michigan freeway is completed past Ludington.", "zh": "密歇根北段高速公路修过卢丁顿。" },
+    { "year": 1992, "en": "The Mitchell's satyr butterfly is listed as endangered, stalling the last freeway link near Benton Harbor.", "zh": "米切尔眼蝶被列为濒危物种，本顿港附近最后一段高速公路因此停滞。" },
+    { "year": 2022, "en": "The last 1.8 miles of the St. Joseph Valley Parkway open to I-94 on 9 November.", "zh": "11 月 9 日，圣约瑟夫谷公园道通往 I-94 的最后 1.8 英里通车。" }
+  ]
+}

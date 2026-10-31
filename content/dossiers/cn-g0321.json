@@ -1,0 +1,94 @@
+{
+  "id": "cn-g0321",
+  "route": { "sys": "cn-expressway", "num": "G0321" },
+  "name": { "en": "Dezhou–Shangrao Expressway", "zh": "德州—上饶高速公路" },
+  "aka": [
+    { "en": "Deshang Expressway", "zh": "德上高速" },
+    { "en": "G3W (former number)", "zh": "G3W（原编号）" }
+  ],
+  "tagline": { "en": "A western relief line for the Beijing–Taipei expressway, from Dezhou across the North China Plain, over the Yangtze at Chizhou and through the Huangshan hills to Shangrao", "zh": "京台高速的西侧并行线，从德州穿越华北平原，在池州跨过长江，再穿过黄山山区抵达上饶" },
+  "termini": {
+    "start": { "at": [116.41, 37.31], "en": "Sunjiaji junction with G3, Lingcheng district, Dezhou, Shandong", "zh": "山东省德州市陵城区孙家集枢纽（接京台高速）" },
+    "end": { "at": [118.06, 28.56], "en": "Shangrao East junction with G60 and the Shangrao–Pucheng expressway, Xinzhou district, Shangrao, Jiangxi", "zh": "江西省上饶市信州区上饶东枢纽（接沪昆高速、上浦高速）" }
+  },
+  "completedYear": 2025,
+  "sections": [
+    {
+      "key": "character",
+      "en": [
+        "G0321 is one of the parallel lines of G3, the Beijing–Taipei expressway, and was numbered G3W before renumbering. It zigzags across provincial borders. From Dezhou it runs south-west by Wucheng, Xiajin, Linqing, Liaocheng and Shen county, dips into Henan at Fan county, returns to Shandong at Juancheng and Heze and runs south by Juye, Chengwu and Shan county into Anhui at Dangshan. It crosses a corner of Henan at Yongcheng, re-enters Anhui and goes south by Guoyang, Mengcheng, Fengtai, Shou county, Feixi west of Hefei, Shucheng, Tongcheng and Zongyang to the Yangtze, which it crosses on the Chizhou bridge. South of the river it climbs by Guichi, Shitai and Qimen through the hills of southern Anhui into Jiangxi at Wuyuan, and runs by Dexing and Yushan to Shangrao.",
+        "Like most Chinese national expressways it was assembled from provincial roads built under their own names: in Shandong and Henan the Dezhou–Shangqiu expressway, with a stretch near Heze shared with the Rizhao–Lankao and Jinan–Guangzhou expressways; and in Jiangxi the Qimen–Wuyuan road, a stretch shared with the Hangzhou–Changsha expressway and the old provincial Dexing–Shangrao expressway, which has the same short name, Deshang."
+      ],
+      "zh": [
+        "G0321 是 G3 京台高速的并行线之一，原编号 G3W。它在省界之间几度穿插：从德州向西南经武城、夏津、临清、聊城、莘县，在范县进入河南，又在鄄城、菏泽回到山东，经巨野、成武、单县南下，在砀山进入安徽；再穿过河南永城一角，重入安徽，经涡阳、蒙城、凤台、寿县、合肥西面的肥西、舒城、桐城、枞阳南下至长江，由池州长江大桥过江。江南经贵池、石台、祁门穿越皖南山区，在婺源进入江西，经德兴、玉山抵上饶。",
+        "和大多数国家高速公路一样，它由各省以不同名称修建的路段拼接而成：山东、河南境内为德商高速，菏泽附近一段与日兰高速、济广高速共线；江西境内为祁婺高速、与杭长高速共线的一段，以及原江西省高速德兴至上饶高速，后者的简称同样是“德上高速”。"
+      ]
+    },
+    {
+      "key": "engineering",
+      "en": [
+        "The Chizhou Yangtze River Bridge is an asymmetric twin-tower cable-stayed bridge with a hybrid steel and concrete deck and an 828 m main span; its towers are 237 m high and were designed to look like two hands pressed together, a reference to the Buddhist culture of the Chizhou area. The river bridge is 5.818 km long and the whole project 41.026 km, six lanes on the bridge, designed for 100 km/h. Work began on 30 December 2014 and the bridge opened on 31 August 2019."
+      ],
+      "zh": [
+        "池州长江公路大桥为不对称混合梁双塔斜拉桥，主跨 828 米；主塔高 237 米，造型取意双手合十，呼应池州一带的佛教文化。跨江主体长 5.818 公里，项目全长 41.026 公里，桥上双向六车道，设计时速 100 公里。2014 年 12 月 30 日开工，2019 年 8 月 31 日通车。"
+      ]
+    },
+    {
+      "key": "history",
+      "en": [
+        "The southern end came first: the 61.222 km Dexing–Shangrao expressway in Jiangxi was begun on 30 June 2010 and opened on 31 December 2012. The Dezhou–Shangqiu sections in Shandong and Henan opened in 2015 and 2016. The 19.605 km Fan county section in Henan, begun on 22 December 2011, opened on 16 November 2015 together with the 68.942 km Liaocheng–Fan county section; Juancheng–Heze, 44.646 km, opened on 28 December 2015; Xiajin–Liaocheng, 62.128 km, begun on 29 June 2013, opened on 28 July 2016; and Dezhou–Xiajin, 41 km, begun on 26 September 2013, opened on 12 August 2016, followed on 5 December by a 29.303 km branch into Dezhou. The 15.5 km link from the Sunjiaji junction on G3 to Wucheng East opened on 26 December 2020.",
+        "In Jiangxi the 40.747 km Qimen–Wuyuan section, from the Anhui border to Wuyuan, was begun on 23 September 2019 and opened on 29 December 2022. The last gap, from Qimen to the Anhui–Jiangxi border, opened on 30 December 2025, completing the expressway."
+      ],
+      "zh": [
+        "南端最先建成：江西境内 61.222 公里的德兴至上饶高速 2010 年 6 月 30 日开工，2012 年 12 月 31 日通车。山东、河南境内的德商高速各段于 2015 年和 2016 年通车：河南范县段 19.605 公里，2011 年 12 月 22 日开工，2015 年 11 月 16 日与 68.942 公里的聊城至范县段同日通车；鄄城至菏泽段 44.646 公里，2015 年 12 月 28 日通车；聊城至夏津段 62.128 公里，2013 年 6 月 29 日开工，2016 年 7 月 28 日通车；德州至夏津段 41 公里，2013 年 9 月 26 日开工，2016 年 8 月 12 日通车，12 月 5 日 29.303 公里的德州支线随之通车。京台高速孙家集枢纽至武城东的 15.5 公里于 2020 年 12 月 26 日通车。",
+        "江西境内皖赣界至婺源的祁婺高速全长 40.747 公里，2019 年 9 月 23 日开工，2022 年 12 月 29 日通车。最后一段祁门至皖赣界于 2025 年 12 月 30 日通车运营，德上高速至此全线贯通。"
+      ]
+    },
+    {
+      "key": "money",
+      "en": [
+        "No total cost has been published. The largest single figures are in Anhui: the Chizhou Yangtze River Bridge, for which the Chizhou transport bureau gives a total investment of 6.613 billion yuan and Anhui Transport Holding a budget of 6.02 billion, and the Chizhou–Qimen section through the southern Anhui hills, reported in April 2019 at 11.881 billion."
+      ],
+      "zh": [
+        "全线没有公布总造价。最大的单项数字在安徽：池州长江公路大桥，池州市交通运输局记总投资 66.13 亿元，安徽省交通控股集团记概算 60.2 亿元；穿越皖南山区的池州至祁门段，2019 年 4 月报道的投资为 118.81 亿元。"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "label": { "en": "Construction cost", "zh": "造价" },
+      "why": { "en": "No total has been published: the road was built in pieces by four provinces between 2010 and 2025. Sourced section costs are given below.", "zh": "没有公布全线总造价：这条路由四个省份在 2010 年至 2025 年间分段建成。下列为有来源的路段造价。" }
+    },
+    {
+      "label": { "en": "Funding", "zh": "出资方" },
+      "why": { "en": "No funding statement has been found for the route or its sections; Anhui Transport Holding is named only as the source of the Chizhou bridge budget, not as its funder.", "zh": "未查到全线或各路段的出资说明；资料中安徽省交通控股集团仅作为池州长江大桥概算数字的来源出现，未说明其为出资方。" }
+    },
+    {
+      "label": { "en": "Chizhou Yangtze River Bridge (2019)", "zh": "池州长江公路大桥（2019 年）" },
+      "value": { "en": "Total investment 6.613 billion yuan (Chizhou transport bureau); budget 6.02 billion (Anhui Transport Holding); 828 m main span; project 41.026 km", "zh": "总投资 66.13 亿元（池州市交通运输局）；概算 60.2 亿元（安徽省交通控股集团）；主跨 828 米；项目全长 41.026 公里" },
+      "source": "Chizhou municipal transport bureau; Anhui Transport Holding Group"
+    },
+    {
+      "label": { "en": "Chizhou–Qimen section", "zh": "池州至祁门段" },
+      "value": { "en": "Reported at 11.881 billion yuan in April 2019; not checked against a provincial budget document", "zh": "2019 年 4 月报道为 118.81 亿元；未与省级概算文件核对" },
+      "source": "China.com.cn, April 2019"
+    },
+    {
+      "label": { "en": "Completion", "zh": "全线贯通" },
+      "value": { "en": "30 December 2025, when the Qimen–Anhui/Jiangxi border section opened", "zh": "2025 年 12 月 30 日，祁门至皖赣界段通车" },
+      "source": "People's Daily Anhui (ah.people.com.cn), via Chinese Wikipedia, 德州—上饶高速公路"
+    }
+  ],
+  "timeline": [
+    { "year": 2010, "en": "Work on the Dexing–Shangrao expressway begins on 30 June.", "zh": "6 月 30 日，德兴至上饶高速开工。" },
+    { "year": 2011, "en": "Work on the Fan county section in Henan begins on 22 December.", "zh": "12 月 22 日，河南范县段开工。" },
+    { "year": 2012, "en": "The Dexing–Shangrao expressway opens on 31 December.", "zh": "12 月 31 日，德兴至上饶高速通车。" },
+    { "year": 2014, "en": "Work on the Chizhou Yangtze River Bridge begins on 30 December.", "zh": "12 月 30 日，池州长江公路大桥开工。" },
+    { "year": 2015, "en": "Liaocheng–Fan county and the Fan county section open on 16 November, Juancheng–Heze on 28 December.", "zh": "11 月 16 日聊城至范县段及范县段通车，12 月 28 日鄄城至菏泽段通车。" },
+    { "year": 2016, "en": "Xiajin–Liaocheng opens on 28 July, Dezhou–Xiajin on 12 August and the Dezhou branch on 5 December.", "zh": "7 月 28 日夏津至聊城段、8 月 12 日德州至夏津段、12 月 5 日德州支线相继通车。" },
+    { "year": 2019, "en": "The Chizhou Yangtze River Bridge opens on 31 August; work on the Qimen–Wuyuan section begins on 23 September.", "zh": "8 月 31 日，池州长江公路大桥通车；9 月 23 日，祁婺高速开工。" },
+    { "year": 2020, "en": "The link from G3 at Sunjiaji to Wucheng East opens on 26 December.", "zh": "12 月 26 日，京台高速孙家集枢纽至武城东段通车。" },
+    { "year": 2022, "en": "The Qimen–Wuyuan section opens on 29 December.", "zh": "12 月 29 日，祁婺高速通车。" },
+    { "year": 2025, "en": "The Qimen–Anhui/Jiangxi border section opens on 30 December, completing the expressway.", "zh": "12 月 30 日，祁门至皖赣界段通车，德上高速全线贯通。" }
+  ]
+}

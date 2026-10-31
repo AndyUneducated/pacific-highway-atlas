@@ -1,0 +1,90 @@
+{
+  "id": "ny-17",
+  "route": { "sys": "us-state", "num": "17", "anchor": [-75.91, 42.10] },
+  "name": { "en": "New York State Route 17", "zh": "纽约 17 号州道" },
+  "aka": [
+    { "en": "Southern Tier Expressway (Pennsylvania line to Binghamton)", "zh": "南部层带高速公路（宾夕法尼亚州界至宾厄姆顿）" },
+    { "en": "The Quickway (Binghamton to Harriman)", "zh": "快速路（宾厄姆顿至哈里曼）" },
+    { "en": "Future I-86", "zh": "未来的 I-86" }
+  ],
+  "tagline": { "en": "New York's longest state route, built as an expressway for Catskills holiday traffic and turning, a section at a time, into I-86", "zh": "纽约州最长的州道，为卡茨基尔度假车流修成高速公路，如今正一段一段地变成 I-86" },
+  "termini": {
+    "start": { "en": "The Pennsylvania state line at Mina, Chautauqua County, where it meets I-86 coming from Erie", "zh": "肖托夸县米纳的宾夕法尼亚州界，与自伊利方向而来的 I-86 相接", "at": [-79.76, 42.13] },
+    "end": { "en": "The New Jersey state line at Suffern, on I-287, continuing as New Jersey Route 17", "zh": "萨弗恩的新泽西州界，位于 I-287 上，续接新泽西 17 号公路", "at": [-74.17, 41.12] }
+  },
+  "sections": [
+    {
+      "key": "character",
+      "en": [
+        "NY 17 crosses the whole southern edge of New York, through eleven counties. From the Pennsylvania line it runs east as a freeway, the Southern Tier Expressway, past Chautauqua Lake and Jamestown, along the Allegheny River through Salamanca and Olean, north to Hornell and back through Corning, Elmira and Owego to Binghamton. For about a mile near Waverly it actually runs in Pennsylvania, still signed and maintained by New York.",
+        "East of Binghamton it becomes the Quickway, the expressway that once carried New York City to the Catskill resorts: along the Delaware's East Branch and the Beaver Kill to Roscoe and Liberty, past Monticello, round Middletown and on to Harriman. There it turns south as an ordinary road through Harriman State Park, Tuxedo and Sloatsburg, briefly joining the Thruway and I-287 before reaching New Jersey at Suffern.",
+        "It is New York's longest state route and the second-longest highway in the state after the Thruway. Most of its western half is now also I-86, and the two numbers share the road while NYSDOT finishes bringing the rest up to Interstate standard."
+      ],
+      "zh": [
+        "NY 17 横贯纽约州整条南缘，穿过 11 个县。它自宾夕法尼亚州界起以高速公路——南部层带高速公路——东行，经肖托夸湖与詹姆斯敦，沿阿勒格尼河穿过萨拉曼卡与奥利恩，北折至霍内尔，再经康宁、埃尔迈拉与奥韦戈到宾厄姆顿。在韦弗利附近，它实际上有约一英里位于宾夕法尼亚境内，但仍标为 NY 17，并由纽约州养护。",
+        "宾厄姆顿以东，它成为“快速路”——当年把纽约市民送往卡茨基尔度假村的高速公路：沿特拉华河东支与比弗基尔河到罗斯科与利伯蒂，经蒙蒂塞洛，绕过米德尔敦，到达哈里曼。在那里它转向南，以普通公路穿过哈里曼州立公园、塔克西多与斯洛茨堡，短暂并入纽约州高速公路与 I-287 后，在萨弗恩进入新泽西。",
+        "它是纽约州最长的州道，也是全州仅次于纽约州高速公路的第二长公路。其西半段大部分如今同时也是 I-86；在纽约州交通部把其余路段提升到州际标准之前，两个编号共用这条路。"
+      ]
+    },
+    {
+      "key": "history",
+      "en": [
+        "Parts of the route are older than the state highway system. Between Binghamton and Corning it follows the Great Bend and Bath Turnpike, legislated in 1808, and in Orange County it follows the Orange Turnpike. In 1908 the Legislature made most of the line from Westfield to Harriman unsigned Legislative Route 4, and from 1918 it was the main part of the Liberty Highway, an auto trail from New York City to Cleveland. When New York first signed its highways in 1924 it became NY 17, then 434 miles long.",
+        "Holiday traffic made it into an expressway. Two-lane NY 17 jammed every summer weekend with traffic to the Catskill hotels and bungalow colonies, and towns such as Middletown were paralysed on Friday evenings. The state's answer was the first free long-distance expressway in New York: its first section, bypassing Middletown from Fair Oaks to Goshen, opened in July 1951, and the Quickway was complete from Binghamton to Harriman by 1968. In the west, Governor Thomas Dewey proposed the Southern Tier Expressway in 1953; it opened in pieces from the mid-1960s, and by the late 1990s ran continuously from Pennsylvania to Harriman.",
+        "On 3 December 1999 the westernmost 177 miles became I-86, a number written into law the year before for the whole road west of the Thruway. It has been extended as sections were upgraded: to Horseheads in 2004, Elmira in 2008, the Tioga County line after FHWA approval in 2013, and Vestal in 2024. East of there, at-grade crossings and narrow sections remain, such as the signalised junction at Parksville that a bypass replaced only in 2011."
+      ],
+      "zh": [
+        "这条路有些部分比州公路系统还老。在宾厄姆顿与康宁之间，它沿 1808 年立法修建的大弯—巴斯收费公路而行；在奥兰治县，它沿奥兰治收费公路而行。1908 年，州议会将韦斯特菲尔德至哈里曼的大部分路线列为不设标志的第 4 号法定路线；自 1918 年起，它又是自纽约市至克利夫兰的汽车道“自由公路”的主体。1924 年纽约州首次为公路设置编号时，它成为 NY 17，当时全长 434 英里。",
+        "是度假车流把它变成了高速公路。双车道的 NY 17 每逢夏季周末都被前往卡茨基尔酒店与平房度假村的车辆堵死，米德尔敦等城镇每到周五傍晚便陷入瘫痪。州政府的对策是修建纽约州第一条免费长途高速公路：第一段自费尔奥克斯至戈申、绕过米德尔敦，于 1951 年 7 月通车；到 1968 年，快速路已贯通宾厄姆顿至哈里曼。在西部，州长托马斯·杜威于 1953 年提出修建南部层带高速公路；它自 1960 年代中期起分段通车，到 1990 年代后期已从宾夕法尼亚连续通到哈里曼。",
+        "1999 年 12 月 3 日，最西端的 177 英里成为 I-86——这一编号在前一年已由法律指定给纽约州高速公路以西的整条路。此后随着各段升级，I-86 不断延伸：2004 年到霍斯黑兹，2008 年到埃尔迈拉，2013 年经联邦公路管理局批准延至蒂奥加县界，2024 年到韦斯特尔。再往东，仍有平面交叉口和狭窄路段，例如帕克斯维尔的信号灯路口，直到 2011 年才由一条绕行线取代。"
+      ]
+    },
+    {
+      "key": "money",
+      "en": [
+        "Upgrading the Quickway to I-86 is being paid for one interchange at a time. NYSDOT rebuilt exit 131 at Woodbury as a diverging diamond in 2019 and built a new exit 125 for Legoland New York in 2020, widening the road to three lanes each way between exits 124 and 125. The largest piece still to come is the widening between the Thruway and Liberty, which NYSDOT has put at about $1.3 billion."
+      ],
+      "zh": [
+        "把快速路升级为 I-86 的费用，是一个互通一个互通地支付的。纽约州交通部于 2019 年将伍德伯里的 131 号出口改建为分叉菱形互通，2020 年为纽约乐高乐园新建 125 号出口，并将 124 至 125 号出口之间拓宽为双向六车道。尚待实施的最大一项，是纽约州高速公路至利伯蒂之间的拓宽，纽约州交通部估计约需 13 亿美元。"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "label": { "en": "Construction cost", "zh": "造价" },
+      "why": { "en": "No total has been published. The expressway was built in sections over more than forty years, from 1951 to the late 1990s, and its costs were never added up.", "zh": "并无公开的总造价。这条高速公路自 1951 年至 1990 年代后期历经四十余年分段修建，其造价从未有人汇总。" }
+    },
+    {
+      "label": { "en": "Funding", "zh": "出资方" },
+      "why": { "en": "There is no single funder. The New York State Department of Transportation builds and maintains the route with state and federal-aid money, apart from its brief overlap with the toll-funded Thruway near Hillburn.", "zh": "没有单一出资方。纽约州交通部以州资金与联邦补助资金修建并养护该路，只有希尔伯恩附近与依靠通行费的纽约州高速公路短暂重合的一段除外。" }
+    },
+    {
+      "label": { "en": "Length", "zh": "全长" },
+      "value": { "en": "396.84 miles", "zh": "396.84 英里" },
+      "source": "New York State Department of Transportation, Traffic Data Report for New York State, 2008, as cited in English Wikipedia"
+    },
+    {
+      "label": { "en": "Proposed Orange–Sullivan widening", "zh": "拟议的奥兰治—沙利文段拓宽" },
+      "value": { "en": "Reported at about $1.3 billion; not checked against NYSDOT capital plans", "zh": "据报约 13 亿美元；未与纽约州交通部资本计划核对" },
+      "source": "English Wikipedia, New York State Route 17, and the news source it cites"
+    }
+  ],
+  "trafficFigures": [
+    {
+      "label": { "en": "Summer weekend peak", "zh": "夏季周末高峰" },
+      "why": { "en": "The route's defining traffic is seasonal, Catskills holiday traffic on Friday evenings and Sunday afternoons, and no published count separates those peaks from the annual average.", "zh": "这条路最具代表性的车流是季节性的——周五傍晚与周日下午前往和离开卡茨基尔的度假车流，而公开统计并未把这些高峰与年平均值分开。" }
+    }
+  ],
+  "timeline": [
+    { "year": 1808, "en": "The Great Bend and Bath Turnpike is legislated along the future route between Binghamton and Corning.", "zh": "大弯—巴斯收费公路立法修建，沿日后路线连接宾厄姆顿与康宁。" },
+    { "year": 1908, "en": "Most of the line becomes unsigned Legislative Route 4.", "zh": "路线大部分成为不设标志的第 4 号法定路线。" },
+    { "year": 1918, "en": "It becomes the main part of the Liberty Highway auto trail.", "zh": "成为汽车道“自由公路”的主体。" },
+    { "year": 1924, "en": "New York signs it as NY 17, 434 miles long.", "zh": "纽约州将其标为 NY 17，全长 434 英里。" },
+    { "year": 1951, "en": "The first expressway section opens in July, bypassing Middletown.", "zh": "7 月，第一段高速公路通车，绕过米德尔敦。" },
+    { "year": 1953, "en": "Governor Dewey proposes the Southern Tier Expressway.", "zh": "州长杜威提出修建南部层带高速公路。" },
+    { "year": 1968, "en": "The Quickway is complete from Binghamton to Harriman.", "zh": "快速路贯通宾厄姆顿至哈里曼。" },
+    { "year": 1999, "en": "The westernmost 177 miles become I-86 on 3 December.", "zh": "12 月 3 日，最西端的 177 英里成为 I-86。" },
+    { "year": 2011, "en": "A bypass replaces the signalised junction at Parksville.", "zh": "一条绕行线取代帕克斯维尔的信号灯路口。" },
+    { "year": 2024, "en": "The I-86 designation is extended east to Vestal.", "zh": "I-86 编号向东延伸至韦斯特尔。" }
+  ]
+}

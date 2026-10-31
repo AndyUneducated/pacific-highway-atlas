@@ -1,0 +1,95 @@
+{
+  "id": "cn-g104",
+  "route": { "sys": "cn-national", "num": "G104" },
+  "name": { "en": "Beijing–Pingtan Highway", "zh": "北京—平潭公路" },
+  "aka": [
+    { "en": "Jinglan line", "zh": "京岚线" },
+    { "en": "Beijing–Fuzhou Highway (the 1981 route)", "zh": "北京—福州公路（1981 年线路）" }
+  ],
+  "tagline": { "en": "Beijing to the Fujian coast by Jinan, Nanjing and Hangzhou, over the Yellow River on China's first concrete cable-stayed bridge and the Yangtze on the Nanjing bridge of 1968", "zh": "经济南、南京、杭州从北京直下福建海岸：在中国第一座预应力混凝土斜拉桥上过黄河，在 1968 年的南京长江大桥上过长江" },
+  "termini": {
+    "start": { "at": [116.39, 39.87], "en": "Yongdingmen Bridge, Dongcheng, Beijing, on the Second Ring Road", "zh": "北京市东城区永定门桥（二环路）" },
+    "end": { "at": [119.84, 25.47], "en": "Pingtan, Fuzhou, Fujian, near the Dongxing village committee; the 1981 route ended at Fuzhou", "zh": "福建省福州市平潭县东兴村村委会附近；1981 年线路止于福州" }
+  },
+  "sections": [
+    {
+      "key": "character",
+      "en": [
+        "G104 leaves Beijing at Yongdingmen Bridge as part of the city's southern axis road and runs south-east to the coast of Fujian. It passes Langfang, Tianjin, Cangzhou, Dezhou, Jinan, Tai'an, Qufu, Zoucheng, Tengzhou and Xuzhou, crosses north-eastern Anhui by Si county, Mingguang and Chuzhou, and comes back into Jiangsu at Nanjing — so that it enters Jiangsu twice. From Nanjing it runs by Liyang and Yixing to Huzhou and Hangzhou, through Shaoxing, Shengzhou, Tiantai and Linhai to Wenzhou, and along the coast by Fuding, Fu'an and Ningde to Fuzhou.",
+        "The 1981 road ended at Fuzhou and was 2,420 km long. The 2013 national highway plan carried it on through Fuqing to Pingtan island, the present end; Chinese Wikipedia gives 2,606 km, a figure it takes from Baidu Maps. In Fuqing the Fuzhou city government describes the old Fuzhou–Xiamen road as made up today of G104, G324 and G228."
+      ],
+      "zh": [
+        "G104 在北京永定门桥出发，起始段为北京“南中轴路”的一部分，一路向东南直抵福建海岸。沿途经廊坊、天津、沧州、德州、济南、泰安、曲阜、邹城、滕州、徐州，经泗县、明光、滁州穿过皖东北，再在南京重新进入江苏——因而两度进入江苏。自南京经溧阳、宜兴至湖州、杭州，经绍兴、嵊州、天台、临海至温州，再沿海岸经福鼎、福安、宁德到福州。",
+        "1981 年的线路止于福州，全长 2420 公里。《国家公路网规划（2013 年—2030 年）》将其经福清延伸至平潭岛，即今天的终点；中文维基百科记全长 2606 公里，数字转自百度地图。福州市政府称，福清境内的福厦公路如今由 G104、G324、G228 三条国道组成。"
+      ]
+    },
+    {
+      "key": "engineering",
+      "en": [
+        "The road crosses the Yellow River north of Jinan on the Jinan Yellow River Highway Bridge, begun in December 1978 and opened on 14 July 1982: 2,023.44 m long, with a 488 m main bridge of five continuous spans and a 220 m main span. It was China's first prestressed-concrete cable-stayed bridge and, when it opened, the longest-span highway cable-stayed bridge in Asia. A second bridge 33.5 m downstream, a steel-truss cable-stayed bridge whose 488 m main span equals the whole main bridge of the old one, with eight road lanes above and space for a metro line below, was begun on 18 January 2022 and opened on 23 November 2024.",
+        "At Nanjing G104 crosses the Yangtze on the upper deck of the Nanjing Yangtze River Bridge, which it shares with G205 and G312: a four-lane road bridge 4,588 m long and 15 m wide over a double-track railway. The road deck opened on 29 December 1968. It was the third bridge over the main Yangtze and the first very large bridge designed and built in China largely from Chinese materials; when Soviet steel deliveries failed, Anshan Iron and Steel developed its own '16Mn' bridge steel in 1963."
+      ],
+      "zh": [
+        "这条路在济南以北经济南黄河公路大桥跨越黄河。大桥 1978 年 12 月开工，1982 年 7 月 14 日通车：全长 2023.44 米，主桥长 488 米，为五孔连续结构，最大跨径 220 米。它是我国第一座预应力混凝土斜拉桥，建成时为亚洲跨径最大的公路斜拉桥。在老桥下游 33.5 米处新建的复线桥为钢桁梁斜拉桥，主跨 488 米，与老桥主桥等长，上层双向八车道，下层预留轨道交通空间，2022 年 1 月 18 日开工，2024 年 11 月 23 日建成通车。",
+        "在南京，G104 经南京长江大桥上层跨越长江，与 G205、G312 共用此桥：公路桥为四车道，全长 4588 米，宽 15 米，下层为双线铁路。公路桥于 1968 年 12 月 29 日通车。它是长江干流上的第三座大桥，也是第一座完全由中国设计建造并基本采用国产材料的特大型桥梁；苏联钢材供应中断后，鞍山钢铁公司于 1963 年自行研制出“16 锰”桥梁钢。"
+      ]
+    },
+    {
+      "key": "history",
+      "en": [
+        "G104 was one of the twelve radial routes out of Beijing in the national trunk highway plan issued in November 1981 by the State Planning Commission, the State Economic Commission and the Ministry of Communications, which numbered 70 national roads totalling about 109,200 km. The 2013 national highway plan, approved by the State Council that June, extended it from Fuzhou to Pingtan.",
+        "The Nanjing bridge has had its own history of traffic. From August 1989 a toll station on its northern approach, on the road carrying G104, G205 and G328, collected the tolls of the Nanjing–Lianyungang and Nanjing–Lu'an roads from almost every vehicle using the bridge; it raised about 1.7 billion yuan in sixteen years and was removed after tolling stopped on 1 December 2005. From 28 October 2016 the road deck was closed for a full rebuild and reopened on 29 December 2018."
+      ],
+      "zh": [
+        "1981 年 11 月，经国务院授权，国家计委、国家经委和交通部联合发布《国家干线公路网（试行方案）》，共 70 条国道、规划总里程约 10.92 万公里；G104 是其中 12 条首都放射线之一。2013 年 6 月获国务院批准的国家公路网规划将其由福州延伸至平潭。",
+        "南京长江大桥的交通本身也有一段故事。1989 年 8 月，大桥北侧承载 104、205、328 国道的大桥北路上设立收费站，名义上收取宁连、宁六公路通行费，实际上几乎所有过桥车辆都要交费；16 年间约收取 17 亿元，2005 年 12 月 1 日停止收费后拆除。2016 年 10 月 28 日起，公路桥封闭进行全面维修改造，2018 年 12 月 29 日恢复通车。"
+      ]
+    },
+    {
+      "key": "money",
+      "en": [
+        "No cost exists for the road as a whole. The Nanjing Yangtze River Bridge cost 287.577 million yuan in all, of which the main bridge took 131.51 million and the road approaches 25.792 million. Its 2016–2018 rebuild was approved by the National Development and Reform Commission at an estimated 1.09 billion yuan."
+      ],
+      "zh": [
+        "全线没有总造价。南京长江大桥总造价 2.87577 亿元，其中正桥 1.3151 亿元、公路引桥 2579.2 万元。2016—2018 年的公路桥维修改造工程由国家发改委批复，估算总投资 10.9 亿元。"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "label": { "en": "Construction cost", "zh": "造价" },
+      "why": { "en": "No cost exists for the whole road, which links older provincial roads and has been rebuilt section by section, each priced on its own. Sourced costs for its two great river crossings are given below.", "zh": "全线没有总造价：它连接各省原有道路，并分段改建、分段计价。下列为两座大型过江、过河桥梁有来源的造价。" }
+    },
+    {
+      "label": { "en": "Funding", "zh": "出资方" },
+      "why": { "en": "No route-wide funding statement has been found. The one recorded funding arrangement on the road is the Nanjing bridge toll station of 1989–2005, which collected about 1.7 billion yuan for Nanjing road projects.", "zh": "未查到全线出资说明。路上唯一有记载的筹资安排，是 1989—2005 年的南京桥北收费站，为南京道路工程筹集约 17 亿元。" }
+    },
+    {
+      "label": { "en": "Length", "zh": "全长" },
+      "value": { "en": "2,606 km to Pingtan, a figure Chinese Wikipedia takes from Baidu Maps; 2,420 km on the 1981 Beijing–Fuzhou route", "zh": "至平潭 2606 公里（中文维基百科转自百度地图）；1981 年北京至福州线路 2420 公里" },
+      "source": "Chinese Wikipedia, 104国道 and 中华人民共和国国道"
+    },
+    {
+      "label": { "en": "Nanjing Yangtze River Bridge (opened 1968)", "zh": "南京长江大桥（1968 年通车）" },
+      "value": { "en": "287.577 million yuan in total, including 131.51 million for the main bridge and 25.792 million for the road approaches; 2016–2018 road-deck rebuild estimated at 1.09 billion", "zh": "总造价 2.87577 亿元，其中正桥 1.3151 亿元、公路引桥 2579.2 万元；2016—2018 年公路桥维修改造估算总投资 10.9 亿元" },
+      "source": "Chinese Wikipedia, 南京长江大桥"
+    },
+    {
+      "label": { "en": "Jinan Yellow River Highway Bridge (opened 1982)", "zh": "济南黄河公路大桥（1982 年通车）" },
+      "value": { "en": "2,023.44 m; 220 m main span; China's first prestressed-concrete cable-stayed bridge", "zh": "全长 2023.44 米；主跨 220 米；我国第一座预应力混凝土斜拉桥" },
+      "source": "Shandong Provincial Communications Planning and Design Institute (sdcpd.com); Jinan channel, sdnews.com.cn, 25 January 2021"
+    }
+  ],
+  "timeline": [
+    { "year": 1968, "en": "The road deck of the Nanjing Yangtze River Bridge opens on 29 December.", "zh": "12 月 29 日，南京长江大桥公路桥通车。" },
+    { "year": 1978, "en": "Work on the Jinan Yellow River Highway Bridge begins in December.", "zh": "12 月，济南黄河公路大桥开工。" },
+    { "year": 1981, "en": "The national trunk highway plan of November names Beijing–Fuzhou as G104.", "zh": "11 月，《国家干线公路网（试行方案）》将北京至福州公路编为 104 国道。" },
+    { "year": 1982, "en": "The Jinan Yellow River Highway Bridge opens on 14 July.", "zh": "7 月 14 日，济南黄河公路大桥通车。" },
+    { "year": 1989, "en": "A toll station opens on the northern approach to the Nanjing bridge in August.", "zh": "8 月，南京长江大桥北侧设立收费站。" },
+    { "year": 2005, "en": "Tolls on the Nanjing bridge approach end on 1 December.", "zh": "12 月 1 日，南京桥北收费站停止收费。" },
+    { "year": 2013, "en": "The national highway plan extends G104 from Fuzhou to Pingtan.", "zh": "国家公路网规划将 G104 由福州延伸至平潭。" },
+    { "year": 2016, "en": "The Nanjing bridge road deck closes for rebuilding on 28 October.", "zh": "10 月 28 日，南京长江大桥公路桥封闭维修改造。" },
+    { "year": 2018, "en": "The Nanjing bridge reopens to road traffic on 29 December.", "zh": "12 月 29 日，南京长江大桥恢复通车。" },
+    { "year": 2024, "en": "The second Jinan Yellow River bridge opens on 23 November.", "zh": "11 月 23 日，济南黄河大桥复线桥建成通车。" }
+  ]
+}

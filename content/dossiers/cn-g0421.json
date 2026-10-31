@@ -1,0 +1,116 @@
+{
+  "id": "cn-g0421",
+  "route": { "sys": "cn-expressway", "num": "G0421" },
+  "name": { "en": "Xuchang–Guangzhou Expressway", "zh": "许昌—广州高速公路" },
+  "aka": [
+    { "en": "Xuguang Expressway", "zh": "许广高速" },
+    { "en": "G4W2 (former number)", "zh": "G4W2（原编号）" }
+  ],
+  "tagline": { "en": "The western relief line of the Beijing–Hong Kong–Macau expressway, from Xuchang across Hubei, Hunan and the Nanling to Guangzhou", "zh": "京港澳高速的西侧并行线，从许昌经湖北、湖南，越过南岭到广州" },
+  "termini": {
+    "start": { "at": [113.88, 33.96], "en": "Xuchang East junction with G4 and the Yancheng–Luoyang expressway, Jian'an district, Xuchang, Henan", "zh": "河南省许昌市建安区许昌东枢纽（接京港澳高速、盐洛高速）" },
+    "end": { "at": [113.22, 23.16], "en": "Guangqing interchange, Zengcha Road, Baiyun district, Guangzhou", "zh": "广州市白云区增槎路广清立交" }
+  },
+  "sections": [
+    {
+      "key": "character",
+      "en": [
+        "G0421 is a parallel line of G4, the Beijing–Hong Kong–Macau expressway, running about 1,235 km west of it from Xuchang in Henan to Guangzhou; until renumbering it was G4W2. It is a chain of separately built provincial expressways. In Henan it shares the Lannan expressway from Xuchang to Pingdingshan and the Jiaotong expressway on by Ye county, Wugang, Biyang and Tongbai to the Huai river at the Hubei border. The Suizhou–Yueyang expressway, about 343 km in Hubei, runs by Suizhou, Jingshan, Tianmen, Xiantao and Jianli and crosses the Yangtze into Hunan on the Jingyue bridge. The Yueyang–Linwu expressway, 539 km, runs west of G4 down Hunan by Miluo, Xiangyin, Wangcheng, Xiangtan, Hengyang, Changning, Jiahe and Linwu to Huangsha in Yizhang county. In Guangdong the Qingyuan–Lianzhou expressway crosses the Nanling by Lianzhou and Yangshan, and the Guangzhou–Qingyuan expressway, which began as the Guangzhou–Huadu expressway, ends at Zengcha Road in Guangzhou's Baiyun district.",
+        "Its Hunan section was planned to take load off G4 and is also called the Hunan section of the Beijing–Hong Kong–Macau relief line. In Guangdong both the Qingyuan–Lianzhou and Guangzhou–Qingyuan expressways are counted as parts of G107 within the province."
+      ],
+      "zh": [
+        "G0421 是 G4 京港澳高速的并行线，在其西侧自河南许昌至广州，全长约 1235 公里，重新编号前称 G4W2。它由各省分别修建的高速公路连接而成。河南境内，许昌至平顶山段与兰南高速共线，平顶山以南与焦桐高速共线，经叶县、舞钢、泌阳、桐柏至豫鄂省界的淮河。随岳高速湖北境内约 343 公里，经随州、京山、天门、仙桃、监利，由荆岳长江公路大桥跨江进入湖南。岳临高速主线 539 公里，在京港澳高速西侧纵贯湖南，经汨罗、湘阴、望城、湘潭、衡阳、常宁、嘉禾、临武，止于宜章县黄沙镇。广东境内，清连高速经连州、阳山穿越南岭，广清高速（一期原名广花高速）止于广州白云区增槎路。",
+        "湖南段的规划功能是分流京港澳高速，亦称“京港澳高速公路复线湖南段”。在广东，清连高速和广清高速都被视为 107 国道广东境内的一段。"
+      ]
+    },
+    {
+      "key": "engineering",
+      "en": [
+        "The Jingyue Yangtze River Bridge, Hunan's first bridge over the Yangtze, is a hybrid-girder cable-stayed bridge with an 816 m main span and towers of 224.5 m and 265.5 m; the bridge is 4,512.5 m long and the whole project 5,419 m. Chinese Wikipedia dates the start of work to 30 December 2006 and the Hunan transport department to February 2007; it opened on 9 December 2010.",
+        "The Qingyuan–Lianzhou expressway in northern Guangdong was the first large-scale conversion in China of a mountain class-I road into an expressway: it was built on the line of G107's class-I road through the Nanling mountains. It is 215.25 km long; 188.75 km opened in July 2009 and the whole road on 25 January 2011."
+      ],
+      "zh": [
+        "荆岳长江大桥是湖南第一座跨越长江的大桥，为混合梁斜拉桥，主跨 816 米，两座主塔分别高 224.5 米和 265.5 米；大桥长 4512.5 米，项目全长 5419 米。中文维基百科记其于 2006 年 12 月 30 日开工，湖南省交通运输厅则记为 2007 年 2 月；2010 年 12 月 9 日通车。",
+        "粤北的清连高速是我国首条大规模由山区一级公路改建而成的高速公路，沿原 107 国道清连一级公路穿越南岭山区。全长 215.25 公里，其中 188.75 公里于 2009 年 7 月通车，2011 年 1 月 25 日全线通车。"
+      ]
+    },
+    {
+      "key": "money",
+      "en": [
+        "The sections were paid for in very different ways. The 76 km north section of the Suizhou–Yueyang expressway, opened in 2009 at a cost of 2.29 billion yuan, was funded entirely by a private company, the Hubei Hengda Zhiyuan Group, while the 152.9 km middle section cost 5.35 billion. The Qingyuan–Lianzhou expressway is owned 76.37% by the listed Shenzhen Expressway company, with Guangzhou Yuexiu Transport holding the rest; it cost 6.131 billion yuan against an earlier estimate of 5.06 billion, is tolled for 25 years and charges 0.45 yuan per standard vehicle-kilometre. In Hunan, Chinese Wikipedia gives the 539 km Yueyang–Linwu expressway a budget of 35.9 billion yuan."
+      ],
+      "zh": [
+        "各段的出资方式差别很大。随岳高速北段 76 公里，2009 年通车，造价 22.9 亿元，全部由民营企业湖北恒达致远集团投资；中段 152.9 公里，造价 53.5 亿元。清连高速由上市公司深圳高速公路股份有限公司持股 76.37％，其余股份属广州越秀交通；造价 61.31 亿元，此前估算为 50.6 亿元，收费期 25 年，收费标准为每标准车公里 0.45 元。湖南境内，中文维基百科记 539 公里的岳临高速概算为 359 亿元。"
+      ]
+    },
+    {
+      "key": "traffic",
+      "en": [
+        "On 4 February 2023 five separate crashes happened within ten minutes on the expressway in Wangcheng district, Changsha, killing 16 people and injuring 66."
+      ],
+      "zh": [
+        "2023 年 2 月 4 日，许广高速长沙市望城区段 10 分钟内接连发生 5 起交通事故，造成 16 人死亡、66 人受伤。"
+      ]
+    },
+    {
+      "key": "condition",
+      "en": [
+        "From 27 March 2026 the traffic police diverted northbound traffic off the expressway at the Jiahe junction, sending it east or west on the Xiamen–Chengdu expressway to other north–south routes, because of a hidden hazard in the Jinshanbei bridge at kilometre 949 in Chenzhou; three toll-station entrances were closed to northbound traffic, and the reopening date was to be announced later."
+      ],
+      "zh": [
+        "自 2026 年 3 月 27 日起，因许广高速郴州段 K949+270 处南往北方向禁山背大桥存在隐患，高速交警实施交通管制分流：北行车辆在嘉禾枢纽经厦蓉高速向西或向东转二广高速或武深高速北上，行廊、舂陵江、流峰三个收费站北行入口实施管制，恢复通行时间另行公告。"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "label": { "en": "Construction cost", "zh": "造价" },
+      "why": { "en": "No total has been published: the road was built by different provincial companies between 1993 and 2011, each section priced separately. Sourced section costs are given below.", "zh": "没有公布全线总造价：这条路由各省不同公司在 1993 年至 2011 年间分段修建、分段计价。下列为有来源的路段造价。" }
+    },
+    {
+      "label": { "en": "Funding", "zh": "出资方" },
+      "why": { "en": "No single funder exists. The sources show a private group paying for the Suizhou–Yueyang north section and the listed Shenzhen Expressway company owning most of Qingyuan–Lianzhou; no funding statement has been found for the other sections.", "zh": "没有单一出资方。资料显示随岳高速北段由民营集团投资，清连高速主要由上市公司深圳高速持有；其他路段未查到出资说明。" }
+    },
+    {
+      "label": { "en": "Length", "zh": "全长" },
+      "value": { "en": "About 1,235 km", "zh": "约 1235 公里" },
+      "source": "Chinese Wikipedia, 许昌—广州高速公路"
+    },
+    {
+      "label": { "en": "Yueyang–Linwu expressway (Hunan)", "zh": "岳临高速（湖南）" },
+      "value": { "en": "Budget 35.9 billion yuan for a 539 km main line, built as four projects", "zh": "主线 539 公里，分四段建设，概算投资 359 亿元" },
+      "source": "Chinese Wikipedia, 许昌—广州高速公路"
+    },
+    {
+      "label": { "en": "Suizhou–Yueyang expressway, north and middle sections", "zh": "随岳高速北段、中段" },
+      "value": { "en": "North section 76 km, 2.29 billion yuan, wholly funded by the Hubei Hengda Zhiyuan Group, opened 28 June 2009; middle section 152.9 km, 5.35 billion yuan, opened December 2007", "zh": "北段 76 公里，22.9 亿元，由湖北恒达致远集团全资投资，2009 年 6 月 28 日通车；中段 152.9 公里，53.5 亿元，2007 年 12 月通车" },
+      "source": "Changjiang Daily (cjn.cn); Chinese Wikipedia, 随岳高速公路"
+    },
+    {
+      "label": { "en": "Jingyue Yangtze River Bridge (2010)", "zh": "荆岳长江大桥（2010 年）" },
+      "value": { "en": "Budget 2.342 billion yuan (about 2.3 billion per the Hunan transport department); 816 m main span; opened 9 December 2010", "zh": "概算 23.42 亿元（湖南省交通运输厅称约 23 亿元）；主跨 816 米；2010 年 12 月 9 日通车" },
+      "source": "Chinese Wikipedia, 荆岳长江大桥; Hunan Department of Transport"
+    },
+    {
+      "label": { "en": "Qingyuan–Lianzhou expressway (2011)", "zh": "清连高速（2011 年）" },
+      "value": { "en": "6.131 billion yuan (earlier estimate 5.06 billion); 215.25 km; 76.37% owned by Shenzhen Expressway; toll 0.45 yuan per standard vehicle-km for 25 years", "zh": "61.31 亿元（此前估算 50.6 亿元）；215.25 公里；深圳高速持股 76.37％；收费标准每标准车公里 0.45 元，收费期 25 年" },
+      "source": "Shenzhen Expressway Co. disclosures; Guangdong provincial government"
+    },
+    {
+      "label": { "en": "Yizhang–Fengtouling expressway (2011), listed under the Lianzhou–Yizhang section", "zh": "宜凤高速（2011 年，列于连州—宜章段）" },
+      "value": { "en": "1.852 billion yuan for 48.451 km at 80 km/h; begun June 2007, opened 25 September 2011", "zh": "48.451 公里，设计时速 80 公里，投资 18.52 亿元；2007 年 6 月开工，2011 年 9 月 25 日通车" },
+      "source": "Chinese Wikipedia, 许昌—广州高速公路"
+    }
+  ],
+  "timeline": [
+    { "year": 1993, "en": "The 22.6 km Guangzhou–Huadu expressway opens in December.", "zh": "12 月，22.6 公里的广花高速通车。" },
+    { "year": 1999, "en": "The second phase of the Guangzhou–Qingyuan expressway opens in October.", "zh": "10 月，广清高速二期通车。" },
+    { "year": 2004, "en": "The Xuchang–Pingdingshan expressway opens on 12 December.", "zh": "12 月 12 日，许平高速通车。" },
+    { "year": 2007, "en": "The middle section of the Suizhou–Yueyang expressway opens in December.", "zh": "12 月，随岳高速中段通车。" },
+    { "year": 2009, "en": "The north section of the Suizhou–Yueyang expressway opens on 28 June; 188.75 km of the Qingyuan–Lianzhou expressway opens in July.", "zh": "6 月 28 日，随岳高速北段通车；7 月，清连高速 188.75 公里通车。" },
+    { "year": 2010, "en": "The south section of the Suizhou–Yueyang expressway opens on 10 March; the Jingyue Yangtze River Bridge opens on 9 December.", "zh": "3 月 10 日，随岳高速南段通车；12 月 9 日，荆岳长江大桥通车。" },
+    { "year": 2011, "en": "Qingyuan–Lianzhou opens throughout on 25 January, Yizhang–Fengtouling on 25 September, and the Hunan section of Suizhou–Yueyang on 26 December.", "zh": "1 月 25 日清连高速全线通车，9 月 25 日宜凤高速通车，12 月 26 日随岳高速湖南段通车。" },
+    { "year": 2023, "en": "Five crashes in ten minutes in Wangcheng, Changsha, kill 16 people on 4 February.", "zh": "2 月 4 日，长沙望城段 10 分钟内发生 5 起事故，16 人死亡。" },
+    { "year": 2026, "en": "Northbound traffic is diverted at the Jiahe junction from 27 March because of a hidden hazard in the Jinshanbei bridge.", "zh": "3 月 27 日起，因禁山背大桥存在隐患，北行车辆在嘉禾枢纽分流。" }
+  ]
+}

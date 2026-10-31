@@ -1,0 +1,105 @@
+{
+  "id": "tw-29",
+  "route": { "sys": "tw-provincial", "num": "29" },
+  "name": { "en": "Qijia and Qinan Highways", "zh": "旗甲公路、旗楠公路" },
+  "aka": [
+    { "en": "Provincial Highway 21, southern section (1978–2014)", "zh": "台 21 线南段（1978—2014 年）" },
+    { "en": "County Road 179 (from 1962)", "zh": "县道 179 号（1962 年起）" }
+  ],
+  "tagline": { "en": "Down the Qishan valley from Namaxia through Xiaolin, Jiaxian and Qishan to the Kaohsiung coast, cut off from the north by an unbuilt mountain gap and rebuilt on steel bridges after Typhoon Morakot", "zh": "自那玛夏沿旗山溪谷而下，经小林、甲仙、旗山至高雄沿海；北面因一段从未修建的山区路段而不与他线相连，莫拉克台风后以钢便桥重建" },
+  "termini": {
+    "start": { "at": [120.72, 23.28], "en": "Dakanuwa, Namaxia, Kaohsiung, the end of the road up the Nanzixian valley", "zh": "高雄市那玛夏区达卡努瓦，楠梓仙溪谷道路的尽头" },
+    "end": { "at": [120.42, 22.50], "en": "Xizhou, Linyuan, Kaohsiung, under the Shuangyuan bridge on Provincial Highway 17", "zh": "高雄市林园区溪州，双园大桥（台 17 线）下" }
+  },
+  "sections": [
+    {
+      "key": "character",
+      "en": [
+        "Provincial Highway 29 lies wholly in Kaohsiung. It runs about 112 km from Dakanuwa at the head of the Nanzixian (Qishan) river through Namaxia, past the site of Xiaolin at about 21 km, to Jiaxian, where it shares about 3.5 km with Highway 20, then through Shanlin to Qishan at about 60 km, where it meets Highways 3 and 28. Below Qishan it follows the Gaoping river past the Lingkou interchange on Freeway 10, Dashu and Fo Guang Shan, under the Gaoping bridge on Highway 1 at about 90.5 km, to Linyuan by the river mouth.",
+        "Jiaxian to Qishan is the Qijia Highway and Qishan southward the Qinan Highway. The length is given as 111.900 km in the route list, 112.310 km in the 2014 renumbering and 112.260 km in the junction table. The northern end is a dead end: the road over the mountains to Tataka, which would have joined it to Highway 18, was never built."
+      ],
+      "zh": [
+        "台 29 线全线位于高雄市。它自楠梓仙溪（旗山溪）上游的达卡努瓦起，经那玛夏、约 21 公里处的小林旧址至甲仙，与台 20 线共线约 3.5 公里，再经杉林至约 60 公里的旗山，与台 3 线、台 28 线交会。旗山以南沿高屏溪而行，经国道 10 号岭口交流道、大树、佛光山，于约 90.5 公里处穿过台 1 线高屏大桥下方，终于溪口附近的林园。",
+        "甲仙至旗山段称旗甲公路，旗山以南称旗楠公路。全长说法有三：路线表为 111.900 公里，2014 年改编公告为 112.310 公里，交会表为 112.260 公里。北端为断头路：越过山区通往塔塔加、与台 18 线相接的路段从未修建。"
+      ]
+    },
+    {
+      "key": "history",
+      "en": [
+        "The Japanese built a 35.036 km road from Qishan to Jiaxian. After the war Jiaxian–Daliao became County Road 179 in 1962. In the 1978 renumbering the road became the southern end of Highway 21, the New Central Cross-Island scheme's Shuiyu line, from Tianleng in Taichung to Zhuanziyao; the planned section from Tataka south to Minsheng in Namaxia, through the Lulin mountain reserve and along the Nanzixian river, was never built. In 1993 the end was extended to Shanwei in Linyuan.",
+        "Typhoon Morakot destroyed the upper valley. At about 06:09 on 9 August 2009 the slope of Xiandu mountain above Xiaolin village collapsed, and a landslide dam broke about 30 minutes later, burying the village. The toll is given differently: the Central News Agency has reported over 460 dead and, later, 381 dead and 16 missing; the Taiwan FactCheck Center gives 462. North of Wulipu the highway was almost entirely destroyed.",
+        "In 2014 the unbuilt gap was formally given up. The Executive Yuan announced the plan on 26 February, and on 16 July the 54 km from Tataka to Dakanuwa was struck off and the road from Dakanuwa to Linyuan renumbered Highway 29. Dakanuwa was the name given in 2008 to the former Minsheng village."
+      ],
+      "zh": [
+        "日治时期修筑了旗山至甲仙的旗山甲仙道，长 35.036 公里。战后甲仙至大寮段于 1962 年编为县道 179 号。1978 年省道改编时，本路成为台 21 线（新中横水玉线）的南段，自台中天冷至砖仔窑；规划中自塔塔加南下至那玛夏民生、穿越鹿林山保护区并沿楠梓仙溪而行的路段始终未修建。1993 年终点延伸至林园汕尾。",
+        "莫拉克台风摧毁了上游河谷。2009 年 8 月 9 日约 6 时 9 分，小林村上方献肚山崩塌，约 30 分钟后堰塞湖溃决，掩埋村落。死亡人数说法不一：中央社曾报道逾 460 人罹难，后又报道 381 人死亡、16 人失踪；台湾事实查核中心作 462 人。五里埔以北的公路几乎全毁。",
+        "2014 年正式放弃这段缺口。行政院于 2 月 26 日发布相关信息，7 月 16 日公告废止塔塔加至达卡努瓦的 54 公里，达卡努瓦至林园段改编为台 29 线。达卡努瓦是原民生村于 2008 年更改的名称。"
+      ]
+    },
+    {
+      "key": "engineering",
+      "en": [
+        "After Morakot the 12 km from Wulipu to Namaxia ran on a temporary track with 12 crossings of the riverbed, which kept washing out; in 2013 alone it was cut three times, for 7 to 17 days each. The fix was twelve semi-permanent steel bridges, with piers 48 m apart and decks set at the 100-year flood level plus 1.5 m. Nine were open by 25 April 2014 and all twelve on 22 May 2014. Their names are in the local Indigenous languages, by the Namaxia district office.",
+        "Within Namaxia five bridges, Nanshalu, Minzu, Minquan, Minsheng and Dakanuwa, were rebuilt separately, tendered on 6 December 2011."
+      ],
+      "zh": [
+        "莫拉克之后，五里埔至那玛夏 12 公里只能走河床便道，须 12 次横越河床，屡遭冲毁；仅 2013 年就中断三次，每次 7 至 17 天。解决办法是兴建 12 座半永久性钢便桥，桥墩间距 48 米，桥面高程为百年洪水位加 1.5 米。2014 年 4 月 25 日前已有 9 座通车，5 月 22 日全部通车。据那玛夏区公所，这些桥以当地原住民族语言命名。",
+        "那玛夏区内的南沙鲁、民族、民权、民生、达卡努瓦五座桥另行重建，于 2011 年 12 月 6 日招标。"
+      ]
+    },
+    {
+      "key": "money",
+      "en": [
+        "No cost is published for the road as a whole. The post-Morakot works are priced. The twelve steel bridges were put at nearly NT$900 million from the Morakot special budget by the reconstruction council in May 2014; a Geological Survey release in August 2013 had given over NT$700 million. The five Namaxia bridges were funded with NT$464 million from the special budget's reserve."
+      ],
+      "zh": [
+        "全线没有公布总造价，但莫拉克后的工程有金额。莫拉克重建会于 2014 年 5 月称，12 座钢便桥由莫拉克特别预算支应近 9 亿元；中央地质调查所 2013 年 8 月的新闻稿则称经费 7 亿多元。那玛夏五座桥以特别预算预备金 4.64 亿元重建。"
+      ]
+    },
+    {
+      "key": "drive",
+      "en": [
+        "Speed limits are 30 to 70 km/h. Below Qishan the road crosses the plain; above Jiaxian it is a mountain road up the valley. When the valley road is cut, the alternative routes into Namaxia are the local roads Nan 179 and Jia 129."
+      ],
+      "zh": [
+        "全线限速每小时 30 至 70 公里。旗山以南为平原道路；甲仙以上为沿河谷上行的山区道路。河谷道路中断时，进出那玛夏的替代道路为南 179 线与嘉 129 线。"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "label": { "en": "Construction cost", "zh": "造价" },
+      "why": { "en": "No route-wide figure has been published. The road was assembled from a Japanese-era road and a county road improved over decades; only the post-Morakot works are priced, listed below.", "zh": "未公布全线造价。本线由日治道路与县道拼合并经数十年改善而成；只有莫拉克灾后工程有金额，另列如下。" }
+    },
+    {
+      "label": { "en": "Funding", "zh": "出资方" },
+      "value": { "en": "Post-Morakot bridges: the central government's Morakot special budget, nearly NT$900 million for the twelve steel bridges and NT$464 million from its reserve for the five Namaxia bridges", "zh": "莫拉克后桥梁：中央政府莫拉克特别预算，12 座钢便桥近 9 亿元，那玛夏五座桥由预备金支应 4.64 亿元" },
+      "source": "Morakot Post-Disaster Reconstruction Council, via yam news, 23 May 2014; Central News Agency, 17 December 2011"
+    },
+    {
+      "label": { "en": "Twelve steel bridges, Wulipu–Namaxia", "zh": "五里埔至那玛夏 12 座钢便桥" },
+      "value": { "en": "Nearly NT$900 million (May 2014); over NT$700 million in an August 2013 report; all open 22 May 2014", "zh": "近 9 亿元（2014 年 5 月）；2013 年 8 月报道为 7 亿多元；2014 年 5 月 22 日全部通车" },
+      "source": "Morakot Post-Disaster Reconstruction Council, via yam news, 23 May 2014; Central Geological Survey news release, 19 August 2013"
+    },
+    {
+      "label": { "en": "Length", "zh": "长度" },
+      "value": { "en": "111.900 km in the route list; 112.310 km in the 2014 announcement; 112.260 km in the junction table", "zh": "路线表 111.900 公里；2014 年公告 112.310 公里；交会表 112.260 公里" },
+      "source": "Directorate General of Highways route list and Executive Yuan announcement of 16 July 2014, as cited in Chinese Wikipedia, 台29線"
+    },
+    {
+      "label": { "en": "Xiaolin landslide, 9 August 2009", "zh": "小林村灭村（2009 年 8 月 9 日）" },
+      "value": { "en": "462 dead (Taiwan FactCheck Center); 381 dead and 16 missing (Central News Agency, 2019); over 460 (Central News Agency, 2017)", "zh": "462 人（台湾事实查核中心）；381 人死亡、16 人失踪（中央社，2019 年）；逾 460 人（中央社，2017 年）" },
+      "source": "Taiwan FactCheck Center; Central News Agency, 7 June 2017 and 27 March 2019"
+    }
+  ],
+  "timeline": [
+    { "year": 1962, "en": "Jiaxian–Daliao is numbered County Road 179.", "zh": "甲仙至大寮段编为县道 179 号。" },
+    { "year": 1978, "en": "The road becomes the southern section of Highway 21; the Tataka–Minsheng link is planned but never built.", "zh": "本路成为台 21 线南段；塔塔加至民生段列入规划，始终未建。" },
+    { "year": 1993, "en": "The southern end is extended to Shanwei in Linyuan.", "zh": "南端延伸至林园汕尾。" },
+    { "year": 2008, "en": "Minsheng village in Namaxia is renamed Dakanuwa.", "zh": "那玛夏民生村更名为达卡努瓦。" },
+    { "year": 2009, "en": "Typhoon Morakot buries Xiaolin on 9 August and destroys the road north of Wulipu.", "zh": "8 月 9 日，莫拉克台风造成小林村灭村，五里埔以北公路几乎全毁。" },
+    { "year": 2011, "en": "The five Namaxia bridges are tendered on 6 December with NT$464 million.", "zh": "12 月 6 日，那玛夏五座桥以 4.64 亿元招标。" },
+    { "year": 2013, "en": "The riverbed track is cut three times in the year.", "zh": "河床便道一年内中断三次。" },
+    { "year": 2014, "en": "All twelve steel bridges open on 22 May; on 16 July Tataka–Dakanuwa is struck off and the road renumbered 29.", "zh": "5 月 22 日，12 座钢便桥全部通车；7 月 16 日，塔塔加至达卡努瓦段废止，本路改编为台 29 线。" }
+  ]
+}

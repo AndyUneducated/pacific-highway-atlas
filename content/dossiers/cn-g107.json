@@ -1,0 +1,104 @@
+{
+  "id": "cn-g107",
+  "route": { "sys": "cn-national", "num": "G107" },
+  "name": { "en": "Beijing–Hong Kong Highway", "zh": "北京—香港公路" },
+  "aka": [
+    { "en": "Jinggang line", "zh": "京港线" },
+    { "en": "Beijing–Shenzhen Highway (the 1981 route)", "zh": "京深线（1981 年线路）" },
+    { "en": "Guangzhou–Shenzhen road (Guangzhou to Shenzhen)", "zh": "广深公路（广州至深圳段）" }
+  ],
+  "tagline": { "en": "The old trunk road down the middle of China, from Guang'anmen to the Wenjindu crossing, put together from pieces begun in 1913", "zh": "纵贯中国腹地的老干线：从广安门到文锦渡口岸，由 1913 年起陆续修筑的路段连缀而成" },
+  "termini": {
+    "start": { "at": [116.34, 39.89], "en": "Guang'anmen, Xicheng, Beijing — kilometre 0", "zh": "北京市西城区广安门——零公里" },
+    "end": { "at": [114.13, 22.54], "en": "The Wenjindu border crossing, Luohu, Shenzhen, at kilometre 2,658.056, connecting to Hong Kong", "zh": "深圳市罗湖区文锦渡口岸，里程 K2658+056，连接香港" }
+  },
+  "sections": [
+    {
+      "key": "character",
+      "en": [
+        "G107 runs 2,658.056 km from Guang'anmen in Beijing to the Wenjindu crossing in Shenzhen, by the marker at the crossing, through Beijing, Hebei, Henan, Hubei, Hunan and Guangdong. It passes Zhuozhou, Baoding, Dingzhou, Shijiazhuang, Xingtai and Handan, then Anyang, Hebi, Xinxiang, Zhengzhou, Xuchang, Luohe, Zhumadian and Xinyang, Xiaogan, Wuhan and Xianning, Yueyang, Changsha, Xiangtan, Hengyang and Chenzhou, and enters Guangdong by Lianzhou and Qingyuan to Guangzhou, Dongguan and Shenzhen. Chinese Wikipedia notes that it links the capitals of six provincial-level regions, north to south.",
+        "The Beijing–Hong Kong–Macau expressway, G4, now runs broadly alongside it for most of the way. The last stretch, Guangzhou to Shenzhen, is still known as the Guangzhou–Shenzhen road. The 1981 plan listed the route as Beijing–Shenzhen, 2,698 km; the 2013 national highway plan renamed it Beijing–Hong Kong."
+      ],
+      "zh": [
+        "G107 自北京广安门至深圳文锦渡口岸，按口岸里程标全长 2658.056 公里，途经北京、河北、河南、湖北、湖南、广东。沿途经涿州、保定、定州、石家庄、邢台、邯郸，再经安阳、鹤壁、新乡、郑州、许昌、漯河、驻马店、信阳，过孝感、武汉、咸宁，经岳阳、长沙、湘潭、衡阳、郴州，由连州、清远进入广东腹地，抵广州、东莞、深圳。中文维基百科称它自北向南途经六个省级行政区的省会。",
+        "今天，G4 京港澳高速在大部分路段与它大体并行。最南一段广州至深圳，至今仍称广深公路。1981 年规划中该线为北京至深圳，2698 公里；《国家公路网规划（2013 年—2030 年）》将其改称北京—香港公路。"
+      ]
+    },
+    {
+      "key": "engineering",
+      "en": [
+        "Until 1957 the road had no bridge over the Yangtze. The Wuhan Yangtze River Bridge, begun on 1 September 1955 and opened on 15 October 1957, was the first permanent bridge on the river: 1,670 m long, with a four-lane road deck above the double-track Beijing–Guangzhou railway. It still carries G107 across the river between Hanyang and Wuchang.",
+        "Over the Yellow River the road used, for decades, the Zhengzhou railway bridge of 1905, converted for road traffic in 1966–1969; it was so narrow that vehicles had to take turns in one direction at a time. The Zhengzhou Yellow River Highway Bridge replaced it: 5,549.86 m long in 137 spans, four lanes on an 18.5 m deck, begun on 5 July 1984 and opened on 1 October 1986, at the time the longest bridge on the Yellow River. G107 has since moved to the Guandu Yellow River Bridge downstream, and the 1986 bridge now carries provincial road S101.",
+        "In Henan the road is being moved east around the towns as a class-I highway for 80–100 km/h. The 15.8 km Changge section, six lanes, opened on 30 September 2025. In Beijing, G107 crossed the river at Liulihe for years on the old stone bridge there, listed as a Beijing heritage site in 1984; a new bridge 30 m to the west, begun on 1 June 1998 and opened on 25 October 1999, took the traffic off it."
+      ],
+      "zh": [
+        "1957 年以前，这条路在长江上没有桥。武汉长江大桥 1955 年 9 月 1 日开工，1957 年 10 月 15 日通车，是长江上第一座永久性桥梁：全长 1670 米，上层为四车道公路，下层为京广铁路复线。至今 G107 仍经此桥在汉阳与武昌之间跨越长江。",
+        "在黄河上，这条路几十年间借用 1905 年建成、1966—1969 年改作公路桥的郑州旧黄河铁路桥；桥面狭窄，汽车只能单向交替通行。郑州黄河公路大桥取而代之：全长 5549.86 米，共 137 孔，桥面宽 18.5 米，双向四车道，1984 年 7 月 5 日开工，1986 年 10 月 1 日通车，建成时为黄河上最长的大桥。此后 G107 改走下游的官渡黄河大桥，1986 年的大桥今为 101 省道所用。",
+        "河南段正在向东改线、绕开城区，按设计时速 80—100 公里的一级公路建设，其中长葛段 15.8 公里为双向六车道，2025 年 9 月 30 日建成通车。北京段 G107 长期借道 1984 年公布为北京市文物保护单位的琉璃河石桥；1998 年 6 月 1 日在其西侧 30 米处动工兴建新琉璃河大桥，1999 年 10 月 25 日竣工通车，旧桥从此不再承担运输。"
+      ]
+    },
+    {
+      "key": "history",
+      "en": [
+        "The oldest piece is in Hunan. In the spring of 1913 the provincial military governor ordered a road from Changsha to Xiangtan, paid for from the province's tax surplus; work stopped that winter in the political turmoil, resumed in August 1916 and, with interruptions during the warlord fighting, was finished in the autumn of 1921 — 50.11 km to the east bank at Xiangtan. The Hunan gazetteer, as cited in Chinese Wikipedia, calls it China's first modern highway; the same article's summary dates it to 1923. Hengyang–Chenzhou followed in 1923–1928 and Xiangtan–Hengyang in 1929–1930. On Chenzhou–Yizhang, begun in February 1929, an epidemic that autumn left the works stopped for three or four months — of 3,000 labourers, the record says, 'those not dead had fled'. The last 10 km from Yizhang to the Guangdong border were finished in January 1934, twenty years after the first.",
+        "North of Changsha there was, for a long time, no proper road. A track the Japanese army built from Yueyang to Changsha in 1944 was ploughed back into fields in 1947 at the request of the counties. From 1955 the counties built the line again in pieces, largely with labour levied from local villages, and the last 1.7 km gap was closed in September 1979, completing G107 in Hunan.",
+        "At the southern end the Guangzhou–Shenzhen road was assembled in the same way. The stretch from central Guangzhou to Huangpu was built in 1925 by workers of the Canton–Hong Kong strike; Dongguan to Humen opened in 1930, Humen to Shenzhen in 1934, and the gap from Xintang to Dongguan on 13 November 1937. A year later, in November 1938, it was broken up to slow the Japanese advance. Rebuilt after the war, it still crossed the rivers by ferry until the Jiangnan and Zhongtang bridges opened on 28 September 1984; it was formally made part of G107 in 1985.",
+        "The road was given its number in the national trunk highway plan of November 1981. By Chinese Wikipedia's account it became a four-lane concrete road throughout only at the end of the 1980s, and it has been widened and realigned so often since that its length has changed considerably. The 2013 plan extended it to Hong Kong."
+      ],
+      "zh": [
+        "最早的一段在湖南。民国 2 年（1913 年）春，湖南都督谭延闿决定以省财税节余兴筑长沙至湘潭公路；当年冬季因政局动荡停建，民国 5 年 8 月复工，其后因军阀混战时作时辍，至民国 10 年（1921 年）秋始完竣，全长 50.11 公里，止于湘潭东岸盐码头。中文维基百科所引《湖南省志》称之为中国第一条现代公路；同一条目的概述则作 1923 年。衡郴公路于 1923—1928 年修成，潭衡公路于 1929—1930 年修成。郴宜公路 1929 年 2 月开工，是年秋工地“疾疫大作”，“工人三千，非死则徙”，工程停顿三四个月。宜章至湘粤边境的最后 10 公里于 1934 年 1 月完竣，距最早一段动工已二十年。",
+        "长沙以北长期没有像样的公路。1944 年日军修建的岳阳至长沙行车便道，于 1947 年应沿线各县请求毁路还田。1955 年起各县主要以民工建勤方式分段重修，至 1979 年 9 月接通最后 1.7 公里的“断头路”，107 国道湖南段正式全通。",
+        "南端的广深公路同样是一段段拼起来的。广州市区至黄埔段于 1925 年由省港大罢工的罢工工人修筑；莞城至虎门段 1930 年通车，虎门至深圳段 1934 年通车，新塘至莞城段 1937 年 11 月 13 日贯通。一年后的 1938 年 11 月，为阻止日军进攻，公路被毁。战后修复，但仍以渡口过江，直到 1984 年 9 月 28 日江南大桥、中堂大桥落成；1985 年正式编入 107 国道。",
+        "1981 年 11 月的《国家干线公路网（试行方案）》为它定了编号。据中文维基百科，全线直至 20 世纪 80 年代末才形成双向四车道水泥路的规模，此后不断扩建、改线，里程变化较大。2013 年规划将其延伸至香港。"
+      ]
+    },
+    {
+      "key": "money",
+      "en": [
+        "The Zhengzhou Yellow River Highway Bridge cost 178 million yuan. Its loans were repaid in 1996, but it went on charging tolls for another sixteen years and became free only in 2012; the National Audit Office's figures of 27 February 2008 put the tolls collected in breach of the rules at 1.45 billion yuan. In Beijing, the rebuilding of the Changxindian–Zhoukoudian road to take G107's lorries round Liangxiang new town was approved in 2006 at a total investment of 800 million yuan and opened on 26 June 2009."
+      ],
+      "zh": [
+        "郑州黄河公路大桥总造价 1.78 亿元。大桥于 1996 年已还清贷款，却又超期收费 16 年，直到 2012 年才免费通行；按国家审计署 2008 年 2 月 27 日的数据，违规收费达 14.5 亿元。北京段为让 107 国道货车绕开良乡新城，2006 年批复长周路改建工程，总投资 8 亿元，2009 年 6 月 26 日通车。"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "label": { "en": "Construction cost", "zh": "造价" },
+      "why": { "en": "No cost exists for the whole road. G107 joins roads built from 1913 onwards by provinces, counties, merchants and strike committees, and has been rebuilt section by section since; sourced costs for individual works are given below.", "zh": "全线没有总造价。G107 由 1913 年以来各省、各县、商人乃至罢工委员会修筑的道路连缀而成，此后又分段改建；下列为有来源的单项工程造价。" }
+    },
+    {
+      "label": { "en": "Funding", "zh": "出资方" },
+      "why": { "en": "No route-wide funding statement exists. Of the pieces whose funding is recorded, the Changsha–Xiangtan road was paid from Hunan's provincial tax surplus (1913–1921) and the 1981–1984 rebuilding of the Guangzhou section to class-I standard by the Guangdong transport department.", "zh": "未见全线出资说明。有记载的路段中，长潭公路以湖南省财税节余兴筑（1913—1921 年），广深公路广州段 1981—1984 年改建为一级公路由广东省交通厅投资。" }
+    },
+    {
+      "label": { "en": "Length", "zh": "全长" },
+      "value": { "en": "2,658.056 km by the kilometre marker at Wenjindu (K2658+056); 2,698 km in the 1981 Beijing–Shenzhen listing", "zh": "按文锦渡口岸里程标 2658.056 公里（K2658+056）；1981 年北京至深圳线路 2698 公里" },
+      "source": "Chinese Wikipedia, 107国道 and 中华人民共和国国道"
+    },
+    {
+      "label": { "en": "Zhengzhou Yellow River Highway Bridge (5,549.86 m, 1986)", "zh": "郑州黄河公路大桥（5549.86 米，1986 年）" },
+      "value": { "en": "178 million yuan; loans repaid in 1996, tolled until 2012; 1.45 billion yuan collected in breach of the rules by the National Audit Office's 2008 figures", "zh": "总造价 1.78 亿元；1996 年还清贷款，收费至 2012 年；按国家审计署 2008 年数据违规收费 14.5 亿元" },
+      "source": "Chinese Wikipedia, 郑州黄河公路大桥, citing the Zhengzhou gazetteer and China News Service, 7 October 2012"
+    },
+    {
+      "label": { "en": "Changxindian–Zhoukoudian road, Beijing (Liangxiang bypass)", "zh": "北京长周路改建（绕行良乡新城）" },
+      "value": { "en": "800 million yuan total investment, approved 2006; opened 26 June 2009", "zh": "总投资 8 亿元，2006 年批复；2009 年 6 月 26 日通车" },
+      "source": "Beijing Daily, 23 September 2006; Beijing Evening News, 5 June 2009; both as cited in Chinese Wikipedia, 107国道"
+    }
+  ],
+  "timeline": [
+    { "year": 1921, "en": "The Changsha–Xiangtan road, begun in 1913, is finished in the autumn.", "zh": "1913 年动工的长潭公路于秋季完竣。" },
+    { "year": 1934, "en": "The last section to the Guangdong border is finished in January, completing the Hunan–Guangdong road.", "zh": "1 月，宜章至湘粤边境段完竣，湘粤线全线贯通。" },
+    { "year": 1938, "en": "The Guangzhou–Shenzhen road is broken up in November to slow the Japanese advance.", "zh": "11 月，为阻止日军进攻，广深公路被毁。" },
+    { "year": 1957, "en": "The Wuhan Yangtze River Bridge opens on 15 October.", "zh": "10 月 15 日，武汉长江大桥通车。" },
+    { "year": 1979, "en": "The last 1.7 km gap north of Changsha is closed in September, completing the Hunan section.", "zh": "9 月，长沙以北最后 1.7 公里“断头路”接通，湖南段全通。" },
+    { "year": 1981, "en": "The national trunk highway plan of November numbers the Beijing–Shenzhen road G107.", "zh": "11 月，《国家干线公路网（试行方案）》将北京至深圳公路编为 107 国道。" },
+    { "year": 1984, "en": "The Jiangnan and Zhongtang bridges in Dongguan open on 28 September, ending the ferries.", "zh": "9 月 28 日，东莞江南大桥、中堂大桥落成，结束渡口过江。" },
+    { "year": 1986, "en": "The Zhengzhou Yellow River Highway Bridge opens on 1 October.", "zh": "10 月 1 日，郑州黄河公路大桥通车。" },
+    { "year": 1999, "en": "The new Liulihe bridge in Beijing opens on 25 October, taking traffic off the old stone bridge.", "zh": "10 月 25 日，北京新琉璃河大桥通车，琉璃河石桥不再承担运输。" },
+    { "year": 2012, "en": "Tolls end on the Zhengzhou Yellow River Highway Bridge.", "zh": "郑州黄河公路大桥停止收费。" },
+    { "year": 2013, "en": "The national highway plan extends G107 to Hong Kong.", "zh": "国家公路网规划将 G107 延伸至香港。" },
+    { "year": 2025, "en": "The realigned Changge section in Henan opens on 30 September.", "zh": "9 月 30 日，河南长葛段东移改线工程建成通车。" }
+  ]
+}

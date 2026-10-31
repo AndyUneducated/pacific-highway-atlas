@@ -1,0 +1,87 @@
+{
+  "id": "on-417",
+  "route": { "sys": "ca-tch", "num": "417", "anchor": [-75.565, 45.374] },
+  "name": { "en": "Highway 417 (the Queensway)", "zh": "417 号公路（女王大道）" },
+  "aka": [
+    { "en": "The Queensway (Highway 7 to The Split, Ottawa)", "zh": "女王大道（渥太华，7 号公路至“分岔口”）" },
+    { "en": "Highway 17 (the Queensway, 1966–1975)", "zh": "17 号公路（女王大道，1966—1975 年）" }
+  ],
+  "tagline": { "en": "Ottawa's cross-town freeway on an old railway line, extended east to Quebec for the 1976 Olympics and still creeping west up the Ottawa Valley", "zh": "建在旧铁路线上的渥太华横贯高速公路：为 1976 年奥运会东延至魁北克，至今仍沿渥太华河谷向西推进" },
+  "termini": {
+    "start": { "en": "The Quebec boundary east of Hawkesbury, where Highway 417 becomes Autoroute 40 to Montreal", "zh": "霍克斯伯里以东的魁北克省界，417 号公路在此变为通往蒙特利尔的 40 号高速公路", "at": [-74.389, 45.539] },
+    "end": { "en": "Scheel Drive north-west of Arnprior, where the freeway ends and the road continues as two-lane Highway 17", "zh": "阿恩普赖尔西北的希尔路，高速公路在此结束，道路续为双车道的 17 号公路", "at": [-76.466, 45.44] }
+  },
+  "sections": [
+    {
+      "key": "character",
+      "en": [
+        "Highway 417 runs for about 192 km from the Quebec border, where it meets Autoroute 40 from Montreal, through Ottawa to Arnprior in the Ottawa Valley. It is part of the Trans-Canada Highway, and unusually for Ontario its exits are numbered from east to west.",
+        "East of Ottawa it is a four-lane rural freeway across the farmland and forest of Prescott and Russell, passing Casselman and Limoges. In the city it becomes the Queensway, the backbone of the capital's road network: from The Split, where it meets Ottawa Road 174 and the Aviation Parkway, it runs just south of downtown and the Parliament Buildings, much of it on a raised embankment along a former Canadian National railbed, eight lanes wide through the core and wider still in places. West of Highway 416 it crosses Kanata in a cutting and then runs straight up the valley to Arnprior.",
+        "The name Queensway applies to the stretch between Highway 7 and The Split, but no sign says so."
+      ],
+      "zh": [
+        "417 号公路全长约 192 公里，自魁北克省界（在此与来自蒙特利尔的 40 号高速公路相接）穿过渥太华，直抵渥太华河谷中的阿恩普赖尔。它是横加公路的一部分；与安大略省其他道路不同，它的出口编号自东向西排列。",
+        "渥太华以东是一条四车道乡村高速公路，穿过普雷斯科特—拉塞尔的农田与森林，途经卡瑟尔曼和利莫日。进入市区后即为女王大道，是首都道路网的骨干：从与渥太华 174 号公路及航空公园大道交会的“分岔口”起，它在市中心和国会大厦以南穿过，大段建在原加拿大国家铁路路基上的高路堤上，市中心段为八车道，部分路段更宽。416 号公路以西，它以路堑形式穿过卡纳塔，然后笔直沿河谷通往阿恩普赖尔。",
+        "“女王大道”之名指 7 号公路至“分岔口”一段，但路上没有任何标志写明这一点。"
+      ]
+    },
+    {
+      "key": "history",
+      "en": [
+        "The Queensway came out of the Gréber Plan, the post-war plan for the capital commissioned under Prime Minister Mackenzie King and presented to the House of Commons in 1951, which proposed an east–west expressway along a Canadian National line through the city. With the tracks removed, Queen Elizabeth II set off dynamite charges from the Hurdman Bridge on 15 October 1957 and dedicated the project as the Queensway; Premier Leslie Frost put its cost at $31 million.",
+        "It was built in four phases. The first, east of the Rideau River, opened on 25 November 1960; the western phase from Richmond Road to Carling Avenue in October 1961; the central sections to Bronson Avenue and O'Connor Street in 1964; and the crossings of the Rideau Canal and Rideau River last, the final link opening on 28 October 1966. It was then numbered as part of Highway 17.",
+        "Highway 417 proper was built east of Ottawa to meet Autoroute 40, which Quebec had opened in December 1966 for Expo 67. Montreal's award of the 1976 Summer Olympics in May 1970 hurried the work; construction began in May 1969 at Base Line Road and the freeway opened in sections from 1972 until the last link to the Queensway on 2 December 1975. It replaced Highway 17 along the Ottawa River, a narrow road known as ‘the killer strip’. The Queensway west of The Split then took the 417 number.",
+        "Westward, the freeway reached Highway 7 in Kanata by 1978, was twinned beyond it from 1991, and reached the edge of Arnprior on 24 September 2004. The Arnprior bypass was twinned and opened on 29 November 2012, and a further 5.3 km to Scheel Drive in 2016. Inside Ottawa the Queensway was widened to eight lanes from 1982, and between Nicholas Street and Ottawa Road 174 from 2013 to 2015. The next 22.5 km, from Scheel Drive to west of Renfrew, was put out for detailed design in 2026, with no construction date set."
+      ],
+      "zh": [
+        "女王大道源自“格雷伯规划”。这份战后首都规划是在麦肯齐·金总理主持下委托编制的，1951 年提交众议院，提出沿一条穿城的加拿大国家铁路线修建东西向快速路。铁轨拆除后，伊丽莎白二世女王于 1957 年 10 月 15 日在赫德曼桥上引爆炸药，将工程命名为“女王大道”；安大略省长莱斯利·弗罗斯特称工程造价为 3,100 万加元。",
+        "工程分四期建设。第一期位于里多河以东，1960 年 11 月 25 日通车；西段里士满路至卡林大道于 1961 年 10 月通车；通往布朗森大道和奥康纳街的中段于 1964 年通车；跨越里多运河与里多河的路段最后完工，最终连接段于 1966 年 10 月 28 日通车。此后它被编入 17 号公路。",
+        "严格意义上的 417 号公路建于渥太华以东，用以连接魁北克为 1967 年世博会而于 1966 年 12 月开通的 40 号高速公路。1970 年 5 月蒙特利尔获得 1976 年夏季奥运会主办权，工程随之提速：1969 年 5 月自贝斯林路开工，1972 年起分段通车，直至 1975 年 12 月 2 日与女王大道接通。它取代了沿渥太华河而行的 17 号公路，那是一条被称为“夺命路段”的狭窄道路。随后，“分岔口”以西的女王大道也改用 417 号。",
+        "向西，高速公路于 1978 年修到卡纳塔的 7 号公路，1991 年起继续向西拓宽为双向四车道，2004 年 9 月 24 日抵达阿恩普赖尔边缘。阿恩普赖尔绕行线于 2012 年 11 月 29 日完成拓宽通车，2016 年再向西延伸 5.3 公里至希尔路。市内的女王大道自 1982 年起拓宽为八车道，尼古拉斯街至渥太华 174 号公路段于 2013 至 2015 年拓宽。下一段 22.5 公里，自希尔路至伦弗鲁以西，于 2026 年招标详细设计，施工日期尚未确定。"
+      ]
+    },
+    {
+      "key": "money",
+      "en": [
+        "The Queensway was put at $31 million when it was dedicated in 1957. The eastern freeway to the Quebec border cost $77 million, as cited in English Wikipedia from the Ministry of Transportation and Communications. The 5.6 km Arnprior bypass twinning cost $63 million, $7 million under its projection. No figure has been published for the road as a whole."
+      ],
+      "zh": [
+        "女王大道在 1957 年命名时估价 3,100 万加元。通往魁北克省界的东段高速公路造价 7,700 万加元，据英文维基百科所引安大略交通与通讯部资料。5.6 公里的阿恩普赖尔绕行线拓宽工程耗资 6,300 万加元，比预计少 700 万加元。全线造价从未公布。"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "label": { "en": "Length", "zh": "长度" },
+      "value": { "en": "192.0 km from the Quebec boundary to Arnprior, as cited in English Wikipedia, Ontario Highway 417.", "zh": "自魁北克省界至阿恩普赖尔 192.0 公里，据英文维基百科“安大略 417 号公路”条目。" },
+      "source": "English Wikipedia, Ontario Highway 417 (citing Ministry of Transportation of Ontario data)"
+    },
+    {
+      "label": { "en": "Construction cost", "zh": "造价" },
+      "value": { "en": "No total published. Sections: the Queensway $31 million (estimate at dedication, 1957); the eastern freeway from Ottawa to Quebec $77 million (1975); the Arnprior bypass twinning $63 million (2012). All as cited in English Wikipedia, Ontario Highway 417.", "zh": "未公布总额。分段：女王大道 3,100 万加元（1957 年命名时估价）；渥太华至魁北克的东段高速公路 7,700 万加元（1975 年）；阿恩普赖尔绕行线拓宽 6,300 万加元（2012 年）。均据英文维基百科“安大略 417 号公路”条目。" },
+      "source": "English Wikipedia, Ontario Highway 417 (citing contemporary newspapers and Ministry of Transportation of Ontario releases)"
+    },
+    {
+      "label": { "en": "Funding", "zh": "出资方" },
+      "why": { "en": "Built and maintained by the province through the Ministry of Transportation; Premier Frost linked the Queensway to the Trans-Canada Highway in 1957, but no source found states a federal share in any section.", "zh": "由省政府通过交通部修建与养护；1957 年弗罗斯特省长曾把女王大道与横加公路相联系，但所查资料均未说明任何路段有联邦出资。" }
+    },
+    {
+      "label": { "en": "Next extension", "zh": "下一段延伸" },
+      "value": { "en": "22.5 km of twinning from Scheel Drive near Arnprior to about 3 km west of Bruce Street in Renfrew, split into five contracts; design proposals called in 2026, no construction timeline given.", "zh": "自阿恩普赖尔附近的希尔路至伦弗鲁布鲁斯街以西约 3 公里，共 22.5 公里拓宽工程，分为五个合同；2026 年征集设计方案，未公布施工时间表。" },
+      "source": "CBC News, Province announces latest step toward widening dangerous stretch of Highway 17, 2026"
+    }
+  ],
+  "timeline": [
+    { "year": 1951, "en": "The Gréber Plan, proposing an expressway along a railway through Ottawa, is presented to the House of Commons.", "zh": "提议沿穿城铁路修建快速路的“格雷伯规划”提交众议院。" },
+    { "year": 1957, "en": "Queen Elizabeth II dedicates the Queensway on 15 October with a dynamite blast from the Hurdman Bridge.", "zh": "10 月 15 日，伊丽莎白二世女王在赫德曼桥上引爆炸药，为女王大道命名。" },
+    { "year": 1960, "en": "The first section of the Queensway, east of the Rideau River, opens on 25 November.", "zh": "11 月 25 日，女王大道里多河以东的第一段通车。" },
+    { "year": 1966, "en": "The last link of the Queensway, over the Rideau Canal and River, opens on 28 October.", "zh": "10 月 28 日，跨越里多运河与里多河的女王大道最后一段通车。" },
+    { "year": 1969, "en": "Construction of Highway 417 east of Ottawa begins in May at Base Line Road.", "zh": "5 月，渥太华以东的 417 号公路自贝斯林路开工。" },
+    { "year": 1975, "en": "The freeway to Quebec is joined to the Queensway on 2 December, in time for the 1976 Olympics.", "zh": "12 月 2 日，通往魁北克的高速公路与女王大道接通，赶上 1976 年奥运会。" },
+    { "year": 1982, "en": "Widening of the Queensway in Ottawa to eight lanes begins.", "zh": "渥太华市内女王大道开始拓宽为八车道。" },
+    { "year": 2004, "en": "The freeway is extended to Arnprior on 24 September.", "zh": "9 月 24 日，高速公路延伸至阿恩普赖尔。" },
+    { "year": 2012, "en": "The twinned Arnprior bypass opens on 29 November.", "zh": "11 月 29 日，拓宽后的阿恩普赖尔绕行线通车。" },
+    { "year": 2016, "en": "A 5.3 km extension to Scheel Drive opens.", "zh": "通往希尔路的 5.3 公里延伸段通车。" },
+    { "year": 2026, "en": "Ontario calls for designs for the next 22.5 km, from Scheel Drive towards Renfrew.", "zh": "安大略省就希尔路至伦弗鲁方向的下一段 22.5 公里征集设计方案。" }
+  ]
+}

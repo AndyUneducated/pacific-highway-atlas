@@ -1,0 +1,133 @@
+{
+  "id": "mex-095",
+  "route": { "sys": "mx-federal", "num": "095" },
+  "name": { "en": "Federal Highway 95 (Mexico City–Acapulco)", "zh": "95 号联邦公路（墨西哥城—阿卡普尔科）" },
+  "aka": [
+    { "en": "Carretera México–Acapulco", "zh": "墨西哥城—阿卡普尔科公路" },
+    { "en": "Camino de Asia (the colonial mule road to the Manila galleons' port)", "zh": "“亚洲之路”（Camino de Asia，通往马尼拉大帆船港口的殖民时期驮道）" },
+    { "en": "Autopista del Sol (the tolled 95D from Cuernavaca to Acapulco)", "zh": "太阳高速公路（Autopista del Sol，库埃纳瓦卡至阿卡普尔科的收费路 95D）" }
+  ],
+  "tagline": { "en": "The capital's road to the Pacific: a colonial mule track, motorable in 1927, and shadowed since 1993 by a toll motorway that cost far more than bid and had to be rescued by the state", "zh": "首都通往太平洋的道路：殖民时期的驮道，1927 年通汽车；1993 年起旁边多了一条收费高速——造价远超投标，最终由国家出手救助" },
+  "termini": {
+    "start": { "at": [-99.167, 19.275], "en": "Tlalpan, in southern Mexico City, where the highway begins at the end of Avenida Insurgentes Sur and the Viaducto Tlalpan, by the pueblo of Chimalcoyoc", "zh": "墨西哥城南部特拉尔潘区，公路起于起义者南大道与特拉尔潘高架路的尽头，邻近奇马尔科约克村" },
+    "end": { "at": [-99.866, 16.878], "en": "Acapulco, Guerrero, where the road comes in from the north alongside Federal Highway 200 and enters the city", "zh": "格雷罗州阿卡普尔科，公路自北与 200 号联邦公路并行后进入市区" }
+  },
+  "sections": [
+    {
+      "key": "character",
+      "en": [
+        "Federal Highway 95 runs south from Mexico City over the Ajusco–Chichinautzin mountains by Topilejo and Tres Marías to Cuernavaca, then down through Temixco, Alpuyeca and Amacuzac into Guerrero, through the silver town of Taxco and the city of Iguala, across the Balsas river in the Cañón del Zopilote, through Chilpancingo, the state capital, and Tierra Colorada, over the Papagayo river and down to Acapulco. English Wikipedia, from the transport ministry's 2011 road data, gives its length as 361.5 km.",
+        "Beside it runs the tolled 95D, which Spanish Wikipedia puts at 367 km: the México–Cuernavaca motorway of 1952 and, beyond Cuernavaca, the Autopista del Sol of 1993, which bypasses Taxco and Iguala. Spanish Wikipedia gives three to four hours by the toll road against more than six on the free one. In Chilpancingo the two roads merge through the city and separate again on the far side."
+      ],
+      "zh": [
+        "95 号联邦公路自墨西哥城向南，经托皮莱霍和特雷斯玛丽亚斯翻越阿胡斯科—奇奇瑙钦山地抵达库埃纳瓦卡，再经特米斯科、阿尔普耶卡和阿马库萨克下行进入格雷罗州，穿过银城塔斯科和伊瓜拉市，在秃鹫峡谷（Cañón del Zopilote）跨越巴尔萨斯河，经州府奇尔潘辛戈和蒂耶拉科洛拉达，越过帕帕加约河，下行至阿卡普尔科。英语维基百科依据交通部 2011 年道路数据，给出其长度为 361.5 公里。",
+        "与之并行的是收费路 95D，西班牙语维基百科称其长 367 公里：包括 1952 年的墨西哥城—库埃纳瓦卡高速，以及库埃纳瓦卡以南 1993 年建成、绕开塔斯科和伊瓜拉的太阳高速公路。据西班牙语维基百科，走收费路需三至四小时，走免费路则需六小时以上。在奇尔潘辛戈，两条路合并穿城，出城后再度分开。"
+      ]
+    },
+    {
+      "key": "history",
+      "en": [
+        "The route is old. Spanish Wikipedia, citing local histories of Acapulco, dates the first road to 1531, when Hernán Cortés ordered a mule track from the capital to the port; in 1592 the viceroy Luis de Velasco had it improved, and it became known as the Camino de Asia for the goods landed at Acapulco from the Manila galleons. José de la Borda improved the Cuernavaca–Taxco section around 1750. After independence the port's trade collapsed and the road was neglected; a contractor began a Chilpancingo–Acapulco road in 1842 and again in 1854, and both times the money ran out. Under Porfirio Díaz the federal government finished Iguala–Chilpancingo.",
+        "The motor road was pushed through in the 1920s. In 1920 Juan R. Escudero, an Acapulco labour leader, asked President Álvaro Obregón to speed the work and offered men to do it; the México–Amacuzac and Iguala–Chilpancingo sections were improved. Work stopped after Escudero's murder in late 1923, the de la Huerta rebellion and opposition from coastal merchants, whose trade the road threatened. In 1924–25 Amadeo S. Vidales restarted it south of Acahuizotla, paying 328 workers himself, and in 1925 the new National Roads Commission took over, with the army guarding the crews.",
+        "On 11 November 1927, at four in the afternoon, President Plutarco Elías Calles set off by telegraph wire from Chapultepec Castle the charge that cleared the last rock, at kilometre 402 near Xaltianguis. Twelve cars waiting on the road reached Acapulco at six that evening, the first motor vehicles, by this account, to enter the port. Spanish Wikipedia says the road was completely finished in 1931."
+      ],
+      "zh": [
+        "这条线路由来已久。西班牙语维基百科援引阿卡普尔科地方史，将最早的道路追溯到 1531 年：埃尔南·科尔特斯下令修建一条从首都通往港口的驮道；1592 年，总督路易斯·德·贝拉斯科下令加以改善，因沿途运送从马尼拉大帆船卸下的货物，它被称为“亚洲之路”。约 1750 年，何塞·德拉博尔达改善了库埃纳瓦卡—塔斯科段。独立以后港口贸易衰落，道路随之荒废；1842 年和 1854 年，一名承包商两度开工修建奇尔潘辛戈—阿卡普尔科公路，都因资金耗尽而停工。波菲里奥·迪亚斯执政时期，联邦政府修完了伊瓜拉—奇尔潘辛戈段。",
+        "汽车公路是在 1920 年代打通的。1920 年，阿卡普尔科工人领袖胡安·R·埃斯库德罗请求阿尔瓦罗·奥夫雷贡总统加快工程，并提供人手；墨西哥城—阿马库萨克段和伊瓜拉—奇尔潘辛戈段因此得到改善。1923 年底埃斯库德罗遇害，加上德拉韦尔塔叛乱以及担心自身生意受损的沿海商人的阻挠，工程被迫中断。1924—1925 年，阿马德奥·S·比达莱斯在阿卡惠索特拉以南重新开工，自掏腰包支付 328 名工人的工资；1925 年，新成立的国家道路委员会接手，并由军队保护施工人员。",
+        "1927 年 11 月 11 日下午四时，普卢塔科·埃利亚斯·卡列斯总统在查普尔特佩克城堡通过电报线引爆炸药，炸开了哈尔蒂安吉斯附近 402 公里处的最后一块岩石。在路上等候的十二辆汽车当晚六时驶入阿卡普尔科；按这一记载，它们是最早进入该港的机动车。西班牙语维基百科称，这条路于 1931 年全线完工。"
+      ]
+    },
+    {
+      "key": "engineering",
+      "en": [
+        "The México–Cuernavaca motorway was built as a 22-metre divided 'boulevard' road. The ministry's history says it cut the free road's 268 curves to 65, held the sustained grade in the mountains to 4 per cent, and was laid with 14 cm of asphalt where other roads of the time had 4 or 5.",
+        "The Autopista del Sol crosses five high bridges, four of them cable-stayed. The largest, the Mezcala Solidaridad bridge at kilometre 221, crosses the Balsas 160 metres up, with a total length of 911 metres and a main span of 311 metres hung from three masts, according to the builder ICA as cited in Spanish Wikipedia. Its cuttings have been its weakness: Expansión, quoting Reforma, reported that ground along the line proved harder and rockier than the tender had assumed, and Spanish Wikipedia records landslides along the road, mostly in the rainy season, that keep maintenance crews permanently at work."
+      ],
+      "zh": [
+        "墨西哥城—库埃纳瓦卡高速按宽 22 米、中央分隔的“林荫大道”式道路修建。交通部的史料称，它把免费公路上的 268 处弯道减至 65 处，山区持续纵坡不超过 4%，沥青层厚 14 厘米，而当时其他公路只有 4 至 5 厘米。",
+        "太阳高速公路跨越五座高桥，其中四座为斜拉桥。最大的是 221 公里处的梅斯卡拉团结桥，在巴尔萨斯河上方 160 米处跨过，全长 911 米，主跨 311 米，由三座桥塔悬吊——据西班牙语维基百科引述承建商 ICA 的资料。它的软肋是路堑边坡：《扩张》杂志引用《改革报》报道称，沿线地层比招标时设想的更硬、岩石更多；西班牙语维基百科也记载，沿线多有山体滑坡，主要发生在雨季，养护工程因此常年不断。"
+      ]
+    },
+    {
+      "key": "money",
+      "en": [
+        "The first toll road was a public–private venture. Constructora del Sur, formed on 14 October 1949 by private businessmen in partnership with the state development bank Nacional Financiera, built and ran the México–Cuernavaca motorway and the Amacuzac–Iguala 'short route'. Its results persuaded the government to create Caminos Federales de Ingresos on 31 July 1958, the body that became CAPUFE.",
+        "The Autopista del Sol was one of the private concessions of Carlos Salinas de Gortari's road programme. It was conceded to Grupo Mexicano de Desarrollo, which formed a consortium with ICA and Tribasa. Its cost is reported very differently: La Jornada wrote in 2004 that it was estimated at 2,800 million pesos and ended at about 4,600 million; El Universal gave 3,000 million pesos 'of the time', about US$1,000 million; Expansión, quoting Reforma and the bank Serfin, gave 800 million rising to 2,200 million; and in 1994 the Christian Science Monitor put it at US$900 million, almost twice the original bid. Tolls were set high to repay it within the concession term, and the construction industry chamber CMIC later blamed overestimated traffic and the tariffs for the failure of the first private toll roads; on 27 August 1997 it was taken over in the federal rescue of failed toll-road concessions; La Jornada recorded that the World Bank and analysts held it up that year as an example of the programme's failure."
+      ],
+      "zh": [
+        "第一条收费路是公私合营的产物。1949 年 10 月 14 日，一批私营企业家与国家开发银行“国家金融公司”（Nacional Financiera）合作成立南方建设公司（Constructora del Sur），修建并经营墨西哥城—库埃纳瓦卡高速和阿马库萨克—伊瓜拉“捷径”。其经营成效促使政府于 1958 年 7 月 31 日设立联邦收费公路局（Caminos Federales de Ingresos），即后来的联邦公路桥梁公司（CAPUFE）。",
+        "太阳高速公路是卡洛斯·萨利纳斯·德戈塔里公路计划中的私营特许项目之一，特许给墨西哥发展集团（Grupo Mexicano de Desarrollo），该集团与 ICA 和 Tribasa 组成联合体。关于其造价，各方报道差异很大：《每日报》2004 年称原估算 28 亿比索，最终约 46 亿；《环球报》称“当时的”30 亿比索，约合 10 亿美元；《扩张》杂志援引《改革报》和塞尔芬银行的说法，称由 8 亿增至 22 亿；1994 年《基督教科学箴言报》则称其造价 9 亿美元，几乎是原投标价的两倍。为在特许期内收回投资，通行费定得很高；墨西哥建筑业商会（CMIC）后来把首批私营收费公路的失败归咎于高估的车流量和收费标准。1997 年 8 月 27 日，该路被纳入联邦对失败收费公路特许项目的救助计划。据《每日报》记载，世界银行和分析人士当年将其作为该计划失败的典型。"
+      ]
+    },
+    {
+      "key": "condition",
+      "en": [
+        "Repairs have been continuous. In 2004 the transport ministry decided, in La Jornada's words, to 'restructure the whole road' for 1,200 million pesos to correct construction defects. On 25 June 2007 CAPUFE began rescinding the contract of the firm Gutsa to rehabilitate 59.7 km of the toll road, work priced at 335.19 million pesos and due in 270 days that was more than 1,200 days late at about 30 per cent complete. Tropical Storm Manuel damaged 20 stretches between Chilpancingo and Acapulco in September 2013 and closed that section from 15 to 20 September.",
+        "On the free road, the ministry reported in February 2026 that it had rebuilt two hurricane-damaged bridges on Route 95 to a cyclone-resistant design: the Ing. Alfredo Mendizábal bridge at kilometre 114.5 of Chilpancingo–Acapulco, for 67 million pesos, and the Acahuizotla bridge on the northern Acapulco bypass, for 39 million."
+      ],
+      "zh": [
+        "这条路的维修从未停止。据《每日报》报道，2004 年交通部决定斥资 12 亿比索“重构整条道路”，以纠正施工缺陷。2007 年 6 月 25 日，CAPUFE 启动解除 Gutsa 公司合同的程序：该公司承包收费路 59.7 公里的修复工程，造价 3.3519 亿比索、工期 270 天，却已拖延 1,200 多天，完成度仅约 30%。2013 年 9 月，热带风暴“曼努埃尔”使奇尔潘辛戈至阿卡普尔科之间 20 处路段受损，该段于 9 月 15 日至 20 日全线封闭。",
+        "在免费公路上，交通部 2026 年 2 月报告，已按抗气旋标准重建 95 号公路上两座被飓风损毁的桥梁：奇尔潘辛戈—阿卡普尔科段 114.5 公里处的阿尔弗雷多·门迪萨瓦尔工程师桥，投资 6,700 万比索；以及阿卡普尔科北绕城路上的阿卡惠索特拉桥，投资 3,900 万比索。"
+      ]
+    },
+    {
+      "key": "drive",
+      "en": [
+        "The 95D has five toll plazas, at Tlalpan (kilometre 23.3), Francisco Velasco Durán near Alpuyeca (kilometre 118), Paso Morelos (178), Palo Blanco (287) and La Venta (364.9). Tolls have been a grievance from the start: in 1994 a car paid 240 pesos each way, which the Christian Science Monitor put at about US$77, and a six-axle lorry almost US$450. Spanish Wikipedia notes that protesters, most often teachers of the CNTE union, have repeatedly opened the plazas and let traffic through free."
+      ],
+      "zh": [
+        "95D 设有五个收费站：特拉尔潘（23.3 公里）、阿尔普耶卡附近的弗朗西斯科·贝拉斯科·杜兰站（118 公里）、帕索莫雷洛斯（178 公里）、帕洛布兰科（287 公里）和拉本塔（364.9 公里）。通行费从一开始就招人怨言：1994 年，小汽车单程收费 240 比索，《基督教科学箴言报》折算约 77 美元，六轴货车则近 450 美元。西班牙语维基百科提到，抗议者——最常见的是全国教育工作者协调会（CNTE）的教师——多次占领收费站，放车免费通行。"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "label": { "en": "Length", "zh": "长度" },
+      "value": { "en": "361.5 km for the free road, from the transport ministry's 2011 road data, as cited in English Wikipedia; 367 km for the toll road 95D (Spanish Wikipedia), of which the Cuernavaca–Acapulco motorway is 262.58 km (FONADIN)", "zh": "免费公路 361.5 公里，出自交通部 2011 年道路数据，据英语维基百科引述；收费路 95D 长 367 公里（西班牙语维基百科），其中库埃纳瓦卡—阿卡普尔科高速 262.58 公里（国家基础设施基金）" },
+      "source": "SCT, Datos Viales de Morelos and Guerrero 2011, as cited in English Wikipedia, Mexican Federal Highway 95; Spanish Wikipedia, Carretera Federal 95D; FONADIN, tender LA-006G1C003-E9-2017, Annex B"
+    },
+    {
+      "label": { "en": "Construction cost", "zh": "造价" },
+      "why": { "en": "No figure for the free road, which was built piecemeal from colonial times to 1931. The toll motorway's costs are given separately below.", "zh": "免费公路无数据：它自殖民时期至 1931 年零星分段修成。收费高速的造价见下文各项。" }
+    },
+    {
+      "label": { "en": "Autopista del Sol, Cuernavaca–Acapulco", "zh": "太阳高速公路（库埃纳瓦卡—阿卡普尔科）" },
+      "value": { "en": "Sources disagree: estimated at 2,800 million pesos and finished at about 4,600 million (La Jornada, 2004); 3,000 million pesos of the time, about US$1,000 million (El Universal); 800 million rising to 2,200 million (Reforma, 2002, quoting Serfin, as cited by Expansión); US$900 million, almost twice the original bid (Christian Science Monitor, 1994)", "zh": "各方说法不一：原估算 28 亿比索，最终约 46 亿（《每日报》，2004）；当时的 30 亿比索，约合 10 亿美元（《环球报》）；由 8 亿增至 22 亿（《改革报》2002 年援引塞尔芬银行，据《扩张》杂志转引）；9 亿美元，几乎是原投标价的两倍（《基督教科学箴言报》，1994）" },
+      "source": "La Jornada, 19 October 2004; El Universal, Reconcesionarán Autopista del Sol; Expansión, Autopista del Sol, una obra con 20 años de 'derrumbes', 20 September 2013; Christian Science Monitor, 9 February 1994"
+    },
+    {
+      "label": { "en": "Funding", "zh": "出资方" },
+      "value": { "en": "The free road: the federal government from 1925, after earlier work paid for by colonial, state and private hands. México–Cuernavaca (1952): Constructora del Sur, a private company in partnership with Nacional Financiera. Autopista del Sol: a private concession to Grupo Mexicano de Desarrollo with ICA and Tribasa, rescued by the federal government by decree of 27 August 1997 and now held by FONADIN, the national infrastructure fund run by Banobras, with CAPUFE operating it since 14 September 1998.", "zh": "免费公路：1925 年起由联邦政府出资，此前的工程则由殖民当局、州政府及私人出资。墨西哥城—库埃纳瓦卡段（1952）：南方建设公司——一家与国家金融公司合作的私营公司。太阳高速公路：特许给墨西哥发展集团及 ICA、Tribasa 的私营项目，1997 年 8 月 27 日依法令由联邦政府救助，现由 Banobras 管理的国家基础设施基金（FONADIN）持有，1998 年 9 月 14 日起由 CAPUFE 运营。" },
+      "source": "SCT, El Mirador, Caminos y Puentes Federales de Ingresos; La Jornada, 19 October 2004; Spanish Wikipedia, Carretera Federal 95D"
+    },
+    {
+      "label": { "en": "First toll motorway", "zh": "第一条收费高速" },
+      "value": { "en": "México–Cuernavaca, inaugurated by Miguel Alemán on 18 November 1952 and opened to the public on 30 November; tolls 6 pesos for a car, 12 for a bus and 3 for a motorcycle", "zh": "墨西哥城—库埃纳瓦卡高速，1952 年 11 月 18 日由米格尔·阿莱曼揭幕，11 月 30 日向公众开放；小汽车收费 6 比索、客车 12 比索、摩托车 3 比索" },
+      "source": "SCT, El Mirador, Autopista México–Cuernavaca; SCT, El Mirador, Caminos y Puentes Federales de Ingresos"
+    },
+    {
+      "label": { "en": "Mezcala Solidaridad bridge", "zh": "梅斯卡拉团结桥" },
+      "value": { "en": "911 m long, main span 311 m, 160 m above the Balsas river, cable-stayed from three masts, at kilometre 221 of the Autopista del Sol", "zh": "全长 911 米，主跨 311 米，距巴尔萨斯河面 160 米，三塔斜拉，位于太阳高速公路 221 公里处" },
+      "source": "Grupo ICA, Grandes Obras – Puente Mezcala Solidaridad (2005), as cited in Spanish Wikipedia, Carretera Federal 95D"
+    },
+    {
+      "label": { "en": "Failed rehabilitation, 2007", "zh": "2007 年修复工程失败" },
+      "value": { "en": "335.19 million pesos for 59.7 km, due in 270 days; more than 1,200 days late at about 30 per cent complete when CAPUFE began rescinding the contract on 25 June 2007", "zh": "59.7 公里，3.3519 亿比索，工期 270 天；2007 年 6 月 25 日 CAPUFE 启动解约时已拖延 1,200 多天，完成度约 30%" },
+      "source": "Spanish Wikipedia, Carretera Federal 95D; Expansión, 20 September 2013"
+    }
+  ],
+  "timeline": [
+    { "year": 1531, "en": "Hernán Cortés orders a mule track from the capital to Acapulco, by the account of local histories.", "zh": "据地方史记载，埃尔南·科尔特斯下令修建从首都通往阿卡普尔科的驮道。" },
+    { "year": 1592, "en": "The viceroy Luis de Velasco has the road improved; it becomes the Camino de Asia.", "zh": "总督路易斯·德·贝拉斯科下令改善道路，它成为“亚洲之路”。" },
+    { "year": 1925, "en": "The National Roads Commission takes over the work, after Amadeo S. Vidales had restarted it with 328 men he paid himself.", "zh": "阿马德奥·S·比达莱斯自费雇用 328 人重新开工后，国家道路委员会接手这项工程。" },
+    { "year": 1927, "en": "On 11 November Plutarco Elías Calles fires the last blast by telegraph from Chapultepec; twelve cars reach Acapulco that evening.", "zh": "11 月 11 日，普卢塔科·埃利亚斯·卡列斯在查普尔特佩克通过电报引爆最后一炮；当晚十二辆汽车驶抵阿卡普尔科。" },
+    { "year": 1931, "en": "The Mexico City–Acapulco road is completely finished, according to Spanish Wikipedia.", "zh": "据西班牙语维基百科，墨西哥城—阿卡普尔科公路全线完工。" },
+    { "year": 1952, "en": "Mexico's first toll motorway, México–Cuernavaca, is inaugurated on 18 November.", "zh": "11 月 18 日，墨西哥第一条收费高速——墨西哥城—库埃纳瓦卡高速揭幕。" },
+    { "year": 1958, "en": "Caminos Federales de Ingresos, later CAPUFE, is created on 31 July to run federal toll roads.", "zh": "7 月 31 日，负责经营联邦收费公路的联邦收费公路局（后来的 CAPUFE）成立。" },
+    { "year": 1989, "en": "Construction of the Autopista del Sol begins on 30 August.", "zh": "8 月 30 日，太阳高速公路开工。" },
+    { "year": 1993, "en": "Carlos Salinas de Gortari opens the Autopista del Sol.", "zh": "卡洛斯·萨利纳斯·德戈塔里为太阳高速公路通车剪彩。" },
+    { "year": 1997, "en": "The motorway is taken over in the federal toll-road rescue decreed on 27 August.", "zh": "8 月 27 日，该高速被纳入联邦收费公路救助计划。" },
+    { "year": 2007, "en": "CAPUFE begins rescinding a 335 million-peso rehabilitation contract that was more than 1,200 days late.", "zh": "CAPUFE 启动解除一份拖延逾 1,200 天、金额 3.35 亿比索的修复合同。" },
+    { "year": 2013, "en": "Tropical Storm Manuel closes the Chilpancingo–Acapulco section from 15 to 20 September.", "zh": "热带风暴“曼努埃尔”使奇尔潘辛戈—阿卡普尔科段于 9 月 15 日至 20 日封闭。" }
+  ]
+}

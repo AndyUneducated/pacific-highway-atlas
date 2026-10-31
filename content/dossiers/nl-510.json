@@ -1,0 +1,83 @@
+{
+  "id": "nl-510",
+  "route": { "sys": "ca-nhs", "num": "510", "anchor": [-57.131, 52.881] },
+  "name": { "en": "Route 510 (Trans-Labrador Highway)", "zh": "510 号公路（跨拉布拉多公路）" },
+  "aka": [
+    { "en": "Trans-Labrador Highway, southern section (Phases II and III)", "zh": "跨拉布拉多公路南段（第二、三期）" }
+  ],
+  "tagline": { "en": "The road that joined southern Labrador's coast to Happy Valley-Goose Bay, built in phases from 1997 and paved end to end only in 2022", "zh": "把拉布拉多南部海岸与快乐谷—古斯湾连起来的公路：1997 年起分期修建，直到 2022 年才全线铺装" },
+  "termini": {
+    "start": { "en": "The Quebec boundary at L'Anse-au-Clair, near Blanc-Sablon and the ferry to Newfoundland", "zh": "朗斯奥克莱尔的魁北克省界，靠近布朗萨布隆和通往纽芬兰的渡轮", "at": [-57.108, 51.42] },
+    "end": { "en": "Happy Valley-Goose Bay, at the junction with Route 500 to Churchill Falls and Labrador West", "zh": "快乐谷—古斯湾，与通往丘吉尔瀑布和西拉布拉多的 500 号公路交会", "at": [-60.495, 53.278] }
+  },
+  "sections": [
+    {
+      "key": "character",
+      "en": [
+        "Route 510 is the southern arm of the Trans-Labrador Highway, about 606 km from the Quebec border at L'Anse-au-Clair to Happy Valley-Goose Bay. At its south end it meets a short isolated stretch of Quebec's Route 138 at Blanc-Sablon, from where the ferry crosses the Strait of Belle Isle to Newfoundland; at its north end it meets Route 500, the older western arm through Churchill Falls to Labrador City.",
+        "The southern part follows the coast of the Labrador Straits through small fishing communities as far as Red Bay, then turns inland. From there it runs through long stretches of forest and barrens, past the junctions for Charlottetown and, on Route 516, Cartwright, before the last 250 km, built as Phase III, to Goose Bay.",
+        "Quebec's Route 138 does not reach it from the west: the gap on the Lower North Shore between Kegashka and Old Fort is still open, so the road out of the Labrador Straits runs north to Goose Bay rather than west along the Gulf."
+      ],
+      "zh": [
+        "510 号公路是跨拉布拉多公路的南段，自朗斯奥克莱尔的魁北克省界至快乐谷—古斯湾，全长约 606 公里。南端在布朗萨布隆与魁北克 138 号公路一段孤立的短线相接，渡轮由此横渡贝尔岛海峡前往纽芬兰；北端与 500 号公路相接，那是经丘吉尔瀑布通往拉布拉多城的较早修建的西段。",
+        "南段沿拉布拉多海峡海岸穿过一个个小渔村，直到红湾，然后转入内陆。此后是大段的森林与荒原，经过通往夏洛特敦的路口，以及经 516 号公路通往卡特赖特的路口；最后通往古斯湾的 250 公里即第三期工程。",
+        "魁北克 138 号公路并未从西面接上它：下北岸凯加什卡与老堡之间的缺口至今未通，因此从拉布拉多海峡出发的公路是向北通往古斯湾，而不是沿圣劳伦斯湾向西。"
+      ]
+    },
+    {
+      "key": "history",
+      "en": [
+        "The road came out of a deal over ferries. Under the Labrador Transportation Initiative announced on 3 April 1997, the province took over the federally supported coastal ferry service in return for $340 million from Ottawa, plus two vessels worth $25 million. It put $150 million of that towards marine services and $130 million towards Phase II, a new highway from Red Bay north to Cartwright.",
+        "Phase II, about 323 km, opened in 2002. Its northern end was then renumbered: the stretch from Cartwright Junction into Cartwright became Route 516, and Route 510 was carried on inland. Contracts for Phase III, about 250 km from Cartwright Junction to Happy Valley-Goose Bay, were let from 2004, and the road opened on 16 December 2009, joining the south coast of Labrador to Goose Bay by road for the first time.",
+        "It opened as gravel. Hard-surfacing went on for another decade, and the province announced on 5 July 2022 that the last of the Trans-Labrador Highway had been paved, under a contract awarded to JCL Investments in May 2020."
+      ],
+      "zh": [
+        "这条路源于一笔有关渡轮的交易。根据 1997 年 4 月 3 日宣布的“拉布拉多交通计划”，省政府接管原由联邦支持的沿海渡轮服务，换取联邦 3.4 亿加元及价值 2,500 万加元的两艘船。其中 1.5 亿加元用于海运服务，1.3 亿加元用于第二期，即自红湾向北通往卡特赖特的新公路。",
+        "第二期约 323 公里，于 2002 年通车。随后北端改了编号：卡特赖特路口至卡特赖特一段改为 516 号公路，510 号公路则继续向内陆延伸。第三期自卡特赖特路口至快乐谷—古斯湾约 250 公里，2004 年起陆续发包，2009 年 12 月 16 日通车，首次以公路把拉布拉多南岸与古斯湾连了起来。",
+        "通车时还是砾石路。铺装又持续了十多年；2022 年 7 月 5 日，省政府宣布跨拉布拉多公路最后一段铺装完工，该合同于 2020 年 5 月授予 JCL Investments 公司。"
+      ]
+    },
+    {
+      "key": "money",
+      "en": [
+        "Phase II was budgeted at $130 million over four years. Phase III was expected to cost about $130 million when it opened in 2009, with $15 million of finishing work still to come; the province's 2009–10 annual report later put it at about $138 million. When paving was finished in 2022, the province said it had spent nearly $1 billion on the Trans-Labrador Highway since 1997, more than $230 million of it since 2016; that total includes the western arm, Route 500.",
+        "The highway was built by the province; Phase II was paid for out of the 1997 ferry settlement. Ottawa later contributed $22,249,562 through the New Building Canada Fund to widen and hard-surface 84 km between the Charlottetown and Cartwright junctions."
+      ],
+      "zh": [
+        "第二期预算为四年 1.3 亿加元。第三期在 2009 年通车时预计造价约 1.3 亿加元，另有 1,500 万加元的收尾工程；省政府 2009—2010 年度报告后来称其造价约 1.38 亿加元。2022 年铺装完工时，省政府表示自 1997 年以来已在跨拉布拉多公路上投入近 10 亿加元，其中逾 2.3 亿加元是 2016 年以后投入的；该总额包括西段 500 号公路。",
+        "公路由省政府修建；第二期的资金来自 1997 年的渡轮协议款。联邦后来通过“新建设加拿大基金”拨款 22,249,562 加元，用于拓宽并铺装夏洛特敦路口至卡特赖特路口之间的 84 公里。"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "label": { "en": "Length", "zh": "长度" },
+      "value": { "en": "About 606 km from the Quebec border to Happy Valley-Goose Bay; Phase II about 323 km, Phase III about 250 km.", "zh": "魁北克省界至快乐谷—古斯湾约 606 公里；第二期约 323 公里，第三期约 250 公里。" },
+      "source": "English Wikipedia, Newfoundland and Labrador Route 510; English Wikipedia, Trans-Labrador Highway"
+    },
+    {
+      "label": { "en": "Construction cost", "zh": "造价" },
+      "value": { "en": "Phase II $130 million (budget, 1997–2002); Phase III about $138 million (2009). The province put spending on the whole Trans-Labrador Highway, including Route 500, at nearly $1 billion from 1997 to 2022.", "zh": "第二期 1.3 亿加元（预算，1997—2002 年）；第三期约 1.38 亿加元（2009 年）。省政府称 1997 至 2022 年间整条跨拉布拉多公路（含 500 号公路）的投入近 10 亿加元。" },
+      "source": "Government of Newfoundland and Labrador news releases, 3 April 1997, 1999 and 5 July 2022; Department of Transportation and Works, Annual Report 2009–10"
+    },
+    {
+      "label": { "en": "Funding", "zh": "出资方" },
+      "value": { "en": "Provincial. Phase II's $130 million came from the $340 million federal payment for taking over the Labrador coastal ferry service (1997); federal New Building Canada Fund $22,249,562 for 84 km of widening and hard-surfacing (2017–2024).", "zh": "省政府出资。第二期的 1.3 亿加元来自接管拉布拉多沿海渡轮服务所获的 3.4 亿加元联邦款项（1997 年）；联邦“新建设加拿大基金”22,249,562 加元，用于 84 公里的拓宽与铺装（2017—2024 年）。" },
+      "source": "Government of Newfoundland and Labrador news release, Labrador Transportation Initiative, 3 April 1997; Infrastructure Canada project list, New Building Canada Fund"
+    },
+    {
+      "label": { "en": "Fully paved", "zh": "全线铺装" },
+      "value": { "en": "5 July 2022, thirteen years after Phase III opened as gravel.", "zh": "2022 年 7 月 5 日，距第三期以砾石路通车已过去 13 年。" },
+      "source": "Government of Newfoundland and Labrador news release, 5 July 2022"
+    }
+  ],
+  "timeline": [
+    { "year": 1997, "en": "The Labrador Transportation Initiative is announced on 3 April: $340 million from Ottawa for the coastal ferry service, much of it for roads.", "zh": "4 月 3 日宣布“拉布拉多交通计划”：联邦为沿海渡轮服务支付 3.4 亿加元，大部分用于修路。" },
+    { "year": 1999, "en": "The province describes Phase II, Red Bay to Cartwright, as a four-year, $130 million project.", "zh": "省政府称第二期红湾至卡特赖特为四年期、1.3 亿加元的工程。" },
+    { "year": 2002, "en": "Phase II, about 323 km from Red Bay to Cartwright, opens.", "zh": "第二期红湾至卡特赖特约 323 公里通车。" },
+    { "year": 2004, "en": "The first contracts for Phase III, Cartwright Junction to Happy Valley-Goose Bay, are let.", "zh": "第三期卡特赖特路口至快乐谷—古斯湾的首批合同发包。" },
+    { "year": 2009, "en": "Phase III opens on 16 December, linking southern Labrador to Goose Bay by road.", "zh": "12 月 16 日第三期通车，拉布拉多南部与古斯湾首次通公路。" },
+    { "year": 2020, "en": "The last paving contract is awarded to JCL Investments in May.", "zh": "5 月，最后一份铺装合同授予 JCL Investments 公司。" },
+    { "year": 2022, "en": "The province announces on 5 July that the Trans-Labrador Highway is fully paved.", "zh": "7 月 5 日，省政府宣布跨拉布拉多公路全线铺装完工。" }
+  ]
+}

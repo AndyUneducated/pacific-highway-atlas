@@ -1,0 +1,87 @@
+{
+  "id": "ab-63",
+  "route": { "sys": "ca-nhs", "num": "63", "anchor": [-112.207, 55.742] },
+  "name": { "en": "Highway 63", "zh": "63 号公路" },
+  "aka": [
+    { "en": "Highway 46 (former number, Radway to Atmore)", "zh": "46 号公路（拉德韦至阿特莫尔段旧编号）" },
+    { "en": "‘Highway of Death’ (nickname before twinning)", "zh": "“死亡公路”（拓宽前的绰号）" }
+  ],
+  "tagline": { "en": "The main road to Fort McMurray and the oil sands, twinned for $1.2 billion after decades of deadly crashes, and the escape route from the 2016 wildfire", "zh": "通往麦克默里堡与油砂区的主干公路：经历数十年致命车祸后耗资 12 亿加元拓宽，也是 2016 年山火中的逃生之路" },
+  "termini": {
+    "start": { "en": "Highway 28 near Radway, north-east of Edmonton", "zh": "埃德蒙顿东北拉德韦附近的 28 号公路", "at": [-113.026, 54.036] },
+    "end": { "en": "North of Fort McKay, in the oil sands mining area", "zh": "麦凯堡以北的油砂开采区", "at": [-111.628, 57.262] }
+  },
+  "sections": [
+    {
+      "key": "character",
+      "en": [
+        "Highway 63 runs about 434 km from Highway 28 north-east of Edmonton to the oil sands north of Fort McMurray. It is the main road into Fort McMurray, and the 240 km between Grassland and the city, through Wandering River, is the stretch that was twinned between 2006 and 2016.",
+        "It carries the traffic of the oil sands, and for decades it did so on two lanes. It was called the Highway of Death; at least 149 people died on it between 1990 and 2012.",
+        "North of Fort McMurray it continues past Fort McKay into the oil sands mining area."
+      ],
+      "zh": [
+        "63 号公路全长约 434 公里，自埃德蒙顿东北的 28 号公路通往麦克默里堡以北的油砂区。它是进入麦克默里堡的主干道路；格拉斯兰经旺德灵里弗至该市的 240 公里，就是 2006 至 2016 年间拓宽的路段。",
+        "它承担着油砂区的交通，而几十年来只有双车道。它曾被称为“死亡公路”；1990 至 2012 年间，至少有 149 人死于这条路上。",
+        "麦克默里堡以北，公路经麦凯堡继续通往油砂开采区。"
+      ]
+    },
+    {
+      "key": "history",
+      "en": [
+        "The first car to drive from Fort McMurray to Edmonton, in 1957, went the long way round by Wabasca and Slave Lake and took 18 hours. Construction of a direct road north from Atmore began in 1962; the section from Radway to Atmore was then Highway 46. The Grant MacEwan Bridge at Fort McMurray opened in 1965, and in 1974 the province spent $2.3 million paving the road north of Wandering River, making it an all-weather highway. The Steinhauer Bridge opened the same year, and the Peter Lougheed Bridge north of town, nicknamed the Bridge to Nowhere, in 1979.",
+        "In February 2006 the province committed to twin the 240 km from Grassland to Fort McMurray, and the first section was finished in 2008. After a crash near Wandering River killed seven people on 27 April 2012, the government announced in October 2012 that the whole twinning would be finished by the end of 2016. Fort McMurray's bridges were rebuilt at the same time: a new five-lane Athabasca River bridge in 2011 and the Steinhauer and MacEwan bridges in 2013.",
+        "The last 3 km of twinning opened on 26 May 2016, weeks after a wildfire forced more than 80,000 people to leave Fort McMurray along Highway 63 in early May. In March 2017 signs naming the King Street overpass in Fort McMurray ‘Responders Way’ were unveiled in honour of those who fought the fire."
+      ],
+      "zh": [
+        "1957 年，第一辆从麦克默里堡开到埃德蒙顿的汽车绕道瓦巴斯卡和斯莱夫湖，用了 18 个小时。1962 年，从阿特莫尔向北直通的道路开工；拉德韦至阿特莫尔段当时为 46 号公路。麦克默里堡的格兰特·麦克尤恩大桥于 1965 年通车；1974 年，省政府耗资 230 万加元铺装旺德灵里弗以北路段，使其成为全天候公路。同年斯坦豪尔大桥通车；镇北的彼得·洛希德大桥于 1979 年通车，人称“无处可去之桥”。",
+        "2006 年 2 月，省政府承诺把格拉斯兰至麦克默里堡的 240 公里拓宽为双向分隔公路，第一段于 2008 年完工。2012 年 4 月 27 日，旺德灵里弗附近一起车祸造成七人死亡；同年 10 月，政府宣布全线拓宽将于 2016 年底前完成。麦克默里堡的桥梁同期重建：2011 年新建五车道的阿萨巴斯卡河大桥，2013 年重建斯坦豪尔桥和麦克尤恩桥。",
+        "拓宽工程的最后 3 公里于 2016 年 5 月 26 日通车；就在几周前的 5 月初，一场山火迫使逾 8 万人沿 63 号公路撤离麦克默里堡。2017 年 3 月，麦克默里堡国王街立交桥被命名为“救援者之路”的标牌揭幕，以纪念扑救山火的人员。"
+      ]
+    },
+    {
+      "key": "money",
+      "en": [
+        "The twinning was a provincial project; its first section, finished in 2008, cost $53 million, and the Edmonton Journal put the whole project at $1.2 billion when it was completed in 2016.",
+        "The federal share is less clear. A federal contribution of $150 million through the Canada Strategic Infrastructure Fund, half of $300 million in eligible costs, is reported on a third-party rendering of Infrastructure Canada's project list; not checked against Infrastructure Canada's own records."
+      ],
+      "zh": [
+        "拓宽工程由省政府实施；2008 年完工的第一段造价 5,300 万加元；据《埃德蒙顿日报》报道，2016 年全线完工时整个项目耗资 12 亿加元。",
+        "联邦出资情况不太清楚。据第三方转载的加拿大基础设施部项目清单，联邦通过“加拿大战略基础设施基金”出资 1.5 亿加元，占 3 亿加元合格费用的一半；尚未与加拿大基础设施部的原始记录核对。"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "label": { "en": "Length", "zh": "长度" },
+      "value": { "en": "433.9 km.", "zh": "433.9 公里。" },
+      "source": "English Wikipedia, Alberta Highway 63 (citing Alberta Transportation)"
+    },
+    {
+      "label": { "en": "Construction cost", "zh": "造价" },
+      "value": { "en": "Twinning, Grassland to Fort McMurray: $1.2 billion (2006–2016); first section $53 million (2008). Paving north of Wandering River: $2.3 million (1974).", "zh": "格拉斯兰至麦克默里堡拓宽工程：12 亿加元（2006—2016 年）；第一段 5,300 万加元（2008 年）。旺德灵里弗以北铺装：230 万加元（1974 年）。" },
+      "source": "Edmonton Journal, 7 June 2016; English Wikipedia, Alberta Highway 63"
+    },
+    {
+      "label": { "en": "Funding", "zh": "出资方" },
+      "value": { "en": "Province of Alberta. Reported at $150 million federal through the Canada Strategic Infrastructure Fund, half of $300 million eligible; not checked against Infrastructure Canada's own records.", "zh": "艾伯塔省政府。据报道，联邦通过“加拿大战略基础设施基金”出资 1.5 亿加元，占 3 亿加元合格费用的一半；尚未与加拿大基础设施部的原始记录核对。" },
+      "source": "Edmonton Journal, 7 June 2016; third-party rendering of Infrastructure Canada's Canada Strategic Infrastructure Fund project list"
+    },
+    {
+      "label": { "en": "Deaths before twinning", "zh": "拓宽前的死亡人数" },
+      "value": { "en": "At least 149, 1990–2012.", "zh": "1990—2012 年间至少 149 人。" },
+      "source": "English Wikipedia, Alberta Highway 63"
+    }
+  ],
+  "timeline": [
+    { "year": 1957, "en": "The first car drives from Fort McMurray to Edmonton, by way of Wabasca and Slave Lake, in 18 hours.", "zh": "第一辆汽车从麦克默里堡经瓦巴斯卡和斯莱夫湖开到埃德蒙顿，历时 18 小时。" },
+    { "year": 1962, "en": "Construction of a direct road north from Atmore begins.", "zh": "自阿特莫尔向北的直通道路开工。" },
+    { "year": 1965, "en": "The Grant MacEwan Bridge opens at Fort McMurray.", "zh": "麦克默里堡的格兰特·麦克尤恩大桥通车。" },
+    { "year": 1974, "en": "Paving north of Wandering River, for $2.3 million, makes the road all-weather.", "zh": "耗资 230 万加元铺装旺德灵里弗以北路段，公路成为全天候道路。" },
+    { "year": 1979, "en": "The Peter Lougheed Bridge, the ‘Bridge to Nowhere’, opens north of Fort McMurray.", "zh": "麦克默里堡以北的彼得·洛希德大桥（“无处可去之桥”）通车。" },
+    { "year": 2006, "en": "Alberta commits in February to twin the 240 km from Grassland to Fort McMurray.", "zh": "2 月，艾伯塔承诺拓宽格拉斯兰至麦克默里堡的 240 公里。" },
+    { "year": 2008, "en": "The first twinned section is completed, for $53 million.", "zh": "第一段拓宽工程完工，造价 5,300 万加元。" },
+    { "year": 2012, "en": "Seven people die in a crash near Wandering River on 27 April; in October the province sets a 2016 deadline for the twinning.", "zh": "4 月 27 日，旺德灵里弗附近一起车祸造成七人死亡；10 月，省政府定下 2016 年完成拓宽的期限。" },
+    { "year": 2016, "en": "More than 80,000 people evacuate Fort McMurray from the wildfire in May; the last 3 km of twinning opens on 26 May.", "zh": "5 月，逾 8 万人因山火撤离麦克默里堡；5 月 26 日，最后 3 公里拓宽路段通车。" },
+    { "year": 2017, "en": "‘Responders Way’ signs are unveiled at the King Street overpass in Fort McMurray in March.", "zh": "3 月，麦克默里堡国王街立交桥揭幕“救援者之路”标牌。" }
+  ]
+}

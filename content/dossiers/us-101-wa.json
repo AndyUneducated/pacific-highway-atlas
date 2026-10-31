@@ -1,0 +1,104 @@
+{
+  "id": "us-101-wa",
+  "route": { "sys": "us-numbered", "num": "101", "anchor": [-123.43, 48.11] },
+  "name": { "en": "U.S. Route 101", "zh": "101 号美国国道" },
+  "aka": [
+    { "en": "Olympic Loop Highway (Washington)", "zh": "奥林匹克环线公路（华盛顿州）" },
+    { "en": "Pacific Coast Scenic Byway (Washington)", "zh": "太平洋海岸风景道（华盛顿州）" }
+  ],
+  "tagline": { "en": "The westernmost US highway: Los Angeles up the coast to a loop round the Olympic Peninsula, ending at Olympia", "zh": "最西的美国国道：自洛杉矶沿海岸北上，绕奥林匹克半岛一周，止于奥林匹亚" },
+  "designatedYear": 1926,
+  "termini": {
+    "start": { "en": "Lombard Street, San Francisco, at the approach to the Golden Gate Bridge (the drawn piece; the route itself begins in Los Angeles)", "zh": "旧金山伦巴底街，金门大桥引道处（此为地图所绘路段的起点；路线本身起于洛杉矶）", "at": [-122.45, 37.80] },
+    "end": { "en": "I-5 at Tumwater, Washington, beside the State Capitol campus", "zh": "华盛顿州塔姆沃特，州议会建筑群旁，与 I-5 相接", "at": [-122.91, 47.02] }
+  },
+  "sections": [
+    {
+      "key": "character",
+      "en": [
+        "US 101 runs from Los Angeles up the Pacific coast through California and Oregon to Washington, the westernmost route in the US numbered system. The atlas draws it in pieces; the piece shown here starts at the Golden Gate and carries the road through the redwood coast, the length of the Oregon coast and the whole of its Washington mileage.",
+        "In Washington it is 365.55 miles long by WSDOT's highway log, and it does something no other US route does: it goes almost all the way round a mountain range. It enters from Astoria on the Astoria–Megler Bridge, follows Willapa Bay and Grays Harbor to Aberdeen, where US 12 begins, runs up the west side of the Olympic Peninsula past Lake Quinault, along fifteen miles of open Pacific coast at Kalaloch and through Forks, then east past Lake Crescent to Port Angeles. It turns south down Hood Canal and finishes as a freeway into Olympia.",
+        "Because of the loop the signed directions stop meaning much. The highway is signed north–south from Oregon to Sappho, east–west from Sappho to Discovery Bay, and north–south again down Hood Canal, where northbound traffic is in fact heading south. Its northernmost point is Port Angeles, not its northern terminus at Tumwater."
+      ],
+      "zh": [
+        "US 101 自洛杉矶沿太平洋海岸北上，穿过加利福尼亚与俄勒冈抵达华盛顿，是美国国道编号系统中最西的一条。本图集分段绘制这条路；此处所示路段起于金门，涵盖红杉海岸、俄勒冈全段海岸以及华盛顿州境内的全部里程。",
+        "按华盛顿州交通部的公路里程表，它在该州长 365.55 英里，并且做了一件其他美国国道都没有做过的事：几乎绕一座山脉一整圈。它从阿斯托里亚经阿斯托里亚—梅格勒大桥入境，沿威拉帕湾与格雷斯港到阿伯丁（US 12 的起点），沿奥林匹克半岛西侧北上，经奎诺尔特湖，在卡拉洛克沿开阔的太平洋海岸行驶十五英里，穿过福克斯，再向东经新月湖到安吉利斯港。随后它沿胡德运河南下，最后以高速公路形式进入奥林匹亚。",
+        "由于这一圈环线，路牌上的方向已没有多大意义。自俄勒冈州界至萨福标为南北向，萨福至发现湾标为东西向，沿胡德运河又标回南北向——在那里“北行”的车实际上是向南开。它的最北点是安吉利斯港，而不是位于塔姆沃特的北端终点。"
+      ]
+    },
+    {
+      "key": "history",
+      "en": [
+        "US 101 was one of the routes of the original numbered system adopted by AASHO on 11 November 1926. In Washington it was laid over State Roads 9 and 12, numbered in 1923; the last section of the Olympic Loop Highway, begun in 1927, opened with a two-day dedication in August 1931. The co-signed state numbers became Primary State Highways 9 and 12 in 1937 and were dropped in the 1964 renumbering. In 1955 the state asked AASHO to extend US 101 from Discovery Bay to Whidbey Island and Mount Vernon; AASHO refused, on the grounds that it was too long a detour and relied on a tolled ferry.",
+        "The coast road was the last of the West Coast trunk routes to be continuous. Oregon's coast highway still crossed several estuaries by ferry into the 1930s, and the Columbia between Astoria and the Washington shore was crossed by a ferry, run from 1926 and bought by the Oregon highway department in 1946, which did not sail in bad weather. The Astoria–Megler Bridge, begun on 5 November 1962 and opened on 29 July 1966, completed US 101 between Olympia and Los Angeles. At the other end, California's 1964 renumbering cut the route back from San Diego to Los Angeles, I-5 taking the southern stretch.",
+        "Since then the Washington section has been rebuilt round its towns. A 4.3-mile freeway bypass of Shelton, begun on 9 August 1972, took the route on 11 October 1974. The Sequim bypass opened in 1999 with warning signals triggered by radio-collared Roosevelt elk approaching the road."
+      ],
+      "zh": [
+        "US 101 是 1926 年 11 月 11 日 AASHO 通过的首批编号路线之一。在华盛顿，它覆盖于 1923 年编号的 9 号与 12 号州道之上；奥林匹克环线公路的最后一段于 1927 年开工，1931 年 8 月以为期两天的典礼通车。共同标示的州道编号于 1937 年改为 9 号与 12 号一级州道，并在 1964 年重新编号时取消。1955 年，华盛顿州申请把 US 101 自发现湾延伸至惠德比岛与芒特弗农；AASHO 以绕行过远、且依赖收费渡轮为由予以拒绝。",
+        "沿海公路是西海岸干线中最后贯通的一条。俄勒冈的海岸公路直到 1930 年代仍以渡轮跨越数处河口；阿斯托里亚与华盛顿一岸之间的哥伦比亚河则靠渡轮往来——该渡轮 1926 年开航，1946 年由俄勒冈公路部门收购，恶劣天气时停航。阿斯托里亚—梅格勒大桥于 1962 年 11 月 5 日开工，1966 年 7 月 29 日通车，使 US 101 在奥林匹亚与洛杉矶之间全线贯通。在另一端，加利福尼亚 1964 年的重新编号把路线从圣迭戈截至洛杉矶，南段由 I-5 接替。",
+        "此后，华盛顿州段围绕沿途城镇不断改建。一条 4.3 英里长的谢尔顿绕城高速于 1972 年 8 月 9 日开工，1974 年 10 月 11 日起承载本路线。锡奎姆绕城路于 1999 年通车，并装有警示信号灯，由佩戴无线电项圈的罗斯福马鹿接近公路时触发。"
+      ]
+    },
+    {
+      "key": "money",
+      "en": [
+        "The Olympic Loop was a large undertaking for a thinly settled peninsula: its completion was reported in 1931 as having cost about $11 million, from state and federal funds. The Astoria–Megler Bridge, built jointly by the Oregon and Washington highway departments, cost $24 million and was paid for by tolls, which were removed on 24 December 1993, more than two years early.",
+        "Later work on the Washington section has been costed by project. The Shelton bypass cost $4 million in 1974 and the Sequim bypass $40.7 million in 1999."
+      ],
+      "zh": [
+        "对一个人烟稀少的半岛而言，奥林匹克环线是一项浩大工程：1931 年完工时的报道称，其造价约 1,100 万美元，来自州与联邦资金。阿斯托里亚—梅格勒大桥由俄勒冈与华盛顿两州公路部门合建，造价 2,400 万美元，靠通行费偿还；通行费于 1993 年 12 月 24 日取消，比原计划提前两年多。",
+        "华盛顿州段此后的工程均按项目核算。谢尔顿绕城路 1974 年造价 400 万美元，锡奎姆绕城路 1999 年造价 4,070 万美元。"
+      ]
+    },
+    {
+      "key": "drive",
+      "en": [
+        "The loop is the main road to Olympic National Park, and the park is close to the pavement in three places: the Quinault rainforest, the beaches round Kalaloch, and the south shore of Lake Crescent. The Hoh Rainforest is reached by a side road north of the Hoh River. At Port Angeles the route passes within a few blocks of the terminal for the MV Coho, the ferry to Victoria, British Columbia."
+      ],
+      "zh": [
+        "这条环线是通往奥林匹克国家公园的主干道，公园在三处紧贴路面：奎诺尔特雨林、卡拉洛克周边的海滩，以及新月湖南岸。霍河以北有支路通往霍河雨林。在安吉利斯港，路线距开往不列颠哥伦比亚省维多利亚的“科霍号”渡轮码头只有几个街区。"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "label": { "en": "Construction cost", "zh": "造价" },
+      "why": { "en": "No figure exists for the whole route. US 101 was numbered in 1926 over state roads in three states and completed in pieces until 1966; costs are known only for individual works such as the Olympic Loop and the Astoria–Megler Bridge.", "zh": "全线并无造价数据。US 101 于 1926 年沿三个州的州道编号，分段建设直到 1966 年才贯通；只有奥林匹克环线、阿斯托里亚—梅格勒大桥等单项工程留有造价。" }
+    },
+    {
+      "label": { "en": "Funding", "zh": "出资方" },
+      "why": { "en": "There is no single funder. Each state builds and maintains its own section with state and federal-aid money; the Astoria–Megler Bridge was financed jointly by Oregon and Washington and repaid by tolls.", "zh": "没有单一出资方。各州以州资金与联邦补助资金修建并养护本州路段；阿斯托里亚—梅格勒大桥由俄勒冈与华盛顿两州合资修建，以通行费偿还。" }
+    },
+    {
+      "label": { "en": "Length in Washington", "zh": "华盛顿州境内里程" },
+      "value": { "en": "365.55 miles, Oregon state line to I-5 at Tumwater", "zh": "365.55 英里，自俄勒冈州界至塔姆沃特的 I-5" },
+      "source": "WSDOT, State Highway Log Planning Report 2020, as cited in English Wikipedia, U.S. Route 101 in Washington"
+    },
+    {
+      "label": { "en": "Olympic Loop Highway", "zh": "奥林匹克环线公路" },
+      "value": { "en": "About $11 million in state and federal funds, completed August 1931", "zh": "约 1,100 万美元，来自州与联邦资金，1931 年 8 月完工" },
+      "source": "The Seattle Times, 24 August 1931, as cited in English Wikipedia, U.S. Route 101 in Washington"
+    },
+    {
+      "label": { "en": "Astoria–Megler Bridge", "zh": "阿斯托里亚—梅格勒大桥" },
+      "value": { "en": "$24 million, built 1962–1966, 21,474 feet long; tolls removed 24 December 1993", "zh": "2,400 万美元，1962 至 1966 年修建，全长 21,474 英尺；1993 年 12 月 24 日取消收费" },
+      "source": "English Wikipedia, Astoria–Megler Bridge, citing Oregon Department of Transportation and contemporary press"
+    },
+    {
+      "label": { "en": "Shelton and Sequim bypasses", "zh": "谢尔顿与锡奎姆绕城路" },
+      "value": { "en": "Shelton $4 million, opened 1974; Sequim $40.7 million, opened 1999", "zh": "谢尔顿 400 万美元，1974 年通车；锡奎姆 4,070 万美元，1999 年通车" },
+      "source": "The Olympian, 1974, and Puget Sound Business Journal, 1999, as cited in English Wikipedia, U.S. Route 101 in Washington"
+    }
+  ],
+  "timeline": [
+    { "year": 1926, "en": "US 101 is included in the original numbered system adopted on 11 November.", "zh": "11 月 11 日通过的首批编号系统中包括 US 101。" },
+    { "year": 1931, "en": "The Olympic Loop Highway is completed and dedicated in August.", "zh": "奥林匹克环线公路于 8 月完工并举行通车典礼。" },
+    { "year": 1955, "en": "AASHO rejects Washington's request to extend US 101 to Whidbey Island and Mount Vernon.", "zh": "AASHO 拒绝华盛顿州将 US 101 延伸至惠德比岛与芒特弗农的申请。" },
+    { "year": 1962, "en": "Construction of the Astoria–Megler Bridge begins on 5 November.", "zh": "11 月 5 日，阿斯托里亚—梅格勒大桥开工。" },
+    { "year": 1964, "en": "Washington drops the co-signed state numbers; California cuts US 101 back to Los Angeles.", "zh": "华盛顿取消共同标示的州道编号；加利福尼亚把 US 101 截至洛杉矶。" },
+    { "year": 1966, "en": "The Astoria–Megler Bridge opens on 29 July, completing US 101 from Los Angeles to Olympia.", "zh": "7 月 29 日阿斯托里亚—梅格勒大桥通车，US 101 自洛杉矶至奥林匹亚全线贯通。" },
+    { "year": 1974, "en": "US 101 moves onto the new Shelton bypass on 11 October.", "zh": "10 月 11 日，US 101 改走新建的谢尔顿绕城路。" },
+    { "year": 1993, "en": "Tolls on the Astoria–Megler Bridge end on 24 December.", "zh": "12 月 24 日，阿斯托里亚—梅格勒大桥停止收费。" },
+    { "year": 1999, "en": "The Sequim bypass opens, with elk-activated warning signals.", "zh": "锡奎姆绕城路通车，配有由马鹿触发的警示信号。" }
+  ]
+}

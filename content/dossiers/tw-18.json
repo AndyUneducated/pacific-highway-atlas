@@ -1,0 +1,111 @@
+{
+  "id": "tw-18",
+  "route": { "sys": "tw-provincial", "num": "18" },
+  "name": { "en": "Alishan Highway", "zh": "阿里山公路" },
+  "aka": [
+    { "en": "Chiayi–Yushan line of the New Central Cross-Island Highway", "zh": "新中横公路嘉义玉山线" },
+    { "en": "HSR Avenue (Taibao–Chiayi section)", "zh": "高铁大道（太保—嘉义段）" }
+  ],
+  "tagline": { "en": "From the Chiayi high-speed rail station across the plain and up 2,600 m to the Alishan forest and Tataka, the one line of the New Central Cross-Island scheme that was finished as planned", "zh": "自嘉义高铁站横越平原，爬升约 2,600 米至阿里山林区与塔塔加，是新中横三线中唯一按计划完工的一线" },
+  "termini": {
+    "start": { "at": [120.32, 23.47], "en": "Dongshiliao, Taibao, Chiayi County, by the Chiayi high-speed rail station", "zh": "嘉义县太保市东势寮，邻近高铁嘉义站" },
+    "end": { "at": [120.89, 23.49], "en": "Tataka, Xinyi, Nantou, at the Dongpu saddle where Provincial Highway 21 ends", "zh": "南投县信义乡塔塔加，位于东埔鞍部，台 21 线终点在此" }
+  },
+  "sections": [
+    {
+      "key": "character",
+      "en": [
+        "Provincial Highway 18 runs 108.559 km east from Taibao, by the Chiayi high-speed rail station, through Chiayi city and Zhongpu to Chukou at the foot of the mountains, then climbs past Longmei and Shizhuo to the Alishan forest recreation area and on to Tataka on the western edge of Yushan National Park. The first stretch, from Taibao to Chiayi, is a 50 m boulevard called HSR Avenue; the rest is a two-lane mountain road. Chukou divides the plain from the mountain section.",
+        "It is the road to Alishan, which drew 3.93 million visitors in 2012 by one report. For much of its length it runs near the Alishan Forest Railway, and once it opened in 1982 it drew away the railway's passengers and freight, leaving the railway in deficit."
+      ],
+      "zh": [
+        "台 18 线全长 108.559 公里，自太保高铁嘉义站附近向东，经嘉义市、中埔至山脚的触口，再经龙美、石棹爬升至阿里山国家森林游乐区，终于玉山国家公园西缘的塔塔加。太保至嘉义市一段为 50 米宽的高铁大道，其余为双车道山区公路。触口是平原段与山区段的分界。",
+        "这是前往阿里山的公路，据报道，2012 年大阿里山地区游客达 393 万人次。它有不少路段与阿里山森林铁路相近；1982 年通车后，铁路的客货运量随之流失，转为亏损。"
+      ]
+    },
+    {
+      "key": "history",
+      "en": [
+        "Before the highway there was a road of sorts. Between 1958 and 1961 a 3–4 m road from Chukou to Shizhuo was built with flour from the World Food Programme, given in place of wages, and was known as the flour road. This account comes from a school local-history site and has not been checked against official records.",
+        "The present road began as one of three lines of the New Central Cross-Island Highway, which the Executive Yuan approved in May 1978: Chiayi–Yushan, Shuili–Yushan and Yuli–Yushan, 265.6 km in all, meeting near Yushan. Work on the Chiayi line began in 1979 (Chinese Wikipedia gives September). In 1980 the meeting point was moved to the Dongpu saddle at 2,610 m, which shortened the line by 7.5 km. Chiayi to Alishan opened on 30 September 1982, and the whole line to Tataka was finished in June 1986. The plain section was 16.8 km and the mountain section 73.4 km.",
+        "The other lines fared worse. The Executive Yuan stopped the Yuli–Yushan line on 3 April 1986, and it was given up in 1991; Shuili–Yushan became Highway 21. On 16 October 2006 an Executive Yuan announcement added the HSR Avenue to the west end and made Tataka the east end, cancelling the planned link from Tataka to Shanfeng; Chinese Wikipedia calls it the first planned provincial line to be cancelled. The kilometre posts were renumbered in 2007, adding about 14 km."
+      ],
+      "zh": [
+        "公路出现之前已有简易道路。1958 年至 1961 年间，触口至石棹修筑了一条宽 3 至 4 米的道路，以世界粮食计划署的面粉代替工资，被称为“面粉路”。此说出自一所学校的乡土资料网站，未与官方记录核对。",
+        "今日的公路源自新中横公路三线之一。行政院于 1978 年 5 月核定新中横公路计划，包括嘉义玉山线、水里玉山线与玉里玉山线，共 265.6 公里，在玉山附近会合。嘉义玉山线于 1979 年动工（中文维基百科记为 9 月）。1980 年会合点改至海拔 2,610 米的东埔鞍部，路线因此缩短 7.5 公里。嘉义至阿里山段于 1982 年 9 月 30 日通车，至塔塔加的全线于 1986 年 6 月完工，其中平原段 16.8 公里，山区段 73.4 公里。",
+        "另外两线的命运不同。行政院于 1986 年 4 月 3 日决定玉里玉山线停工，1991 年放弃兴建；水里玉山线成为台 21 线。2006 年 10 月 16 日行政院公告，西端增编高铁大道，东端以塔塔加为终点，原规划的塔塔加至山风段废止；中文维基百科称这是第一条被废止的规划省道路段。2007 年里程桩重新编排，全线里程增加约 14 公里。"
+      ]
+    },
+    {
+      "key": "engineering",
+      "en": [
+        "The mountain section crosses weak, wet ground. The Wuwanzai stretch at about 43–45 km, named for its five hairpins, sits on a landslide of about 50 hectares that creeps about 1.8 cm each rainy season; in 2006 the United Daily News reported it ranked as the most dangerous road in Taiwan.",
+        "Typhoon Sinlaku destroyed the Wuhuliao bridge on 14 September 2008. A new bridge was begun about 300 m downstream in March 2009 and opened on 31 July 2010. Typhoon Morakot in August 2009 then cut the road at 37.5–40.1 km, 59.1 km and 71.1 km, losing 614 m of roadbed; at 71.1 km about 200 m of road went with a slip of about 20 hectares.",
+        "The best-known structure is the Fuguoe bridge, named from the Tsou word for the mountain hibiscus. It is a red half-through steel arch, 198 m long with a 160 m main span, 9 m wide, its arch rising 36 m above the deck. It opened on 15 January 2013, and the works were finished on 8 February."
+      ],
+      "zh": [
+        "山区段穿越软弱、潮湿的地层。约 43 至 45 公里处的五弯仔路段因有五个回头弯得名，坐落在约 50 公顷的崩塌地上，每逢雨季约滑动 1.8 厘米；2006 年《联合报》报道，此路段被评为全台最危险的道路。",
+        "2008 年 9 月 14 日，辛乐克台风冲毁乌乎辽桥。新桥于 2009 年 3 月在下游约 300 米处动工，2010 年 7 月 31 日通车。2009 年 8 月莫拉克台风又使 37.5 至 40.1 公里、59.1 公里与 71.1 公里处中断，共流失路基 614 米；71.1 公里处约 200 米路基随约 20 公顷的崩塌地滑落。",
+        "最知名的结构物是芙谷峩桥，桥名取自邹语的山芙蓉。它是一座红色中承式钢拱桥，全长 198 米，主跨 160 米，宽 9 米，拱顶高出桥面 36 米。2013 年 1 月 15 日通车，2 月 8 日全部完工。"
+      ]
+    },
+    {
+      "key": "money",
+      "en": [
+        "No final cost for the Chiayi line has been found in official sources. The New Central Cross-Island scheme as a whole was approved in 1978 at NT$3.62 billion over six years. A school local-history site puts the Chiayi–Alishan works at over NT$200 million over five years for about 80 km; that figure has not been checked against directorate records.",
+        "Repair money came after the typhoons. Repairing the Morakot damage was put at about NT$650 million, and under a programme to restore greater Alishan NT$1.87 billion went to Highways 18 and 21. The Fuguoe bridge cost over NT$280 million, by press reports at its opening."
+      ],
+      "zh": [
+        "官方资料中未查到嘉义玉山线的决算造价。新中横公路全案于 1978 年核定，经费 36.2 亿元，工期六年。一所学校的乡土资料网站称嘉义至阿里山段约 80 公里，工程费二亿余元，历时五年；此数字未与公路主管机关资料核对。",
+        "台风之后有修复经费。莫拉克风灾的修复经费约 6.5 亿元；“再造大阿里山风华计划”中有 18.7 亿元投入台 18 线与台 21 线。据通车时的报道，芙谷峩桥造价 2.8 亿余元。"
+      ]
+    },
+    {
+      "key": "drive",
+      "en": [
+        "Speed limits are 30 to 70 km/h. The plain section is fast; from Chukou the road climbs through tight bends, past the Wuwanzai hairpins. At Tataka it meets Highway 21 on the Dongpu saddle, the trailhead for Yushan; there is no road onward to the east."
+      ],
+      "zh": [
+        "全线限速每小时 30 至 70 公里。平原段车速快；自触口起道路爬升，弯道紧密，途经五弯仔回头弯。至塔塔加于东埔鞍部与台 21 线相接，这里是玉山登山口，再往东已无公路。"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "label": { "en": "Construction cost", "zh": "造价" },
+      "value": { "en": "Reported at over NT$200 million for the Chiayi–Alishan works (about 80 km, five years); not checked against directorate records. The whole New Central Cross-Island scheme was approved in 1978 at NT$3.62 billion.", "zh": "据报道，嘉义至阿里山段（约 80 公里，历时五年）工程费二亿余元；未与公路主管机关资料核对。新中横公路全案于 1978 年核定经费 36.2 亿元。" },
+      "source": "阿里山公路一頁瘡桑史, alishan.cyc.edu.tw (school local-history site); 《臺灣公路工程》 1988 report, as cited in Chinese Wikipedia, 新中横公路"
+    },
+    {
+      "label": { "en": "Funding", "zh": "出资方" },
+      "why": { "en": "The line was built by a works office of the provincial highway bureau under the 1978 Executive Yuan plan; no breakdown by funder has been found. The earlier flour road was paid in World Food Programme flour, by the school local-history account.", "zh": "该线依 1978 年行政院核定计划，由省公路局所设工程处兴建；未查到按出资方的分配。据学校乡土资料，早期的“面粉路”以世界粮食计划署面粉支付。" }
+    },
+    {
+      "label": { "en": "Length", "zh": "长度" },
+      "value": { "en": "108.559 km; about 14 km was added when the kilometre posts were renumbered in 2007", "zh": "108.559 公里；2007 年里程重编时增加约 14 公里" },
+      "source": "Directorate General of Highways route list, as cited in Chinese Wikipedia, 台18線; China Times, 7 June 2007"
+    },
+    {
+      "label": { "en": "Morakot repairs", "zh": "莫拉克风灾修复" },
+      "value": { "en": "About NT$650 million for 614 m of lost roadbed; NT$1.87 billion for Highways 18 and 21 under the greater Alishan restoration programme", "zh": "流失路基 614 米，修复经费约 6.5 亿元；“再造大阿里山风华计划”投入台 18、台 21 线 18.7 亿元" },
+      "source": "《臺灣公路工程》 vol. 40 no. 8, August 2014 (蔡宗成 et al.)"
+    },
+    {
+      "label": { "en": "Fuguoe bridge", "zh": "芙谷峩桥" },
+      "value": { "en": "198 m half-through steel arch, 160 m main span; over NT$280 million; opened 15 January 2013", "zh": "全长 198 米中承式钢拱桥，主跨 160 米；造价 2.8 亿余元；2013 年 1 月 15 日通车" },
+      "source": "Liberty Times, 15 January 2013; NTD Television, 17 January 2013; 《臺灣公路工程》 vol. 40 no. 8, August 2014"
+    }
+  ],
+  "timeline": [
+    { "year": 1958, "en": "Work begins on the flour road from Chukou to Shizhuo, finished in 1961 (school local-history account).", "zh": "触口至石棹的“面粉路”动工，1961 年完成（据学校乡土资料）。" },
+    { "year": 1978, "en": "In May the Executive Yuan approves the three-line New Central Cross-Island Highway, 265.6 km, at NT$3.62 billion.", "zh": "5 月，行政院核定新中横公路三线计划，共 265.6 公里，经费 36.2 亿元。" },
+    { "year": 1979, "en": "Work begins on the Chiayi–Yushan line.", "zh": "嘉义玉山线动工。" },
+    { "year": 1980, "en": "The junction of the three lines is moved to the Dongpu saddle, shortening the line by 7.5 km.", "zh": "三线会合点改至东埔鞍部，路线缩短 7.5 公里。" },
+    { "year": 1982, "en": "Chiayi to Alishan opens on 30 September.", "zh": "9 月 30 日，嘉义至阿里山段通车。" },
+    { "year": 1986, "en": "The whole line to Tataka is finished in June; the Yuli–Yushan line is stopped in April.", "zh": "6 月，至塔塔加全线完工；4 月，玉里玉山线停工。" },
+    { "year": 2006, "en": "On 16 October the HSR Avenue is added and Tataka made the end; Tataka–Shanfeng is cancelled.", "zh": "10 月 16 日，增编高铁大道，终点定于塔塔加，塔塔加至山风段废止。" },
+    { "year": 2008, "en": "Typhoon Sinlaku destroys the Wuhuliao bridge on 14 September; its replacement opens in 2010.", "zh": "9 月 14 日，辛乐克台风冲毁乌乎辽桥；新桥于 2010 年通车。" },
+    { "year": 2009, "en": "Typhoon Morakot cuts the road in three places, losing 614 m of roadbed.", "zh": "莫拉克台风造成三处中断，流失路基 614 米。" },
+    { "year": 2013, "en": "The Fuguoe steel arch bridge opens on 15 January.", "zh": "1 月 15 日，芙谷峩钢拱桥通车。" }
+  ]
+}
