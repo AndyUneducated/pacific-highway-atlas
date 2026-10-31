@@ -1,8 +1,8 @@
 <div align="center">
 
-<h1>Highway Atlas</h1>
+<h1>Pacific Highway Atlas</h1>
 
-<h3><em>the highway network of North America</em></h3>
+<h3><em>numbered highways on both sides of the Pacific</em></h3>
 
 <p>
 An interactive, bilingual atlas of every numbered highway in the United States, Canada and
@@ -14,7 +14,7 @@ highways and provincial roads, drawn from OpenStreetMap, Taiwan's 國道 and 省
 Kong's strategic routes.
 </p>
 
-[![live site](https://img.shields.io/badge/live-andyuneducated.github.io%2Finterstate--atlas-35e7ff?style=for-the-badge&logo=githubpages&logoColor=05070c&labelColor=0b1220)](https://andyuneducated.github.io/interstate-atlas/)
+[![live site](https://img.shields.io/badge/live-andyuneducated.github.io%2Fpacific--highway--atlas-35e7ff?style=for-the-badge&logo=githubpages&logoColor=05070c&labelColor=0b1220)](https://andyuneducated.github.io/pacific-highway-atlas/)
 [![architecture](https://img.shields.io/badge/docs-ARCHITECTURE-a78bfa?style=for-the-badge&logo=readthedocs&logoColor=05070c&labelColor=0b1220)](docs/ARCHITECTURE.md)
 [![accuracy](https://img.shields.io/badge/docs-ACCURACY-4fe3b0?style=for-the-badge&logo=readthedocs&logoColor=05070c&labelColor=0b1220)](docs/ACCURACY.md)
 
@@ -38,7 +38,7 @@ Kong's strategic routes.
 ![code licence](https://img.shields.io/badge/code-MIT-lightgrey?style=flat-square&labelColor=0b1220)
 ![content licence](https://img.shields.io/badge/content-CC%20BY%204.0-lightgrey?style=flat-square&labelColor=0b1220)
 
-<sub><b>[Live site](https://andyuneducated.github.io/interstate-atlas/)</b> ·
+<sub><b>[Live site](https://andyuneducated.github.io/pacific-highway-atlas/)</b> ·
 [Architecture](docs/ARCHITECTURE.md) ·
 [Accuracy](docs/ACCURACY.md) ·
 [Data sources and decisions](docs/DATA-SOURCES.md) ·
@@ -50,7 +50,7 @@ Kong's strategic routes.
 
 <br/>
 
-[![The Interstate system and the Trans-Canada Highway drawn across North America](docs/img/hero.png)](https://andyuneducated.github.io/interstate-atlas/)
+[![The Interstate system and the Trans-Canada Highway drawn across North America](docs/img/hero.png)](https://andyuneducated.github.io/pacific-highway-atlas/)
 
 <sub>The Interstates in cyan, the Trans-Canada in red, on the continent they actually cover.</sub>
 

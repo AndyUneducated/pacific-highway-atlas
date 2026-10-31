@@ -28,7 +28,7 @@ for (const url of SERVERS) {
     const r = await fetch(url, {
       method: 'POST',
       body: new URLSearchParams({ data: QUERY }),
-      headers: { 'User-Agent': 'interstate-atlas/1.0' },
+      headers: { 'User-Agent': 'pacific-highway-atlas/1.0' },
     });
     if (!r.ok) { console.log(`${url}: HTTP ${r.status}`); continue; }
     elements = (await r.json()).elements;

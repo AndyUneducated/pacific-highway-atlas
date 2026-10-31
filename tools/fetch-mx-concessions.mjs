@@ -38,7 +38,7 @@ const NUMBER = /(?:carretera\s+federal\s+(?:n[úu]mero\s+|no\.?\s*)?(?:m[eé]x[\
 const BUILDS = /^\W*(?:\(i\)\s*)?constru/i;
 
 async function page() {
-  const res = await fetch(PAGE, { headers: { 'user-agent': 'Mozilla/5.0 (highway-atlas data build)' } });
+  const res = await fetch(PAGE, { headers: { 'user-agent': 'Mozilla/5.0 (pacific-highway-atlas data build)' } });
   if (!res.ok) throw new Error(`HTTP ${res.status} for ${PAGE}`);
   const buf = new Uint8Array(await res.arrayBuffer());
   const utf8 = new TextDecoder('utf-8').decode(buf);

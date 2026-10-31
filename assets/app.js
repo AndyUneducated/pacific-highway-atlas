@@ -1,4 +1,4 @@
-/* Highway Atlas — map surface, route selection, search.
+/* Pacific Highway Atlas — map surface, route selection, search.
    Detail panel, overlay sheets and the flythrough live in their own modules. */
 
 import {
@@ -90,8 +90,8 @@ function applyStaticStrings() {
   document.getElementById('bootTitle').textContent = t('boot.title');
   document.getElementById('bootSub').textContent = t('boot.sub');
   document.title = getLang() === 'zh'
-    ? '北美公路图谱 — 北美国家公路网'
-    : 'Highway Atlas — the highway network of North America';
+    ? '环太平洋公路图谱 — 太平洋两岸的编号公路网'
+    : 'Pacific Highway Atlas — numbered highways on both sides of the Pacific';
 }
 
 export function relabel() {

@@ -1,8 +1,8 @@
 {
-  "name": "highway-atlas",
+  "name": "pacific-highway-atlas",
   "version": "1.0.0",
   "description": "An interactive bilingual atlas of the North American highway network",
-  "homepage": "https://andyuneducated.github.io/interstate-atlas/",
+  "homepage": "https://andyuneducated.github.io/pacific-highway-atlas/",
   "license": "MIT",
   "private": true,
   "type": "module",

@@ -1,6 +1,6 @@
 # Architecture
 
-How Highway Atlas is put together, and why it is put together that way. This document
+How Pacific Highway Atlas is put together, and why it is put together that way. This document
 describes the parts that do not change with a rebuild: the shape of the pipeline, the
 contract between the build and the client, and the rules the data has to obey.
 

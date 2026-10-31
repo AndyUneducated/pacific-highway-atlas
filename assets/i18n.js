@@ -7,7 +7,7 @@ import { isPerJuris, KM_PER_MI } from './schema.js';
 
 export const STRINGS = {
   en: {
-    'boot.title': 'HIGHWAY ATLAS',
+    'boot.title': 'PACIFIC HIGHWAY ATLAS',
     'boot.sub': 'assembling the road network',
     'boot.step.index': 'reading route index',
     'boot.step.geo': 'loading interstate geometry',
@@ -749,7 +749,7 @@ export const STRINGS = {
   },
 
   zh: {
-    'boot.title': '北美公路图谱',
+    'boot.title': '环太平洋公路图谱',
     'boot.sub': '正在装配公路网',
     'boot.step.index': '读取路线索引',
     'boot.step.geo': '加载州际公路几何数据',

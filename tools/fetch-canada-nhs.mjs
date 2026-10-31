@@ -27,7 +27,7 @@ const SRC = join(import.meta.dirname, 'src', 'ca');
 const REF = join(import.meta.dirname, '..', 'content', 'reference');
 const LAYER = 'https://maps-cartes.services.geo.ca/server_serveur/rest/services/TC/canada_national_highway_system_en/MapServer/0';
 const PAGE = 1000;
-const HEADERS = { 'user-agent': 'highway-atlas/1.0 (open data build script)' };
+const HEADERS = { 'user-agent': 'pacific-highway-atlas/1.0 (open data build script)' };
 
 const BLANK = new Set(['Unknown', 'None', 'Inconnu', 'Aucun', '']);
 export const clean = (v) => {

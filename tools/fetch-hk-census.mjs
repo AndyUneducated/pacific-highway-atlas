@@ -32,7 +32,7 @@ const SRC = join(import.meta.dirname, 'src', 'hk');
 const OUT = join('content', 'reference', 'hk-census.json');
 
 const html = async (url) => {
-  const r = await fetch(url, { headers: { 'User-Agent': 'interstate-atlas/1.0' } });
+  const r = await fetch(url, { headers: { 'User-Agent': 'pacific-highway-atlas/1.0' } });
   if (!r.ok) throw new Error(`${url}: HTTP ${r.status}`);
   return r.text();
 };
