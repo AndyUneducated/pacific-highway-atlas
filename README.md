@@ -331,7 +331,7 @@ sit in the repository. The scripts below rebuild the *data*.
 | `npm run propose:tolls` | proposes concession-to-route matches for review | `content/reference/mx-concession-matches.json` |
 | `npm run check:mx` | cross-checks Mexican route numbers against SICT | `content/reference/mx-crosscheck.json` |
 | `npm run serve` | serves the repository on `http://localhost:8787` | — |
-| `npm test` | i18n parity, content validation, cross-file data consistency, README figures | `README.md` figures |
+| `npm test` | unit tests (`test/`), i18n parity, content validation, cross-file data consistency, README figures; CI runs it on every push | `README.md` figures |
 | `npm run verify` | drives the served site in headless Chromium | `tools/shots/` (gitignored) |
 
 ```sh

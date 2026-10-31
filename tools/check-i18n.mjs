@@ -14,23 +14,15 @@
 
    The third is a warning rather than an error. Some keys are assembled at
    runtime from a system or tier id, so they are real even though no literal
-   in the source spells them out; those prefixes are listed in BUILT below. */
+   in the source spells them out: any template literal that opens with a
+   dotted prefix before its first ${…} counts every key under that prefix
+   as read. */
 
 import { readdir, readFile } from 'node:fs/promises';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const ASSETS = join(dirname(fileURLToPath(import.meta.url)), '..', 'assets');
-
-// Keys assembled at runtime from a system, tier or region id rather than
-// written out anywhere. Each entry is the literal prefix that appears in the
-// source as `t(\`prefix${...}\`)`, so nothing below can be reported unread.
-const BUILT = [
-  'sys.', 'comp.', 'sect.', 'ca.nhs.', 'jump.', 'src.',
-  'dt.from', 'dt.to', 'hp.good', 'hp.fair', 'hp.poor', 'ca.tr.note.', 'mx.admin.',
-  'nb.ca.lv.', 'toll.kind.', 'toll.cur.', 'toll.plaza.admin.', 'toll.plaza.mode.', 'toll.plaza.dir.', 'toll.plaza.place.', 'bridge.kind.', 'xing.border.', 'xing.precision.', 'toast.base.',
-  'docs.tab.', 'dv.f.', 'dv.flow.', 'dv.cross.', 'dv.v.', 'dv.stage.', 'dv.reg.', 'dv.gk.',
-];
 
 async function main() {
   const { STRINGS } = await import('../assets/i18n.js');
@@ -70,10 +62,12 @@ async function main() {
   // part only flags strings nothing mentions at all.
   const asked = new Set();
   const literals = new Set();
+  const built = new Set();
   const files = (await readdir(ASSETS)).filter((f) => f.endsWith('.js'));
   for (const f of files) {
     const src = await readFile(join(ASSETS, f), 'utf8');
     for (const m of src.matchAll(/\bt\(\s*['"`]([\w.-]+)['"`]/g)) asked.add(m[1]);
+    for (const m of src.matchAll(/`([\w-]+\.[\w.-]*)\$\{/g)) built.add(m[1]);
     // The table's own definitions are not usages. Scanning i18n.js for
     // literals made every key match itself, so nothing was ever reported
     // unread and the warning was dead weight that looked like a clean bill.
@@ -96,7 +90,7 @@ async function main() {
   // --- keys nothing asks for ---
   for (const k of Object.keys(STRINGS.en)) {
     if (used.has(k)) continue;
-    if (BUILT.some((p) => k.startsWith(p))) continue;
+    if ([...built].some((p) => k.startsWith(p))) continue;
     warnings.push(`${k}: defined but never read`);
   }
 

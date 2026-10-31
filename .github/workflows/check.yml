@@ -1,0 +1,20 @@
+name: check
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      # npm test regenerates the README figures, the coverage table and the
+      # docs page from data/; a diff afterwards means they were committed stale.
+      - run: npm test
+      - run: git diff --exit-code

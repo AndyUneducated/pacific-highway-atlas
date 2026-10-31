@@ -783,19 +783,22 @@ one produced a visibly wrong atlas before it was handled.
 
 ## 7. Checks
 
-There is no CI. The checks are five scripts, run by hand, and each one fails loudly
-rather than warning quietly.
+The checks are scripts that fail loudly rather than warning quietly. `npm test` runs all
+but the last; CI (`.github/workflows/check.yml`) runs `npm test` on every push and then
+fails if it left a diff, which means a generated figure or page was committed stale.
 
 | Command | Fails on | Also reports |
 | --- | --- | --- |
-| `node tools/check-i18n.mjs` | a key in one language table and not the other; placeholders that differ between the two; a key the code asks `t()` for that no table defines | keys both tables define that nothing reads |
+| `node --test "test/*.test.mjs"` | the stitching cases of [§3](#3-from-fragments-to-routes) as synthetic roads (a ring, a divided highway, a bridged hole, an out-and-back line, switchbacks); the TIGER, RNC, OSM and Taiwanese designation parsers on real spellings; CSV decoding; unit conversion and labels; `data/index.json` written with the fields `schema.js` declares | — |
+| `node tools/check-i18n.mjs` | a key in one language table and not the other; placeholders that differ between the two; a key the code asks `t()` for that no table defines | keys both tables define that nothing reads, counting a template literal's dotted prefix as reading every key under it |
 | `node tools/build-content.mjs` | a figure with a value but no source; a figure with neither a value nor a stated reason for its absence; a localised field missing either language; a dossier whose route cannot be resolved, or that resolves to a route another dossier already claims | English and Chinese paragraph counts that disagree; cost claims superseded by the FHWA table; East Asian termini without an `at` coordinate (D-77). `--check` validates without writing `data/` |
 | `node tools/check-data.mjs` | a route id used twice; a geometry file and the index disagreeing on which routes it holds, or a per-jurisdiction file no route belongs to; a remnant under half a mile beside a longer piece of its number; a route filed in no jurisdiction; an id in dossiers, elevation, timeline, tolls, crossings or served places missing from the index | — |
 | `node tools/readme-figures.mjs` | a README marker with no generator, or a generator with no marker; with `--check`, figures that no longer match the build | — |
-| `node tools/verify.mjs` | any of 58 steps against the real site in headless Chromium | console errors and failed network requests |
+| `coverage-figures.mjs`, `build-insights.mjs`, `build-docs.mjs` | the Chinese docs mirror drifting in shape from the English (`build-docs`) | they rewrite the coverage table, `data/insights.json` and `data/docs.json` |
+| `node tools/verify.mjs` | any step against the real site in headless Chromium | console errors and failed network requests |
 
-`npm test` runs the first four, and the fourth rewrites the README's figures from the build.
-The fifth needs `npm run serve` in another terminal.
+`verify.mjs` needs `npm run serve` in another terminal and `PW_CHANNEL=chrome` where
+Playwright's own Chromium is not installed; it takes about seven minutes.
 
 **What the checks are guarding.** The i18n check exists because bilingual parity is the
 kind of requirement that rots silently: a missing key falls back to English at runtime and
@@ -808,23 +811,11 @@ writing prose that ignores it.
 **Why `verify.mjs` asserts the way it does.** It reads parsed source data rather than
 rendered tiles, because `querySourceFeatures` reports zero both when loading failed and
 when the map has simply not repainted yet — and headless, with no GPU, repaints come when
-they come. Its 58 steps cover boot, search, selection, detail metrics, termini, official
-cost figures on routes with and without a dossier, the numbering explainer, the dashboard,
-the buildout scrubber opening and closing, the command palette, layer toggling, the
-language switch, the flythrough, terrain on and off, per-state loading, marker overflow,
-search reaching systems that are switched off, the search list folding until used and after a pick, basemap
-switching, the Alaska jump and its four unsigned Interstates, HPMS figures on a US route,
-the Trans-Canada drawing by default, Canadian metrics, per-province loading, traffic
-on a route in a publishing province, the unit switch, list sorting and following the map,
-the colour key following the region and hiding the interface, the buildout run stopping at its end, and the
-border crossing, toll, toll plaza and bridge layers with their popups and panel sections. Screenshots go to
-`tools/shots/` as diagnostics, not assertions; that directory is gitignored.
+they come. Each step is named for what a reader would see; the list in the script is the
+specification. Screenshots go to `tools/shots/` as diagnostics, not assertions.
 
-**What is not checked.** There is no test of the stitching itself beyond the accuracy
-summary the build prints and writes into `data/stats.json` — the median, decile and
-within-tolerance spread of measured length against the FHWA register, over every route the
-register covers. That is deliberate: reporting it from the build rather than from a
-sentence typed into the interface or the README means the claim cannot drift away from the
-data. When
-the geometry improves the page saying how good it is improves with it, and when it
-regresses, that shows too.
+**What the unit tests cannot say.** They pin the stitching rules on synthetic roads; how well
+the rules fit the real network is the accuracy summary the build writes into
+`data/stats.json` — measured length against the FHWA register over every route it covers.
+That figure is reported from the build, so when the geometry improves or regresses, the
+page saying how good it is moves with it.

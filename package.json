@@ -6,6 +6,9 @@
   "license": "MIT",
   "private": true,
   "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
   "scripts": {
     "fetch": "node tools/fetch-source.mjs && node tools/fetch-fhwa.mjs && node tools/fetch-hpms.mjs",
     "fetch:ca": "node tools/fetch-canada.mjs && node tools/fetch-canada-nhs.mjs && node tools/fetch-canada-traffic.mjs && node tools/fetch-canada-lengths.mjs",
@@ -30,7 +33,8 @@
     "check:us": "node tools/check-us-coverage.mjs",
     "docs": "node tools/coverage-figures.mjs && node tools/build-insights.mjs && node tools/build-docs.mjs",
     "check:data": "node tools/check-data.mjs",
-    "test": "node tools/check-i18n.mjs && node tools/build-content.mjs && node tools/check-data.mjs && node tools/readme-figures.mjs && node tools/coverage-figures.mjs && node tools/build-insights.mjs && node tools/build-docs.mjs"
+    "test:unit": "node --test \"test/*.test.mjs\"",
+    "test": "node --test \"test/*.test.mjs\" && node tools/check-i18n.mjs && node tools/build-content.mjs && node tools/check-data.mjs && node tools/readme-figures.mjs && node tools/coverage-figures.mjs && node tools/build-insights.mjs && node tools/build-docs.mjs"
   },
   "dependencies": {
     "pngjs": "^7.0.0",
