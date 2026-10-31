@@ -37,11 +37,11 @@
     {
       "key": "history",
       "en": [
-        "The road through Shennongjia was cut in the 1960s. A local news portal reports that in 1962 Hubei set up road-building commands and sent more than 7,000 workers into the forest; over more than three years they opened the road that became G209 and a second trunk road through the forest, and more than 300 of them died. A local history site dates the road through Shennongjia to 1966. Neither is an official source, and the figures have not been checked against one; the Shennongjia forest district itself was created in 1970.",
+        "The road through Shennongjia was cut in the 1960s. The forest district's media centre says that in 1962 the Xingshan and Fang county road-building commands led more than 6,000 workers into the forest; a 2025 article from the same centre speaks of more than 7,000 called up from 1960. The 198 km trunk road through the forest was opened in October 1966 with a ceremony at Hongping (same centre, 2025). A local news portal adds that the work took more than three years, opened the road that became G209 and a second trunk road, and cost more than 300 lives; that toll has not been checked against an official source. The Shennongjia forest district itself was created in 1970.",
         "In 2013 the national road plan moved the northern end from Hohhot to Sonid Left Banner. Since then provinces have been upgrading the road in sections: in Shanxi the Fangshan–Lishi section opened on 28 February 2023 (Baidu Baike, weak), and the Lüliang realignment and the Ji county bypass followed."
       ],
       "zh": [
-        "穿越神农架的公路修于 20 世纪 60 年代。据一家本地资讯网站，1962 年湖北成立筑路指挥部，7000 多名民工进入林区，历时三年多修通了后来的 209 国道和另一条林区干线，300 多人为此献出生命。另一家地方历史网站称神农架公路于 1966 年修通。两者都不是官方来源，数字未与官方资料核对；神农架林区本身设立于 1970 年。",
+        "穿越神农架的公路修于 20 世纪 60 年代。据神农架林区融媒体中心，1962 年兴山、房县指挥部率 6000 余名工人进山修路；该中心 2025 年的一篇报道则称，1960 年起调集了 7000 余人的筑路大军。1966 年 10 月，长 198 公里的林区主干线贯通，在红坪镇举行通车仪式（同一中心，2025 年）。一家本地资讯网站称，工程历时三年多，修通了后来的 209 国道和另一条林区干线，300 多人为此献出生命；该牺牲人数未与官方资料核对。神农架林区本身设立于 1970 年。",
         "2013 年国道网规划把北端由呼和浩特移到苏尼特左旗。此后各省分段改造：山西方山至离石段 2023 年 2 月 28 日通车（据百度百科，为弱来源），随后有吕梁改线和吉县绕城等工程。"
       ]
     },
@@ -86,13 +86,13 @@
     },
     {
       "label": { "en": "Shennongjia road builders, 1962–1960s", "zh": "神农架筑路民工（1962 年起）" },
-      "value": { "en": "Reported at more than 7,000 workers and more than 300 dead; not checked against an official source.", "zh": "据报道 7000 多名民工、300 多人牺牲；未与官方资料核对。" },
-      "source": "神农架本地宝 (local portal, weak)"
+      "value": { "en": "More than 6,000 workers in 1962 (Shennongjia media centre, 2021); more than 7,000 from 1960 (the same centre, 2025, and a local portal). Deaths reported at more than 300 by the local portal; not checked against an official source.", "zh": "1962 年 6000 余名工人（神农架林区融媒体中心，2021 年）；1960 年起 7000 余人（同一中心，2025 年；另见一家本地资讯网站）。本地资讯网站称 300 多人牺牲；该数字未与官方资料核对。" },
+      "source": "Shennongjia Forest District Media Centre, via the district discipline inspection commission site, 27 July 2021; Shennongjia Forest District Media Centre (snjxww.cn), 25 July 2025; 神农架本地宝 (local portal, weak)"
     }
   ],
   "timeline": [
-    { "year": 1962, "en": "Hubei sets up road-building commands for Shennongjia (local report).", "zh": "湖北成立神农架筑路指挥部（据地方报道）。" },
-    { "year": 1966, "en": "A road through Shennongjia is opened (local history site).", "zh": "穿越神农架的公路修通（据地方历史网站）。" },
+    { "year": 1962, "en": "Hubei sets up the Xingshan and Fang county road-building commands for Shennongjia.", "zh": "湖北成立开发神农架的兴山、房县指挥部。" },
+    { "year": 1966, "en": "The 198 km trunk road through Shennongjia opens in October.", "zh": "10 月，神农架长 198 公里的林区主干线贯通。" },
     { "year": 1970, "en": "The Shennongjia forest district is created.", "zh": "神农架林区设立。" },
     { "year": 2006, "en": "Rebuilding of the Muyu–Zhaojun village section of the Shennongjia–Yichang road begins in March.", "zh": "3 月，神宜公路木鱼至昭君村段开始改建。" },
     { "year": 2008, "en": "The Shennongjia–Yichang road is made a Ministry of Transport demonstration road in January.", "zh": "1 月，神宜公路被交通部列为示范公路。" },

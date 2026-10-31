@@ -38,11 +38,11 @@
       "key": "money",
       "en": [
         "Over La Rumorosa a second carriageway between El Centinela and La Rumorosa was inaugurated on 21 July 1996, the year the Baja California state trust FIARUM was created to run the tolled road, 2D. Its concession was granted on 14 July 2000 and renewed on 18 August 2023 to run until 2053.",
-        "In the Sonora desert, the 192 km between Sonoyta and San Luis Río Colorado were widened from 7 to 12 metres between April 2008 and April 2014, for a road carrying more than 8,500 vehicles a day. The reported cost differs between sources: Revista Infraestructura gives 2,400 million pesos, while El Economista wrote on 20 April 2014 of ‘more than 1,400 million’."
+        "In the Sonora desert, the 192 km between Sonoyta and San Luis Río Colorado were widened from 7 to 12 metres between April 2008 and April 2014, for a road carrying more than 8,500 vehicles a day. The ministry's 2013–2014 annual report gives the cost as 2,400 million pesos (2014); its highways directorate's record of the works of 2012–2018 lists 2,275.4 million pesos."
       ],
       "zh": [
         "在拉鲁莫罗萨，埃尔森蒂内拉至拉鲁莫罗萨之间的第二幅路面于 1996 年 7 月 21 日落成；同年，下加利福尼亚州设立信托基金 FIARUM，负责运营收费路 2D。其特许于 2000 年 7 月 14 日授予，并于 2023 年 8 月 18 日续期至 2053 年。",
-        "在索诺拉沙漠，索诺伊塔至圣路易斯里奥科罗拉多的 192 公里于 2008 年 4 月至 2014 年 4 月间由 7 米拓宽至 12 米，这段路每天通行逾 8,500 辆车。各方报道的造价不一：《Revista Infraestructura》作 24 亿比索，《El Economista》2014 年 4 月 20 日则称“逾 14 亿”。"
+        "在索诺拉沙漠，索诺伊塔至圣路易斯里奥科罗拉多的 192 公里于 2008 年 4 月至 2014 年 4 月间由 7 米拓宽至 12 米，这段路每天通行逾 8,500 辆车。交通部 2013—2014 年度工作报告给出的造价为 24 亿比索（2014 年）；该部公路总局 2012—2018 年工程档案所列金额为 22.754 亿比索。"
       ]
     }
   ],
@@ -63,8 +63,8 @@
     },
     {
       "label": { "en": "Sonoyta–San Luis Río Colorado modernisation", "zh": "索诺伊塔—圣路易斯里奥科罗拉多段改造" },
-      "value": { "en": "192 km widened from 7 to 12 m, April 2008 to April 2014. Cost reported at 2,400 million pesos by Revista Infraestructura and at more than 1,400 million pesos by El Economista (2014); not checked against SCT accounts", "zh": "192 公里，由 7 米拓宽至 12 米，2008 年 4 月至 2014 年 4 月。造价据《Revista Infraestructura》为 24 亿比索，据《El Economista》（2014 年）逾 14 亿比索；未与交通部账目核对" },
-      "source": "Revista Infraestructura; El Economista, 20 April 2014"
+      "value": { "en": "192 km widened from 7 to 12 m, April 2008 to April 2014. Cost 2,400 million pesos (2014) according to the SCT's 2013–2014 annual report; the SCT highways directorate's 2012–2018 record lists 2,275.4 million pesos", "zh": "192 公里，由 7 米拓宽至 12 米，2008 年 4 月至 2014 年 4 月。据交通部 2013—2014 年度工作报告，造价 24 亿比索（2014 年）；交通部公路总局 2012—2018 年工程档案所列金额为 22.754 亿比索" },
+      "source": "SCT, 2o Informe de Labores 2013–2014, 2014; SCT, Dirección General de Carreteras, Obras de Construcción y Modernización de Carreteras: Memoria documental 2012–2018, November 2018"
     },
     {
       "label": { "en": "Cuesta de Alducin, La Rumorosa", "zh": "拉鲁莫罗萨阿尔杜辛坡" },

@@ -25,11 +25,11 @@
     {
       "key": "history",
       "en": [
-        "The Sierra Gorda was long hard to reach. Its best-known monuments are the five Franciscan missions where friars under Junípero Serra worked from 1750, among them Jalpan and Landa; they were inscribed by UNESCO as a World Heritage Site in 2003. A tourist guide to Jalpan says a dirt road joined the town to the capital in 1880. The travel magazine Travesías writes that the first motor vehicles reached the sierra in the 1940s and that the paved road from San Juan del Río to Xilitla was inaugurated in 1967.",
+        "The Sierra Gorda was long hard to reach. Its best-known monuments are the five Franciscan missions where friars under Junípero Serra worked from 1750, among them Jalpan and Landa; they were inscribed by UNESCO as a World Heritage Site in 2003. A tourist guide to Jalpan says a dirt road joined the town to the capital in 1880. The travel magazine Travesías writes that the first motor vehicles reached the sierra in the 1940s and that the paved road from San Juan del Río to Xilitla was inaugurated in 1967. The presidents' annual reports to Congress give the stages: San Juan del Río–Xilitla was among the year's main road works in 1963, it was paved as far as Jalpan by September 1966, and the report of September 1968 records that the paving of the San Juan del Río–Tamazunchale road had been finished.",
         "Since then the work has been widening and repair. In January 2021 the federal environment ministry approved, with conditions, the widening of kilometres 180 to 195 in Jalpan to a two-lane road 13 m wide. In July 2026 the federal infrastructure ministry reported that the resurfacing of kilometres 138 to 163 near Pinal de Amoles was 91 per cent complete."
       ],
       "zh": [
-        "谢拉戈尔达山区长期交通不便。这里最著名的古迹是五座方济各会传教站，胡尼佩罗·塞拉带领的修士自 1750 年起在此工作，其中包括哈尔潘和兰达；它们于 2003 年被联合国教科文组织列为世界遗产。一份哈尔潘旅游指南称，1880 年有一条土路把该镇与首府连接起来。旅行杂志《Travesías》写道，最早的汽车于 1940 年代开进山区，圣胡安德尔里奥至希利特拉的铺装公路于 1967 年落成。",
+        "谢拉戈尔达山区长期交通不便。这里最著名的古迹是五座方济各会传教站，胡尼佩罗·塞拉带领的修士自 1750 年起在此工作，其中包括哈尔潘和兰达；它们于 2003 年被联合国教科文组织列为世界遗产。一份哈尔潘旅游指南称，1880 年有一条土路把该镇与首府连接起来。旅行杂志《Travesías》写道，最早的汽车于 1940 年代开进山区，圣胡安德尔里奥至希利特拉的铺装公路于 1967 年落成。历任总统向国会提交的年度政府报告记下了各个阶段：1963 年，圣胡安德尔里奥—希利特拉公路列入当年主要公路工程；到 1966 年 9 月，路面已铺到哈尔潘；1968 年 9 月的报告则记载，圣胡安德尔里奥—塔马孙查莱公路的路面铺装已经完成。",
         "此后的工作主要是拓宽和维修。2021 年 1 月，联邦环境部有条件批准将哈尔潘境内 180 至 195 公里处拓宽为宽 13 米的双车道公路。2026 年 7 月，联邦基础设施部报告，皮纳尔德阿莫莱斯附近 138 至 163 公里处的路面翻修已完成 91%。"
       ]
     },
@@ -59,8 +59,8 @@
     },
     {
       "label": { "en": "Paved road San Juan del Río–Xilitla", "zh": "圣胡安德尔里奥—希利特拉铺装公路" },
-      "value": { "en": "Reported inaugurated in 1967 by Travesías; not checked against SCT records", "zh": "据《Travesías》于 1967 年落成；未与交通部记录核对" },
-      "source": "Travesías, on the Sierra Gorda of Querétaro"
+      "value": { "en": "Paved as far as Jalpan by September 1966; paving of San Juan del Río–Tamazunchale reported finished in the presidential report of 1 September 1968. Reported inaugurated in 1967 by Travesías; no inauguration date found in official records", "zh": "到 1966 年 9 月已铺装至哈尔潘；1968 年 9 月 1 日的总统政府报告称圣胡安德尔里奥—塔马孙查莱公路的铺装已完成。据《Travesías》于 1967 年落成；官方记录中未找到落成日期" },
+      "source": "Gustavo Díaz Ordaz, Second and Fourth Informes de Gobierno, 1 September 1966 and 1 September 1968, in Cámara de Diputados, Informes presidenciales: Gustavo Díaz Ordaz; Travesías, on the Sierra Gorda of Querétaro"
     },
     {
       "label": { "en": "Jalpan widening, km 180–195", "zh": "哈尔潘拓宽工程（180—195 公里）" },
@@ -76,7 +76,9 @@
   "timeline": [
     { "year": 1750, "en": "Franciscans under Junípero Serra begin their work at the Sierra Gorda missions.", "zh": "方济各会士在胡尼佩罗·塞拉带领下开始在谢拉戈尔达山区的传教站工作。" },
     { "year": 1880, "en": "A dirt road is reported to link Jalpan with the capital.", "zh": "据记载，一条土路将哈尔潘与首府相连。" },
+    { "year": 1966, "en": "The president reports in September that the road is paved as far as Jalpan.", "zh": "9 月，总统报告称公路已铺装至哈尔潘。" },
     { "year": 1967, "en": "The paved road from San Juan del Río to Xilitla is reported inaugurated.", "zh": "据报道，圣胡安德尔里奥至希利特拉的铺装公路落成。" },
+    { "year": 1968, "en": "The president reports in September that paving of the San Juan del Río–Tamazunchale road is finished.", "zh": "9 月，总统报告称圣胡安德尔里奥—塔马孙查莱公路的铺装已完成。" },
     { "year": 2003, "en": "UNESCO inscribes the Franciscan missions of the Sierra Gorda as a World Heritage Site.", "zh": "联合国教科文组织将谢拉戈尔达方济各会传教站列为世界遗产。" },
     { "year": 2021, "en": "The widening of km 180–195 in Jalpan receives environmental approval in January.", "zh": "1 月，哈尔潘境内 180—195 公里拓宽工程获得环境许可。" },
     { "year": 2026, "en": "Resurfacing near Pinal de Amoles is reported 91 per cent complete in July.", "zh": "7 月报道，皮纳尔德阿莫莱斯附近的路面翻修完成 91%。" }

@@ -49,11 +49,11 @@
     {
       "key": "money",
       "en": [
-        "No total has been published; the ring was built over two decades as separate projects by different companies. The figures found are for the river crossing: the riverside tunnel was budgeted at about 7.2625 billion yuan when work began in 2014, and the seven main-line contracts for the Pudong section were let for 5.735 billion yuan in 2020. A project database gives the Pudong section's total investment as 13.024 billion; that figure has not been found in an official source.",
+        "No total has been published; the ring was built over two decades as separate projects by different companies. The figures found are for the river crossing: the riverside tunnel was budgeted at about 7.2625 billion yuan when work began in 2014, and the seven main-line contracts for the Pudong section were let for 5.735 billion yuan in 2020. In a 2023 bond prospectus its investor, the Shanghai Chengtou Highway Investment group, gave the Pudong section's planned total investment as 12.582 billion yuan. A project database gives 13.024 billion; that figure has not been found in an official source.",
         "Each piece had its own investor. The 2009 Pudong section was invested and built by the Shanghai East Ring Expressway Development Co. The riverside tunnel was invested by the Shanghai Chengtou Highway Investment group. The Pudong section's main line is being paid for by the Shanghai Chengtou group and its parallel ground-level roads by the Pudong New Area."
       ],
       "zh": [
-        "全线没有公开的总造价；这条环线二十年间由不同公司分项目建设。查到的数字集中在越江段：郊环隧道 2014 年开工时总投资约 72.625 亿元；浦东段主线 7 个施工标段于 2020 年中标，总中标金额 57.35 亿元。一个工程项目数据库称浦东段投资 130.24 亿元，该数字未在官方来源中查到。",
+        "全线没有公开的总造价；这条环线二十年间由不同公司分项目建设。查到的数字集中在越江段：郊环隧道 2014 年开工时总投资约 72.625 亿元；浦东段主线 7 个施工标段于 2020 年中标，总中标金额 57.35 亿元。投资方上海城投公路投资（集团）有限公司在 2023 年的债券募集说明书中称，浦东段预计总投资 125.82 亿元。一个工程项目数据库称浦东段投资 130.24 亿元，该数字未在官方来源中查到。",
         "各段投资方各不相同。2009 年通车的浦东段由上海东环高速公路发展有限公司投资建设；郊环隧道由上海城投公路投资（集团）有限公司投资；浦东段主线由上海城投集团投资，两侧地面辅道由浦东新区投资。"
       ]
     },
@@ -79,8 +79,8 @@
     },
     {
       "label": { "en": "Pudong riverside section (about 18 km, under construction)", "zh": "沿江通道浦东段（约 18 公里，在建）" },
-      "value": { "en": "Main-line contracts let for 5.735 billion yuan (2020). Total investment reported at 13.024 billion yuan by a project database; not checked against an official source.", "zh": "主线施工 7 个标段总中标金额 57.35 亿元（2020）。总投资据工程项目数据库为 130.24 亿元，未与官方来源核对。" },
-      "source": "People's Daily Online (Shanghai), 22 September 2020; tgnet.com project record, updated August 2026"
+      "value": { "en": "Main-line contracts let for 5.735 billion yuan (2020). Planned total investment 12.582 billion yuan, of which 10.229 billion borne by the Shanghai Chengtou Highway Investment group (2023). Total investment reported at 13.024 billion yuan by a project database; not checked against an official source.", "zh": "主线施工 7 个标段总中标金额 57.35 亿元（2020）。项目预计总投资 125.82 亿元，其中上海城投公路投资（集团）有限公司承担 102.29 亿元（2023 年）。总投资据工程项目数据库为 130.24 亿元，未与官方来源核对。" },
+      "source": "People's Daily Online (Shanghai), 22 September 2020; Shanghai Chengtou Highway Investment (Group) Co., prospectus for its 2023 corporate bonds to professional investors, Shanghai Stock Exchange, October 2023; tgnet.com project record, updated August 2026"
     },
     {
       "label": { "en": "Funding", "zh": "出资方" },

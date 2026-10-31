@@ -26,11 +26,11 @@
     {
       "key": "history",
       "en": [
-        "The Juchipila canyon was the line of the first attempt at a royal road from Guadalajara to the silver mines of Zacatecas, according to a study in an academic journal of regional history. The modern road came late: the Spanish engineering firm Ineco dates the free federal road to the late 1950s, and a column in the Saltillo paper Zócalo says the Saltillo–Zacatecas–Guadalajara road was put into service in 1965. The same column records that the narrow-gauge Coahuila–Zacatecas railway, which had served the desert towns between Saltillo and Concepción del Oro, made its last run on 22 June 1977.",
+        "The Juchipila canyon was the line of the first attempt at a royal road from Guadalajara to the silver mines of Zacatecas, according to a study in an academic journal of regional history. The modern road came late. President Adolfo López Mateos's annual reports to Congress list Guadalajara–Zacatecas as under construction in 1961 and Guadalajara–Saltillo in 1962 and 1963, and his last, on 1 September 1964, counts Guadalajara–Zacatecas among the roads finished during his term; a column in the Saltillo paper Zócalo says the Saltillo–Zacatecas–Guadalajara road was put into service in 1965. The same column records that the narrow-gauge Coahuila–Zacatecas railway, which had served the desert towns between Saltillo and Concepción del Oro, made its last run on 22 June 1977.",
         "The road to the coast was rebuilt as a toll motorway. The Guadalajara–Colima concession was granted on 20 October 1987, and the road was in operation by January 1989. Between 2004 and 2012 the 343 km between Zacatecas and Saltillo were modernised, and President Felipe Calderón inaugurated the work on 20 March 2012."
       ],
       "zh": [
-        "据一份地区史学术期刊上的研究，胡奇皮拉峡谷是瓜达拉哈拉通往萨卡特卡斯银矿的王家大道最初尝试的线路。现代公路来得较晚：西班牙工程公司 Ineco 将这条免费联邦公路的建成定在 1950 年代后期，萨尔蒂约报纸《Zócalo》的一篇专栏则称萨尔蒂约—萨卡特卡斯—瓜达拉哈拉公路于 1965 年投入使用。同一专栏记载，曾服务萨尔蒂约至孔塞普西翁德尔奥罗之间沙漠城镇的科阿韦拉—萨卡特卡斯窄轨铁路，于 1977 年 6 月 22 日开出最后一班车。",
+        "据一份地区史学术期刊上的研究，胡奇皮拉峡谷是瓜达拉哈拉通往萨卡特卡斯银矿的王家大道最初尝试的线路。现代公路来得较晚。阿道弗·洛佩斯·马特奥斯总统向国会提交的年度政府报告中，1961 年将瓜达拉哈拉—萨卡特卡斯公路列为在建工程，1962 和 1963 年将瓜达拉哈拉—萨尔蒂约公路列为在建工程；他 1964 年 9 月 1 日的最后一份报告把瓜达拉哈拉—萨卡特卡斯公路列入其任内完工的公路。萨尔蒂约报纸《Zócalo》的一篇专栏则称萨尔蒂约—萨卡特卡斯—瓜达拉哈拉公路于 1965 年投入使用。同一专栏记载，曾服务萨尔蒂约至孔塞普西翁德尔奥罗之间沙漠城镇的科阿韦拉—萨卡特卡斯窄轨铁路，于 1977 年 6 月 22 日开出最后一班车。",
         "通往海岸的路段被改建为收费高速。瓜达拉哈拉—科利马特许于 1987 年 10 月 20 日授予，到 1989 年 1 月已投入运营。2004 至 2012 年间，萨卡特卡斯至萨尔蒂约的 343 公里进行了改造，费利佩·卡尔德龙总统于 2012 年 3 月 20 日为工程剪彩。"
       ]
     },
@@ -71,11 +71,12 @@
     },
     {
       "label": { "en": "Opening of the Saltillo–Zacatecas–Guadalajara road", "zh": "萨尔蒂约—萨卡特卡斯—瓜达拉哈拉公路通车" },
-      "value": { "en": "Reported in service in 1965 by a newspaper column, and dated to the late 1950s by Ineco; not checked against SCT records", "zh": "一篇报纸专栏称 1965 年投入使用，Ineco 则定在 1950 年代后期；未与交通部记录核对" },
-      "source": "Zócalo Saltillo, history column; Ineco, project page on Federal Highway 54"
+      "value": { "en": "Guadalajara–Zacatecas under construction in 1961 and Guadalajara–Saltillo in 1962 and 1963; Guadalajara–Zacatecas listed as finished by 1 September 1964. A newspaper column gives 1965 for the whole Saltillo–Zacatecas–Guadalajara road; not checked against SCT records", "zh": "瓜达拉哈拉—萨卡特卡斯公路 1961 年在建，瓜达拉哈拉—萨尔蒂约公路 1962 和 1963 年在建；截至 1964 年 9 月 1 日，瓜达拉哈拉—萨卡特卡斯公路被列为已完工。一篇报纸专栏称萨尔蒂约—萨卡特卡斯—瓜达拉哈拉全线于 1965 年投入使用；未与交通部记录核对" },
+      "source": "Adolfo López Mateos, Third to Sixth Informes de Gobierno, 1 September 1961, 1962, 1963 and 1964, in Cámara de Diputados, Informes presidenciales: Adolfo López Mateos; Zócalo Saltillo, history column"
     }
   ],
   "timeline": [
+    { "year": 1964, "en": "President López Mateos's last report to Congress, on 1 September, lists Guadalajara–Zacatecas among the roads finished during his term.", "zh": "9 月 1 日，洛佩斯·马特奥斯总统向国会提交的最后一份政府报告把瓜达拉哈拉—萨卡特卡斯公路列入其任内完工的公路。" },
     { "year": 1965, "en": "The Saltillo–Zacatecas–Guadalajara road is reported in service.", "zh": "据报道，萨尔蒂约—萨卡特卡斯—瓜达拉哈拉公路投入使用。" },
     { "year": 1977, "en": "The Coahuila–Zacatecas narrow-gauge railway makes its last run on 22 June.", "zh": "6 月 22 日，科阿韦拉—萨卡特卡斯窄轨铁路开出最后一班车。" },
     { "year": 1987, "en": "The Guadalajara–Colima toll road is conceded on 20 October.", "zh": "10 月 20 日，瓜达拉哈拉—科利马收费路授予特许。" },

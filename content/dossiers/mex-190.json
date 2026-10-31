@@ -38,10 +38,10 @@
     {
       "key": "money",
       "en": [
-        "No cost has been found for the road built in the 1940s. Its modern counterpart across the Oaxaca sierra, the Mitla–Tehuantepec highway, was conceded on 27 May 2010 and opened in stages: 28.8 km in September 2015, 49.1 km in March 2016, and the last 57 km on 24 January 2025, when President Claudia Sheinbaum opened it and the journey fell from four and a half hours to two and a half. Its cost is reported differently: 42,752 million pesos by the Oaxaca state government at the opening, 45,752 million in the sum of the federal infrastructure fund FONADIN's figures, and 32,977 million as planned by the presidency in 2024."
+        "No cost has been found for the road built in the 1940s. Its modern counterpart across the Oaxaca sierra, the Mitla–Tehuantepec highway, was conceded on 27 May 2010 and opened in stages: 28.8 km in September 2015, 49.1 km in March 2016, and the last 57 km on 24 January 2025, when President Claudia Sheinbaum opened it and the journey fell from four and a half hours to two and a half. Official figures for its cost differ: 42,752 million pesos from the Oaxaca state government at the opening, 45,752 million as the total investment on the project page of the federal infrastructure fund FONADIN, and 32,977 million in the infrastructure ministry's presentation published by the presidency in January 2024, a figure the Oaxaca government also used the day before the opening."
       ],
       "zh": [
-        "未找到 1940 年代所修公路的造价。如今穿越瓦哈卡山区、与之对应的米特拉—特万特佩克公路于 2010 年 5 月 27 日授予特许，分段通车：2015 年 9 月 28.8 公里，2016 年 3 月 49.1 公里，最后 57 公里于 2025 年 1 月 24 日由克劳迪娅·辛鲍姆总统宣布通车，行程由四个半小时缩短为两个半小时。其造价说法不一：通车时瓦哈卡州政府称 427.52 亿比索，联邦基础设施基金 FONADIN 的数字合计为 457.52 亿，总统府 2024 年的计划数则为 329.77 亿。"
+        "未找到 1940 年代所修公路的造价。如今穿越瓦哈卡山区、与之对应的米特拉—特万特佩克公路于 2010 年 5 月 27 日授予特许，分段通车：2015 年 9 月 28.8 公里，2016 年 3 月 49.1 公里，最后 57 公里于 2025 年 1 月 24 日由克劳迪娅·辛鲍姆总统宣布通车，行程由四个半小时缩短为两个半小时。官方公布的造价不一：通车时瓦哈卡州政府称 427.52 亿比索，联邦基础设施基金 FONADIN 项目页面所列总投资为 457.52 亿，总统府 2024 年 1 月发布的基础设施部介绍材料则为 329.77 亿，瓦哈卡州政府在通车前一天也使用了这一数字。"
       ]
     }
   ],
@@ -62,8 +62,8 @@
     },
     {
       "label": { "en": "Mitla–Tehuantepec highway", "zh": "米特拉—特万特佩克公路" },
-      "value": { "en": "169 km. Cost reported at 42,752 million pesos by the Oaxaca government (2025), at 45,752 million in the sum of FONADIN's figures, and at 32,977 million as planned by the presidency (2024); not checked against final federal accounts", "zh": "169 公里。造价据瓦哈卡州政府为 427.52 亿比索（2025 年），按 FONADIN 数字合计为 457.52 亿，总统府计划数为 329.77 亿（2024 年）；未与联邦最终账目核对" },
-      "source": "Gobierno de Oaxaca, 24 January 2025; FONADIN; Presidencia de la República, 2024"
+      "value": { "en": "169 km. Official cost figures differ: 42,752 million pesos (Oaxaca government, 24 January 2025); 45,752 million total investment (FONADIN project page, figures marked as subject to change); 32,977 million (SICT presentation published by the presidency, 18 January 2024, also used by the Oaxaca government on 23 January 2025)", "zh": "169 公里。官方造价数字不一：427.52 亿比索（瓦哈卡州政府，2025 年 1 月 24 日）；总投资 457.52 亿比索（FONADIN 项目页面，注明数字可能变动）；329.77 亿比索（总统府发布的基础设施部介绍材料，2024 年 1 月 18 日；瓦哈卡州政府 2025 年 1 月 23 日也使用此数）" },
+      "source": "Gobierno de Oaxaca, Coordinación de Comunicación Social, “Carretera Mitla-Tehuantepec, otro logro de la Cuarta Transformación”, 24 January 2025, and “Supercarretera Mitla-Tehuantepec, un sueño cumplido para las y los oaxaqueños”, 23 January 2025; FONADIN, “Autopista Mitla-Tehuantepec”, project page; Presidencia de la República, “Gobierno de la 4T entregará al pueblo de México más de 8 mil kilómetros construidos en carreteras: SICT”, 18 January 2024"
     },
     {
       "label": { "en": "Pan-American road in Mexico", "zh": "墨西哥境内泛美公路" },

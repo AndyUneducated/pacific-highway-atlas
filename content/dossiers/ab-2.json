@@ -41,10 +41,10 @@
     {
       "key": "money",
       "en": [
-        "No total cost for the road has been published. The figure most often repeated, more than $2 billion invested since the divided expressway was begun in the 1960s, comes from a provincial web page and is undated. Recent spending is project by project: $32 million on the Queen Elizabeth II Highway in 2005 alone, and a rebuild of about 11 km through Red Deer, where the interchanges and bridges date from the 1960s, divided into three sections, of which only the first is funded and under way."
+        "No total cost for the road has been published. The figure often repeated for it, more than $2 billion, is the province's figure for the whole CANAMEX Corridor in Alberta, which also includes parts of six other highways; the province gives no share for Highway 2. Recent spending is project by project: $32 million on the Queen Elizabeth II Highway in 2005 alone, and a rebuild of about 11 km through Red Deer, where the interchanges and bridges date from the 1960s, divided into three sections, of which only the first is funded and under way."
       ],
       "zh": [
-        "这条路从未公布总造价。最常被引用的数字——自 20 世纪 60 年代开建分隔快速路以来投入逾 20 亿加元——出自一份未注明日期的省政府网页。近年的开支按项目计：仅 2005 年一年，伊丽莎白二世女王公路即投入 3,200 万加元；穿过红鹿城的约 11 公里路段正在改建，那里的立交与桥梁建于 20 世纪 60 年代，工程分为三段，目前只有第一段获得拨款并已开工。"
+        "这条路从未公布总造价。常被引作其造价的逾 20 亿加元，其实是省政府对阿尔伯塔境内整条 CANAMEX 走廊的投入数字，该走廊还包括另外六条公路的部分路段；省政府未单列 2 号公路的份额。近年的开支按项目计：仅 2005 年一年，伊丽莎白二世女王公路即投入 3,200 万加元；穿过红鹿城的约 11 公里路段正在改建，那里的立交与桥梁建于 20 世纪 60 年代，工程分为三段，目前只有第一段获得拨款并已开工。"
       ]
     }
   ],
@@ -56,8 +56,8 @@
     },
     {
       "label": { "en": "Construction cost", "zh": "造价" },
-      "value": { "en": "No total published. Red Deer bypass $7 million (announced 1960), as cited in English Wikipedia, Alberta Highway 2, from the Red Deer Advocate. Reported at more than $2 billion invested since the 1960s; not checked against any provincial budget document.", "zh": "未公布总额。红鹿城绕行线 700 万加元（1960 年公布），据英文维基百科“阿尔伯塔 2 号公路”条目所引《红鹿城倡导报》。另有报道称自 20 世纪 60 年代以来投入逾 20 亿加元；未经省级预算文件核实。" },
-      "source": "English Wikipedia, Alberta Highway 2 (citing the Red Deer Advocate and a Government of Alberta web page)"
+      "value": { "en": "No total published. Red Deer bypass $7 million (announced 1960), as cited in English Wikipedia, Alberta Highway 2, from the Red Deer Advocate. The province says it has invested more than $2 billion in the CANAMEX Corridor, about 1,150 km over parts of Highways 4, 3, 2, 201, 216, 16 and 43, with no start year and no share given for Highway 2; a ministry page of late 2014 gave the same figure for the corridor since 1998.", "zh": "未公布总额。红鹿城绕行线 700 万加元（1960 年公布），据英文维基百科“阿尔伯塔 2 号公路”条目所引《红鹿城倡导报》。省政府称已在 CANAMEX 走廊投入逾 20 亿加元；该走廊约 1,150 公里，包括 4、3、2、201、216、16 与 43 号公路的部分路段，未注明起始年份，也未单列 2 号公路的份额；2014 年底的一份交通厅网页则称这是 1998 年以来对该走廊的投入。" },
+      "source": "English Wikipedia, Alberta Highway 2 (citing the Red Deer Advocate); Government of Alberta, Economic corridor development (alberta.ca, retrieved October 2026); Alberta Transportation, “Highway 43 twinning complete” web page (2014, archived April 2015)"
     },
     {
       "label": { "en": "Funding", "zh": "出资方" },

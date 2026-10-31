@@ -67,8 +67,8 @@
     },
     {
       "label": { "en": "Length", "zh": "全长" },
-      "value": { "en": "More than 3,000 km. A news portal gives 3,525 km: reported at 3,525 km; not checked against an official source.", "zh": "3000 余公里。一家门户网站记 3525 公里；该数字未与官方资料核对。" },
-      "source": "Ngari Prefecture tourism, via Tibet Autonomous Region Department of Culture and Tourism, 2025; 163.com (weak)"
+      "value": { "en": "More than 3,000 km by the Ngari tourism office; about 3,526 km by the route's chainage, which reaches K3525+850 at the Gyirong border gate.", "zh": "据阿里地区旅游部门为 3000 余公里；按路线桩号约 3526 公里，吉隆国门处桩号为 K3525+850。" },
+      "source": "Ngari Prefecture tourism, via Tibet Autonomous Region Department of Culture and Tourism, 2025; Tibet Autonomous Region Department of Transport, road network bulletin, 2 September 2026"
     },
     {
       "label": { "en": "Tarim Desert Highway, length", "zh": "塔里木沙漠公路长度" },

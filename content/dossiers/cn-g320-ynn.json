@@ -49,10 +49,10 @@
     {
       "key": "money",
       "en": [
-        "No cost exists for the whole route. For the Burma Road, Xinhua gives more than 2 million yuan for the section built by Tengchong county alone, where more than 2,000 of 50,000 workers died. The modern rebuilds are priced separately: the Tongxiang Fengming–Dama section, 31.6 km, cost 3.747 billion yuan as a public–private partnership; the Jiande Yangcunqiao–Huizeli section, 62.51 km, was approved at 7.765 billion yuan; and the Gao'an realignment in Jiangxi, 27.45 km, is reported at 1.771 billion yuan by a construction trade site, a figure not checked against an official one."
+        "No cost exists for the whole route. For the Burma Road, Xinhua gives more than 2 million yuan for the section built by Tengchong county alone, where more than 2,000 of 50,000 workers died. The modern rebuilds are priced separately: the Tongxiang Fengming–Dama section, 31.6 km, cost 3.747 billion yuan as a public–private partnership; the Jiande Yangcunqiao–Huizeli section, 62.51 km, was approved at 7.765 billion yuan; and the Gao'an realignment in Jiangxi, 27.41 km, opened in March 2026, is put at 1.25 billion yuan by the Gao'an government; a construction trade site gives 1.771 billion, a figure not checked against an official one."
       ],
       "zh": [
-        "全线没有总造价。滇缅公路方面，新华社记载仅腾冲县承修路段就耗资 200 余万元，5 万民工中 2000 余人牺牲。现代改建各段分别计价：桐乡凤鸣至大麻段 31.6 公里，采用 PPP 模式，投资 37.47 亿元；建德杨村桥至徽泽里段 62.51 公里，批复投资 77.65 亿元；江西高安改线 27.45 公里，据建筑行业网站投资 17.71 亿元，该数字未与官方资料核对。"
+        "全线没有总造价。滇缅公路方面，新华社记载仅腾冲县承修路段就耗资 200 余万元，5 万民工中 2000 余人牺牲。现代改建各段分别计价：桐乡凤鸣至大麻段 31.6 公里，采用 PPP 模式，投资 37.47 亿元；建德杨村桥至徽泽里段 62.51 公里，批复投资 77.65 亿元；江西高安改线 27.41 公里，2026 年 3 月通车，据高安市政府投资 12.5 亿元；一家建筑行业网站记 17.71 亿元，该数字未与官方资料核对。"
       ]
     }
   ],
@@ -91,9 +91,9 @@
       "source": "Zhejiang Development and Reform Commission, via The Paper (澎湃新闻)"
     },
     {
-      "label": { "en": "Gao'an realignment, Jiangxi (27.45 km)", "zh": "江西高安改线（27.45 公里）" },
-      "value": { "en": "Reported at 1.771 billion yuan; not checked against an official approval.", "zh": "据报道 17.71 亿元；未与官方批复核对。" },
-      "source": "建筑工程网 jcgcw (trade site, weak)"
+      "label": { "en": "Gao'an realignment, Jiangxi (27.41 km)", "zh": "江西高安改线（27.41 公里）" },
+      "value": { "en": "1.25 billion yuan; 25.25 km main line and 2.16 km link; opened for trial operation on 28 March 2026. A trade site gives 1.771 billion: reported at 1.771 billion yuan; not checked against an official approval.", "zh": "12.5 亿元；主线 25.25 公里、连接线 2.16 公里；2026 年 3 月 28 日通车试运营。一家行业网站记 17.71 亿元；该数字未与官方批复核对。" },
+      "source": "Gao'an Municipal People's Government, government work report, 1 February 2024; Gao'an Municipal Transport Bureau and traffic police, notice of trial operation, 26 March 2026; 建筑工程网 jcgcw (trade site, weak)"
     }
   ],
   "timeline": [
