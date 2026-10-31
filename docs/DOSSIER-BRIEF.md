@@ -1,22 +1,28 @@
-# Writing an East Asian route dossier
+# Writing a route dossier
 
-The brief given to each writer of the M3 and M4 dossiers ([ROADMAP.md](ROADMAP.md)). A dossier is
+The brief given to each writer of a dossier, in any region ([ROADMAP.md](ROADMAP.md)). A dossier is
 the hand-written part of a route's detail page: history, engineering, alignment and the towns it
 serves, cost, who paid, driving notes and a dated timeline.
 
 ## Read first
 
-- `content/dossiers/tw-fwy-1.json`, `cn-g4.json` and `cn-g6-qhi.json` (an anchored route drawn in
-  pieces), for structure, tone and density.
-- `content/dossiers/on-401.json`, a North American example of the same format.
+- For structure, tone and density, one example per region:
+  - `content/dossiers/i-70.json`, `us-1.json`;
+  - `on-401.json`;
+  - `mex-015.json`;
+  - `cn-g4.json`, and `cn-g6-qhi.json`, an anchored route drawn in pieces;
+  - `tw-fwy-1.json`;
+  - `hk-3.json`.
 - `tools/build-content.mjs`, the validator.
 
 ## Format: one file per route, `content/dossiers/<route-id>.json`
 
-- `id`: the atlas route id (`hk-3`, `tw-fwy-3`, `cn-g4`).
-- `route`: `{ "sys": "<system id>", "num": "<number>" }`. System ids: `cn-expressway`,
-  `cn-national`, `tw-freeway`, `tw-provincial`, `hk-route`. Where several atlas routes share the
-  number (mainland routes are often split by province, `cn-g6-qhi` and `cn-g6-xiz`), add
+- `id`: the atlas route id (`i-70`, `on-401`, `mex-015`, `hk-3`, `tw-fwy-3`, `cn-g4`).
+- `route`: `{ "sys": "<system id>", "num": "<number>" }`. System ids are in `assets/schema.js`:
+  `us-interstate`, `us-numbered`, `us-state`, `ca-tch`, `ca-nhs`, `ca-provincial`, `mx-federal`,
+  `mx-state`, `cn-expressway`, `cn-national`, `cn-provincial`, `tw-freeway`, `tw-provincial`,
+  `hk-route`. Where several atlas routes share the number (mainland routes split by province,
+  `cn-g6-qhi` and `cn-g6-xiz`; a US route's number reused in several states), add
   `"anchor": [lon, lat]`, a point within 25 km of the piece the dossier is about; the build lists
   the candidates otherwise. Write about the whole route, anchor on the longest piece, and do not
   invent lengths. Route rows are in `data/index.json` (fields: id, label, sys, tier, st, mi, base,
@@ -24,6 +30,10 @@ serves, cost, who paid, driving notes and a dated timeline.
 - `name` {en, zh}: the road's common name; `aka`: former or popular names as {en, zh}.
 - `tagline` {en, zh}: one specific line, not marketing.
 - `completedYear`: only if a full-route completion year is sourced.
+- `officialMi` with `mileageSource`: only for the stretch the atlas draws (D-59). An Interstate
+  already has FHWA's figure, so give none unless it agrees within 2%. Otherwise it must be within
+  20% of the measured length, or `officialCovers` must list the atlas route ids it spans. A
+  Canadian provincial highway already shows its province's own length (D-87).
 - `termini.start` and `termini.end` {en, zh, at}: concrete places, `at` as `[lon, lat]`. The build
   uses `at` to put the ends the right way round and warns if it is more than 60 km from either drawn
   end; for a route drawn in pieces, name the drawn piece's ends and give the real terminus in prose.
@@ -39,7 +49,7 @@ serves, cost, who paid, driving notes and a dated timeline.
 - zh is Simplified Chinese, for Taiwan and Hong Kong roads too, with mainland punctuation:
   quotation marks are “” and, inside them, ‘’, never 「」 or 『』, even quoting a Taiwanese name.
 - en is plain and precise, British spelling. No hype words.
-- Money in the source's currency (元, NT$, HK$), with the year.
+- Money in the source's currency (US$, C$, pesos, 元, NT$, HK$), with the year.
 - People's names in en only in a spelling a source gives; otherwise describe the person's role.
   The zh text keeps the name.
 
@@ -53,7 +63,8 @@ serves, cost, who paid, driving notes and a dated timeline.
 - Where sources disagree, give each with its source rather than picking one.
 - A mainland national expressway's cost is published only per section; say that in a `why` and
   give sourced section costs as separate figures.
-- Hong Kong traffic is already on the page from the census; do not repeat its numbers.
+- Traffic the page already shows from a source (HPMS, the provinces, SICT, the Taiwan bureaus,
+  Hong Kong's census) is not repeated in the dossier.
 
 ## Validate, do not publish
 
