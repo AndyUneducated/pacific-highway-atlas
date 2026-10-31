@@ -9,17 +9,13 @@
 
 import {
   t, getLang, stateName, num, isProvince, ownerLabel, lenNum, routeLabel,
-  lenOf, lenOfKm, lenUnit, dist, distKm, distAlt, speedKph, speedMph, heightFt, getUnits,
+  lenOf, lenOfKm, lenUnit, dist, distKm, distAlt, speedKph, speedMph, heightFt, getUnits, esc,
 } from './i18n.js';
 import { app, shieldHtml, clearSelection, fitTo, loadDossier, routeNames, whereOf } from './app.js';
 import { startFly } from './fly.js';
 import { tollSection } from './tolls.js';
 import { loadSpeed, speedColour, speedNum, speedUnit, bandLabel } from './speed.js';
 import { CLASS_COLOUR, SECTION_ORDER, countryOf } from './schema.js';
-
-function esc(s) {
-  return String(s ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
-}
 
 function prop(f, key) {
   const v = f?.properties?.[key];

@@ -2,8 +2,8 @@
    Detail panel, overlay sheets and the flythrough live in their own modules. */
 
 import {
-  t, setLang, getLang, stateName, dist, num, lenOf, isProvince, jurisdictionNames,
-  routeLabel, labelAlias, countryOfJuris, setUnits, getUnits, defaultUnits,
+  t, setLang, getLang, stateName, dist, num, isProvince, jurisdictionNames,
+  routeLabel, labelAlias, countryOfJuris, setUnits, getUnits, defaultUnits, esc,
 } from './i18n.js';
 import { renderDetail } from './detail.js';
 import { openSheet, closeSheet, isSheetOpen } from './sheets.js';
@@ -154,8 +154,6 @@ export function routeNames(r) {
     alt: nm.alt ?? [],
   };
 }
-
-const esc = (s) => String(s ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 
 /** The place that tells a route from its namesakes, in the reader's language. */
 export const whereOf = (r) => (getLang() === 'zh' && r?.wz) || r?.where || null;

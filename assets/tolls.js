@@ -22,7 +22,7 @@
    flat and time-varying, placed at the toll points they name; the fare is
    the private car's. */
 
-import { t, getLang, num, distKm, routeLabel } from './i18n.js';
+import { t, getLang, num, distKm, routeLabel, esc } from './i18n.js';
 import { app, toast, select, whereOf, renderLegend } from './app.js';
 import { regionOf } from './schema.js';
 
@@ -38,9 +38,6 @@ let dataPromise = null;
 let data = null;
 let popup = null;
 
-function esc(s) {
-  return String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]);
-}
 const pick = (o) => (o == null ? '' : typeof o === 'string' ? o : o[getLang()] ?? o.en ?? '');
 
 function load() {

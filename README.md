@@ -378,7 +378,7 @@ one re-run. None of it can be committed; GitHub rejects files over 100 MB.
 | Path | Committed | What it holds |
 | --- | :---: | --- |
 | `index.html` | ✅ | the whole page: markup, no templating |
-| `assets/*.js` | ✅ | nine ES modules, loaded directly by the browser; `schema.js` is also read by `tools/` |
+| `assets/*.js` | ✅ | ES modules, loaded directly by the browser; `schema.js` is also read by `tools/` |
 | `assets/vendor/` | ✅ | MapLibre GL JS 4.7.1 |
 | `tools/fetch-*.mjs` | ✅ | acquisition, the only scripts that touch the network |
 | `tools/build-*.mjs` | ✅ | the pipeline, offline and deterministic |

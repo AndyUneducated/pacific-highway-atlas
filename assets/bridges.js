@@ -9,7 +9,7 @@
    built in 1998 on a road opened in 1952 dates a replacement, so the popup
    never offers it as the road's age. */
 
-import { t, num, getUnits } from './i18n.js';
+import { t, num, getUnits, esc } from './i18n.js';
 import { app, toast, renderLegend } from './app.js';
 import { regionOf } from './schema.js';
 
@@ -29,10 +29,6 @@ let data = null;
 let popup = null;
 let us = null;
 const usLoaded = new Set();
-
-function esc(s) {
-  return String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]);
-}
 
 function load() {
   dataPromise ||= fetch('data/bridges.json').then((r) => (r.ok ? r.json() : null)).catch(() => null)

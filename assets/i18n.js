@@ -1726,6 +1726,11 @@ function zhLabel(label) {
 /** A label's Chinese form where it has one, for the search haystack. */
 export function labelAlias(label) { return zhLabel(label) ?? ''; }
 
+/** Text made safe to put inside HTML, attributes included. */
+export function esc(s) {
+  return String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]);
+}
+
 export function num(n, digits = 0) {
   if (n == null || Number.isNaN(n)) return '—';
   return n.toLocaleString(lang === 'zh' ? 'zh-CN' : 'en-US', {

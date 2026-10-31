@@ -10,7 +10,7 @@
    crossing is on, so the routes listed with one are simply the atlas routes
    nearest it, and are labelled that way. */
 
-import { t, stateName, distKm, routeLabel, ownerLabel, getUnits, getLang } from './i18n.js';
+import { t, stateName, distKm, routeLabel, ownerLabel, getUnits, getLang, esc } from './i18n.js';
 import { app, toast, select, renderLegend } from './app.js';
 
 const SRC = 'xing';
@@ -41,10 +41,6 @@ let data = null;
 let popup = null;
 
 export function isCrossingsOn() { return on; }
-
-function esc(s) {
-  return String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]);
-}
 
 /** True when a crossing is under the pointer, so a route beneath it leaves the click alone. */
 export function crossingAt(point) {
