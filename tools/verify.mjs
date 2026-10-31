@@ -945,6 +945,21 @@ await step('a route in a publishing province carries traffic', async () => {
 });
 await shot('16-ontario-401-traffic.png');
 
+await step('a provincial length far from the drawn road is shown, and says why', async () => {
+  // Ontario has handed most of Highway 2 to the municipalities and counts 0.9 km
+  // of it. The province's figure is still shown (D-87), so the panel must say
+  // the two lengths describe different roads rather than leave it unexplained.
+  await page.keyboard.press('Escape');
+  await page.fill('#q', 'ON 2');
+  await page.waitForTimeout(700);
+  await page.locator('#results .res', { has: page.locator('.res-name', { hasText: /^ON 2$/ }) }).first().click();
+  await page.waitForSelector('#detail:not(.hidden)', { timeout: 10000 });
+  await page.waitForTimeout(2200);
+  const all = await page.textContent('#detail');
+  if (!/Ontario MTO/.test(all)) throw new Error('no provincial official length on Ontario 2');
+  if (!/More than 20% apart/.test(all)) throw new Error('Ontario 2\'s far-apart official length is not explained');
+});
+
 await step('a Mexican route gives SICT\'s free-network length in its provenance, not its headline', async () => {
   // SICT's sum is the whole route with its branches and without its toll
   // roads (P10), so it must sit beside the drawn total and never read as the

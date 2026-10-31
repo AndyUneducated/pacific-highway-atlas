@@ -1147,7 +1147,7 @@ export async function renderDetail(id) {
       <span class="fig-v">${delta > 0 ? '+' : ''}<b>${num(lenOf(delta))}</b> ${lenUnit()}
       <span class="src">${t(heroKind !== 'Official' ? 'cn.deltaWhy'
     : dossier?.officialMi ? 'len.deltaWhy' : p.offSrc === 'thb' ? 'tw.deltaWhy' : p.offSrc === 'nfb' ? 'tw.fwyDeltaWhy'
-      : p.offSrc === 'ca' ? 'ca.deltaWhy' : 'len.deltaWhy')}</span></span></div>` : ''}
+      : p.offSrc === 'ca' ? (Math.abs(officialMi / measuredMi - 1) > 0.2 ? 'ca.deltaFar' : 'ca.deltaWhy') : 'len.deltaWhy')}</span></span></div>` : ''}
   </div>` : '';
 
   // Every page says where its numbers came from, and for a Canadian route

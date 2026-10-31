@@ -1269,11 +1269,10 @@ const medianOf = (xs) => {
 /**
  * A province's own length for one of its highways: the sum of the sections it
  * manages (ca-lengths.json). It goes on the longest piece the atlas draws of
- * that number, as Taiwan's register does, and only where it lies within 20% of
- * that piece (D-87). Beyond that the province's sections describe a different
- * road from the one drawn - most of Ontario's Highway 2 was handed to the
- * municipalities, and the 0.9 km the ministry still counts is not its length -
- * and a headline "official" figure would be wrong rather than merely different.
+ * that number, as Taiwan's register does (D-87). It is shown however far it is
+ * from the drawn piece; beyond 20% the panel says why the two describe
+ * different roads - most of Ontario's Highway 2 was handed to the
+ * municipalities, and the ministry still counts 0.9 km of it.
  */
 function attachCanadianLengths(routes, ca) {
   if (!ca?.provinces) return;
@@ -1291,7 +1290,7 @@ function attachCanadianLengths(routes, ca) {
       const r = longest.get(`${st}|${number}`);
       if (!r) { t.unmatched++; continue; }
       const mi = km / KM_PER_MI;
-      if (Math.abs(mi / r.mi - 1) > 0.2) { t.apart++; continue; }
+      if (Math.abs(mi / r.mi - 1) > 0.2) t.apart++;
       r.offMi = mi;
       r.offSrc = 'ca';
       t.shown++;
@@ -1299,7 +1298,7 @@ function attachCanadianLengths(routes, ca) {
   }
   ca.tally = tally;
   console.log('  Canadian provincial lengths: '
-    + Object.entries(tally).map(([st, t]) => `${st} ${t.shown} (${t.apart} over 20% apart, ${t.unmatched} not drawn)`).join(', '));
+    + Object.entries(tally).map(([st, t]) => `${st} ${t.shown} (${t.apart} of them over 20% apart, ${t.unmatched} not drawn)`).join(', '));
 }
 
 /**
